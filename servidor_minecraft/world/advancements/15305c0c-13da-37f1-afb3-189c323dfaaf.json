@@ -1,49 +1,24 @@
 {
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 17:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-03 17:07:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
+      "minecraft:beach": "2024-12-03 17:08:06 +0000",
+      "minecraft:river": "2024-12-03 17:08:58 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-03 17:55:37 +0000",
+      "minecraft:forest": "2024-12-03 17:07:31 +0000",
+      "minecraft:desert": "2024-12-03 17:13:43 +0000",
+      "minecraft:plains": "2024-12-03 17:56:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-03 17:10:05 +0000"
     },
     "done": true
   },
@@ -58,21 +33,6 @@
       "in_water": "2024-12-03 17:10:05 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-03 17:16:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:beach": "2024-12-03 17:08:06 +0000",
-      "minecraft:river": "2024-12-03 17:08:58 +0000",
-      "minecraft:forest": "2024-12-03 17:07:31 +0000",
-      "minecraft:desert": "2024-12-03 17:13:43 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
@@ -107,6 +67,54 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-03 17:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-03 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-03 17:54:46 +0000"
     },
     "done": true
   },
