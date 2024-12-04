@@ -1,157 +1,160 @@
-[03Dec2024 17:51:14.313] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[03Dec2024 17:51:14.320] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[03Dec2024 17:51:14.742] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03Dec2024 17:51:14.821] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/irre/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[03Dec2024 17:51:15.212] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[03Dec2024 17:51:15.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Dec2024 17:51:15.220] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Dec2024 17:51:15.222] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Dec2024 17:51:15.367] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[03Dec2024 17:51:19.169] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Dec2024 17:51:19.228] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[03Dec2024 17:51:35.180] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[03Dec2024 17:51:35.198] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[03Dec2024 17:51:36.016] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03Dec2024 17:51:36.019] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[03Dec2024 17:51:36.084] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[03Dec2024 17:51:36.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[03Dec2024 17:51:36.099] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[03Dec2024 17:51:36.110] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[03Dec2024 17:51:36.113] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[03Dec2024 17:51:36.235] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
-[03Dec2024 17:51:36.240] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
-[03Dec2024 17:51:36.248] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
-[03Dec2024 17:51:36.255] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
-[03Dec2024 17:51:36.258] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
-[03Dec2024 17:51:36.267] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
-[03Dec2024 17:51:36.272] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
-[03Dec2024 17:51:36.277] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
-[03Dec2024 17:51:36.280] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
-[03Dec2024 17:51:36.288] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
-[03Dec2024 17:51:36.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
-[03Dec2024 17:51:36.323] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
-[03Dec2024 17:51:36.327] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
-[03Dec2024 17:51:36.333] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
-[03Dec2024 17:51:36.337] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
-[03Dec2024 17:51:36.343] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
-[03Dec2024 17:51:36.347] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
-[03Dec2024 17:51:36.355] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
-[03Dec2024 17:51:36.360] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
-[03Dec2024 17:51:36.365] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
-[03Dec2024 17:51:36.375] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
-[03Dec2024 17:51:36.388] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
-[03Dec2024 17:51:36.392] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
-[03Dec2024 17:51:36.398] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
-[03Dec2024 17:51:38.281] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Dec2024 17:51:39.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[03Dec2024 17:51:39.771] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3aa9b797]
-[03Dec2024 17:51:39.789] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[03Dec2024 17:51:42.767] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Dec2024 17:51:44.608] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
-[03Dec2024 17:51:44.609] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
-[03Dec2024 17:51:47.727] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[03Dec2024 17:51:49.316] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[03Dec2024 17:51:49.572] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[03Dec2024 17:51:50.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[03Dec2024 17:51:50.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Dec2024 17:51:50.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Dec2024 17:51:50.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Dec2024 17:51:51.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Dec2024 17:51:51.270] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Dec2024 17:51:51.489] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Dec2024 17:51:51.490] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Dec2024 17:51:51.490] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Dec2024 17:51:51.490] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Dec2024 17:51:51.703] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
-[03Dec2024 17:51:52.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Dec2024 17:52:03.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Dec2024 17:52:13.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.419] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.421] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.422] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.450] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.453] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.476] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.495] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.500] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.507] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.512] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.516] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.522] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.529] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:13.591] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:14.089] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:14.591] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:15.090] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:15.589] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:16.091] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Dec2024 17:52:17.012] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13424 ms
-[03Dec2024 17:52:17.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.490s)! For help, type "help"
-[03Dec2024 17:52:17.047] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
-[03Dec2024 17:52:17.049] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
-[03Dec2024 17:52:17.050] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
-[03Dec2024 17:52:17.051] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
-[03Dec2024 17:52:17.051] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
-[03Dec2024 17:52:17.054] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
-[03Dec2024 17:52:17.055] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
-[03Dec2024 17:52:17.056] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
-[03Dec2024 17:52:17.057] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
-[03Dec2024 17:52:17.057] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
-[03Dec2024 17:52:17.058] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
-[03Dec2024 17:52:17.059] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
-[03Dec2024 17:52:17.062] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
-[03Dec2024 17:52:17.064] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
-[03Dec2024 17:52:17.066] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
-[03Dec2024 17:52:17.067] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
-[03Dec2024 17:52:17.068] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
-[03Dec2024 17:52:17.069] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
-[03Dec2024 17:52:17.071] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
-[03Dec2024 17:52:17.071] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
-[03Dec2024 17:52:17.081] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
-[03Dec2024 17:52:17.083] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
-[03Dec2024 17:52:17.084] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
-[03Dec2024 17:52:17.086] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
-[03Dec2024 17:52:17.088] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
-[03Dec2024 17:52:17.089] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
-[03Dec2024 17:52:17.091] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
-[03Dec2024 17:52:17.092] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
-[03Dec2024 17:52:17.095] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
-[03Dec2024 17:52:17.096] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
-[03Dec2024 17:52:17.099] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
-[03Dec2024 17:52:17.100] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Dec2024 17:53:11.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:42711] logged in with entity id 193 at (-2.764250174760596, 67.0, -65.23003502179888)
-[03Dec2024 17:53:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[03Dec2024 17:54:37.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 1251 block(s)]
-[03Dec2024 17:55:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 5009 block(s)]
-[03Dec2024 17:56:59.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 4454 block(s)]
-[03Dec2024 17:57:54.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 4093 block(s)]
-[03Dec2024 17:59:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 642 block(s)]
-[03Dec2024 18:01:39.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
-[03Dec2024 18:01:39.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
-[03Dec2024 18:03:36.844] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:38189] logged in with entity id 3345 at (106.61392338839202, 63.0, 72.84034045810176)
-[03Dec2024 18:03:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[03Dec2024 18:05:31.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
-[03Dec2024 18:05:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
-[03Dec2024 18:06:24.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:54473] logged in with entity id 3847 at (79.5469030308938, 63.0, 74.76035985224456)
-[03Dec2024 18:06:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[03Dec2024 18:11:03.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 655 block(s)]
-[03Dec2024 18:12:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 605 block(s)]
-[03Dec2024 18:14:58.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
-[03Dec2024 18:14:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
-[03Dec2024 18:15:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[03Dec2024 18:15:14.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Dec2024 18:15:14.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Dec2024 18:15:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Dec2024 18:15:16.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Dec2024 18:15:16.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Dec2024 18:15:16.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Dec2024 18:15:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Dec2024 18:15:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Dec2024 18:15:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Dec2024 18:15:16.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Dec2024 00:57:21.695] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[04Dec2024 00:57:21.712] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[04Dec2024 00:57:23.509] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Dec2024 00:57:23.680] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/irre/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Dec2024 00:57:24.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Dec2024 00:57:24.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Dec2024 00:57:24.221] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Dec2024 00:57:24.227] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Dec2024 00:57:24.416] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[04Dec2024 00:57:29.131] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Dec2024 00:57:29.221] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[04Dec2024 00:57:50.649] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Dec2024 00:57:50.661] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Dec2024 00:57:51.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Dec2024 00:57:51.179] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[04Dec2024 00:57:51.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[04Dec2024 00:57:51.310] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[04Dec2024 00:57:51.314] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[04Dec2024 00:57:51.328] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[04Dec2024 00:57:51.330] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[04Dec2024 00:57:51.493] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[04Dec2024 00:57:51.501] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[04Dec2024 00:57:51.502] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[04Dec2024 00:57:51.503] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[04Dec2024 00:57:51.504] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[04Dec2024 00:57:51.532] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[04Dec2024 00:57:51.536] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[04Dec2024 00:57:51.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[04Dec2024 00:57:51.546] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[04Dec2024 00:57:51.557] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[04Dec2024 00:57:51.570] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[04Dec2024 00:57:51.580] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[04Dec2024 00:57:51.581] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[04Dec2024 00:57:51.582] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[04Dec2024 00:57:51.583] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[04Dec2024 00:57:51.584] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[04Dec2024 00:57:51.601] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[04Dec2024 00:57:51.625] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[04Dec2024 00:57:51.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[04Dec2024 00:57:51.634] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[04Dec2024 00:57:51.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[04Dec2024 00:57:51.640] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[04Dec2024 00:57:51.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
+[04Dec2024 00:57:51.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
+[04Dec2024 00:57:53.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Dec2024 00:57:54.606] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@66502683]
+[04Dec2024 00:57:54.636] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[04Dec2024 00:57:55.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[04Dec2024 00:57:58.706] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Dec2024 00:58:00.495] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[04Dec2024 00:58:00.495] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[04Dec2024 00:58:03.689] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[04Dec2024 00:58:05.251] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[04Dec2024 00:58:05.653] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[04Dec2024 00:58:06.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Dec2024 00:58:06.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Dec2024 00:58:06.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Dec2024 00:58:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Dec2024 00:58:07.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Dec2024 00:58:07.446] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Dec2024 00:58:07.649] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Dec2024 00:58:07.650] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Dec2024 00:58:07.650] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Dec2024 00:58:07.650] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Dec2024 00:58:07.905] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
+[04Dec2024 00:58:08.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Dec2024 00:58:24.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Dec2024 00:58:37.414] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.420] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.422] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.423] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.445] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.449] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.452] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.453] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.455] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.470] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.479] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.480] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.481] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.483] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.494] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.500] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.501] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.502] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:37.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:38.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:38.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:38.585] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:39.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:39.539] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:40.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:40.532] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:40.992] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:41.031] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:41.532] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Dec2024 00:58:42.297] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[04Dec2024 00:58:42.805] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:43.584] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 19553 ms
+[04Dec2024 00:58:43.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (35.872s)! For help, type "help"
+[04Dec2024 00:58:43.656] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
+[04Dec2024 00:58:43.663] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[04Dec2024 00:58:43.684] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[04Dec2024 00:58:43.686] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[04Dec2024 00:58:43.686] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[04Dec2024 00:58:43.691] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[04Dec2024 00:58:43.697] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[04Dec2024 00:58:43.698] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[04Dec2024 00:58:43.702] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[04Dec2024 00:58:43.705] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[04Dec2024 00:58:43.707] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[04Dec2024 00:58:43.710] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[04Dec2024 00:58:43.716] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[04Dec2024 00:58:43.721] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[04Dec2024 00:58:43.722] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[04Dec2024 00:58:43.723] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[04Dec2024 00:58:43.724] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[04Dec2024 00:58:43.725] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[04Dec2024 00:58:43.725] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[04Dec2024 00:58:43.728] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[04Dec2024 00:58:43.729] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[04Dec2024 00:58:43.730] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[04Dec2024 00:58:43.734] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[04Dec2024 00:58:43.735] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[04Dec2024 00:58:43.736] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[04Dec2024 00:58:43.737] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[04Dec2024 00:58:43.738] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[04Dec2024 00:58:43.739] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[04Dec2024 00:58:43.746] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[04Dec2024 00:58:43.747] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[04Dec2024 00:58:43.748] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[04Dec2024 00:58:43.750] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Dec2024 00:58:43.986] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:44.900] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:45.673] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:46.577] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:47.935] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:48.574] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04Dec2024 00:58:57.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:45135] logged in with entity id 216 at (125.89304457776122, 63.0, 5.205063204675994)
+[04Dec2024 00:58:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[04Dec2024 00:58:59.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Dec2024 01:00:45.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 764 block(s)]
+[04Dec2024 01:02:22.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[04Dec2024 01:02:22.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[04Dec2024 01:03:35.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:34851] logged in with entity id 820 at (123.16183612081838, 63.512723428553194, -43.117634792586244)
+[04Dec2024 01:03:35.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[04Dec2024 01:04:15.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[04Dec2024 01:04:15.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[04Dec2024 01:05:15.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:35675] logged in with entity id 944 at (123.16183612081838, 65.75731929279924, -43.117634792586244)
+[04Dec2024 01:05:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[04Dec2024 01:07:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 422 block(s)]
