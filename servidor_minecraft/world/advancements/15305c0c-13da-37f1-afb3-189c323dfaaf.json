@@ -19,7 +19,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "clifftree:sparse_forest": "2024-12-20 22:18:16 +0000"
+      "clifftree:sparse_forest": "2024-12-20 22:18:16 +0000",
+      "minecraft:river": "2024-12-22 18:25:53 +0000",
+      "minecraft:plains": "2024-12-22 18:25:58 +0000"
     },
     "done": false
   },
@@ -38,6 +40,30 @@
   "usefulslime:recipes/slime_boots": {
     "criteria": {
       "has_slime": "2024-12-22 15:28:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2024-12-22 18:34:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2024-12-22 18:34:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2024-12-22 18:34:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2024-12-22 18:34:00 +0000"
     },
     "done": true
   },
