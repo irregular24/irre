@@ -929,6 +929,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-25 21:51:28 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000"
     },
@@ -1585,6 +1586,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-23 21:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-25 21:59:11 +0000"
     },
     "done": true
   },
