@@ -22,9 +22,11 @@
       "clifftree:sparse_forest": "2024-12-22 23:34:11 +0000",
       "minecraft:cherry_grove": "2024-12-25 22:52:06 +0000",
       "minecraft:sunflower_plains": "2024-12-25 22:52:40 +0000",
+      "minecraft:bamboo_jungle": "2024-12-25 23:11:42 +0000",
       "minecraft:beach": "2024-12-25 22:55:44 +0000",
       "minecraft:dark_forest": "2024-12-25 22:49:48 +0000",
       "minecraft:sparse_jungle": "2024-12-25 22:07:10 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-25 23:07:41 +0000",
       "minecraft:river": "2024-12-25 22:04:01 +0000",
       "minecraft:forest": "2024-12-25 22:51:10 +0000",
       "minecraft:jungle": "2024-12-25 22:07:40 +0000",
@@ -417,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-25 23:17:28 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-25 21:55:41 +0000"
@@ -531,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-25 23:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-25 22:07:30 +0000"
@@ -540,6 +554,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-25 23:18:24 +0000"
     },
     "done": true
   },
@@ -699,6 +719,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_0": "2024-12-25 23:05:15 +0000"
+    },
+    "done": false
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-25 22:45:14 +0000"
@@ -708,6 +734,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-25 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2024-12-25 23:14:21 +0000"
     },
     "done": true
   },
@@ -816,6 +848,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-25 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-25 23:18:04 +0000"
     },
     "done": true
   },
@@ -987,6 +1025,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2024-12-25 23:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-25 22:01:11 +0000"
@@ -1101,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-25 23:18:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-12-25 22:04:47 +0000"
@@ -1176,6 +1226,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-25 22:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-25 23:18:24 +0000"
     },
     "done": true
   },
@@ -1431,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-25 23:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-25 22:00:57 +0000"
@@ -1497,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-25 23:18:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
@@ -1521,9 +1589,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-25 23:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-25 22:05:21 +0000",
+      "baked_potato": "2024-12-25 23:10:02 +0000",
       "potato": "2024-12-25 22:53:40 +0000",
       "pumpkin_pie": "2024-12-25 22:48:13 +0000",
       "bread": "2024-12-25 22:30:06 +0000",
