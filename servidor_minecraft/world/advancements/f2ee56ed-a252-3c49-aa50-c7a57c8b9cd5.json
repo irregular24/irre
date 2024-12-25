@@ -25,6 +25,7 @@
       "minecraft:jungle": "2024-12-25 22:07:40 +0000",
       "clifftree:granite_shore": "2024-12-22 23:40:51 +0000",
       "clifftree:tropical_river": "2024-12-25 22:05:12 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-25 22:47:19 +0000",
       "minecraft:savanna": "2024-12-25 22:22:20 +0000",
       "minecraft:plains": "2024-12-25 22:04:03 +0000"
     },
@@ -693,6 +694,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-25 22:45:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-25 22:04:47 +0000"
@@ -909,6 +916,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-25 22:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2024-12-25 22:01:09 +0000"
@@ -948,6 +961,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-25 22:36:06 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-25 22:48:53 +0000"
     },
     "done": true
   },
@@ -1455,6 +1474,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-25 22:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-25 22:24:29 +0000"
@@ -1494,6 +1519,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-25 22:05:21 +0000",
+      "pumpkin_pie": "2024-12-25 22:48:13 +0000",
       "bread": "2024-12-25 22:30:06 +0000",
       "rotten_flesh": "2024-12-25 21:52:49 +0000"
     },

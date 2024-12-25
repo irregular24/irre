@@ -21,12 +21,14 @@
     "criteria": {
       "clifftree:sparse_forest": "2024-12-20 22:18:16 +0000",
       "clifftree:caves": "2024-12-25 22:18:18 +0000",
+      "minecraft:dark_forest": "2024-12-25 22:49:38 +0000",
       "minecraft:sparse_jungle": "2024-12-23 21:32:10 +0000",
       "minecraft:lukewarm_ocean": "2024-12-22 18:35:41 +0000",
       "minecraft:river": "2024-12-22 18:25:53 +0000",
       "minecraft:jungle": "2024-12-22 18:35:21 +0000",
       "clifftree:granite_shore": "2024-12-22 18:35:13 +0000",
       "clifftree:tropical_river": "2024-12-23 21:33:35 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-25 22:47:16 +0000",
       "minecraft:savanna": "2024-12-25 22:23:33 +0000",
       "minecraft:plains": "2024-12-22 18:25:58 +0000"
     },
@@ -1708,6 +1710,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-25 22:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-25 22:05:56 +0000"
@@ -1792,6 +1800,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2024-12-25 22:48:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-25 22:35:35 +0000"
@@ -1813,6 +1827,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-25 22:35:35 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2024-12-25 22:48:22 +0000"
     },
     "done": true
   },
@@ -1975,6 +1995,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-25 22:32:12 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2024-12-25 22:48:22 +0000"
     },
     "done": true
   },
