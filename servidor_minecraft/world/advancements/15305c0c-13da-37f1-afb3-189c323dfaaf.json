@@ -929,6 +929,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-25 22:02:14 +0000",
       "beef": "2024-12-25 21:51:28 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000"
@@ -1589,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-25 22:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-25 21:59:11 +0000"
@@ -1601,9 +1608,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-25 22:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-25 22:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-25 22:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-25 21:46:24 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-25 22:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-25 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-25 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-25 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-25 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-25 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-25 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-25 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-25 22:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-25 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-25 22:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-25 22:05:05 +0000"
     },
     "done": true
   },
