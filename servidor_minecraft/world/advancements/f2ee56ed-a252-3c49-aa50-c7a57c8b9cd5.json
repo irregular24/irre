@@ -25,6 +25,7 @@
       "minecraft:jungle": "2024-12-25 22:07:40 +0000",
       "clifftree:granite_shore": "2024-12-22 23:40:51 +0000",
       "clifftree:tropical_river": "2024-12-25 22:05:12 +0000",
+      "minecraft:savanna": "2024-12-25 22:22:20 +0000",
       "minecraft:plains": "2024-12-25 22:04:03 +0000"
     },
     "done": false
@@ -355,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-25 22:04:10 +0000"
@@ -367,9 +374,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-12-25 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
     },
     "done": true
   },
@@ -394,6 +413,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-25 21:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-25 22:21:17 +0000"
     },
     "done": true
   },
@@ -655,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-25 22:04:47 +0000"
@@ -847,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-25 22:04:47 +0000"
@@ -934,6 +971,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-25 22:01:11 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-25 22:28:01 +0000"
     },
     "done": true
   },
@@ -1153,6 +1196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-25 22:07:23 +0000"
@@ -1195,6 +1244,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-25 22:28:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-25 21:55:36 +0000"
@@ -1234,6 +1289,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-25 22:28:01 +0000"
     },
     "done": true
   },
@@ -1327,6 +1388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-25 22:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
@@ -1409,6 +1476,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-25 22:04:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-25 22:28:01 +0000"
     },
     "done": true
   },
