@@ -2936,3 +2936,30 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [26Dec2024 01:03:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [Horror of the Depths]
 [26Dec2024 01:05:14.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 01:05:14.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:10:14.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:10:14.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:12:54.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was shot by Skeleton
+[26Dec2024 01:15:15.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:15:15.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:20:14.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:20:14.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:25:15.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:25:15.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:30:14.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:30:14.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:34:38.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Dec2024 01:34:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2024 01:34:38.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2024 01:34:38.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Server closed
+[26Dec2024 01:34:38.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[26Dec2024 01:34:38.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2024 01:34:39.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Dec2024 01:34:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Dec2024 01:34:40.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Dec2024 01:34:40.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 01:34:40.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 01:34:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Dec2024 01:34:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dec2024 01:34:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dec2024 01:34:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Dec2024 01:34:41.139] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
