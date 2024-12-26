@@ -25,6 +25,8 @@
       "minecraft:sunflower_plains": "2024-12-25 22:53:26 +0000",
       "clifftree:caves": "2024-12-25 22:18:18 +0000",
       "minecraft:bamboo_jungle": "2024-12-25 23:11:37 +0000",
+      "minecraft:wooded_badlands": "2024-12-26 00:00:02 +0000",
+      "minecraft:badlands": "2024-12-25 23:59:51 +0000",
       "minecraft:beach": "2024-12-25 23:07:10 +0000",
       "minecraft:dark_forest": "2024-12-25 22:49:38 +0000",
       "minecraft:sparse_jungle": "2024-12-23 21:32:10 +0000",
@@ -38,6 +40,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-25 23:30:59 +0000",
       "clifftree:tropical_river": "2024-12-23 21:33:35 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-25 22:47:16 +0000",
+      "clifftree:desert_cliff": "2024-12-25 23:50:23 +0000",
       "minecraft:savanna": "2024-12-25 22:23:33 +0000",
       "minecraft:plains": "2024-12-22 18:25:58 +0000"
     },
@@ -947,6 +950,7 @@
       "cooked_beef": "2024-12-25 22:02:14 +0000",
       "beef": "2024-12-25 21:51:28 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
+      "golden_apple": "2024-12-25 23:55:27 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000"
     },
     "done": false
@@ -1647,6 +1651,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2024-12-25 22:13:54 +0000"
@@ -1710,6 +1720,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-25 22:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
     },
     "done": true
   },
@@ -1794,6 +1810,12 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-25 22:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
     },
     "done": true
   },
@@ -1899,6 +1921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-25 22:28:17 +0000"
@@ -1914,6 +1942,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-25 22:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
     },
     "done": true
   },
@@ -2085,6 +2119,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bonk": {
+    "criteria": {
+      "bonk_0": "2024-12-25 23:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-25 23:34:23 +0000"
@@ -2205,6 +2245,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_2": "2024-12-25 23:56:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-25 22:25:55 +0000"
@@ -2277,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-25 22:12:21 +0000"
@@ -2298,6 +2350,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-25 22:32:12 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
     },
     "done": true
   },
@@ -2394,6 +2452,12 @@
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-25 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-25 23:56:28 +0000"
     },
     "done": true
   },
