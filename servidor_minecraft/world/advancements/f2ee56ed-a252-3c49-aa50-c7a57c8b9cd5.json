@@ -417,6 +417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-26 00:27:22 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/glow_berry_juice": {
     "criteria": {
       "has_glow_berries": "2024-12-25 22:17:34 +0000"
@@ -432,6 +438,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2024-12-25 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-26 00:51:02 +0000"
     },
     "done": true
   },
@@ -564,6 +576,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-26 00:27:22 +0000"
     },
     "done": true
   },
@@ -735,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-26 00:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_horse_armor": "2024-12-25 22:07:30 +0000"
@@ -900,6 +924,12 @@
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2024-12-25 23:21:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-26 00:25:20 +0000"
     },
     "done": true
   },
@@ -1263,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-26 00:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-25 22:04:47 +0000"
@@ -1410,6 +1446,12 @@
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2024-12-25 23:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-26 00:51:02 +0000"
     },
     "done": true
   },
@@ -1563,6 +1605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-26 00:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2024-12-25 22:11:04 +0000"
@@ -1584,6 +1632,12 @@
   "born_in_chaos_v1:food_fight": {
     "criteria": {
       "food_fight_0": "2024-12-25 22:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-26 00:51:02 +0000"
     },
     "done": true
   },
@@ -1785,6 +1839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 00:26:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
@@ -1829,7 +1889,8 @@
       "pumpkin_pie": "2024-12-25 22:48:13 +0000",
       "bread": "2024-12-25 22:30:06 +0000",
       "golden_apple": "2024-12-25 22:54:21 +0000",
-      "rotten_flesh": "2024-12-25 21:52:49 +0000"
+      "rotten_flesh": "2024-12-25 21:52:49 +0000",
+      "melon_slice": "2024-12-26 00:27:02 +0000"
     },
     "done": false
   },
@@ -1842,6 +1903,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-25 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 00:26:46 +0000"
     },
     "done": true
   },
@@ -1914,6 +1981,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-25 23:34:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 00:26:46 +0000"
     },
     "done": true
   },
