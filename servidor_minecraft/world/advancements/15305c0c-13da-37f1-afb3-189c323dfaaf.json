@@ -955,7 +955,8 @@
       "beef": "2024-12-25 21:51:28 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
       "golden_apple": "2024-12-25 23:55:27 +0000",
-      "rotten_flesh": "2024-12-23 21:27:47 +0000"
+      "rotten_flesh": "2024-12-23 21:27:47 +0000",
+      "carrot": "2024-12-28 23:29:28 +0000"
     },
     "done": false
   },
@@ -2531,6 +2532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-28 23:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
@@ -2621,6 +2628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-28 23:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
@@ -2630,6 +2643,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2024-12-28 23:36:17 +0000"
     },
     "done": true
   },
@@ -2651,6 +2670,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-28 23:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-28 23:33:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
@@ -2666,6 +2697,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-28 23:33:01 +0000"
     },
     "done": true
   },
@@ -2714,6 +2751,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-28 23:35:35 +0000"
     },
     "done": true
   },
@@ -2780,6 +2823,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-28 23:33:59 +0000"
     },
     "done": true
   },
