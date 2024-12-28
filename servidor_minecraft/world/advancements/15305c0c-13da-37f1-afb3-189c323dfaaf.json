@@ -956,6 +956,7 @@
       "bread": "2024-12-23 21:32:56 +0000",
       "golden_apple": "2024-12-25 23:55:27 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000",
+      "glow_berries": "2024-12-28 23:40:57 +0000",
       "carrot": "2024-12-28 23:29:28 +0000"
     },
     "done": false
@@ -2808,15 +2809,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 23:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 23:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-28 23:39:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 23:39:13 +0000"
     },
     "done": true
   },
