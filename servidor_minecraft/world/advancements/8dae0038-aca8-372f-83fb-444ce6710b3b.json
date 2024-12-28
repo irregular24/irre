@@ -1,0 +1,63 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-28 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2024-12-28 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-28 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "usefulslime:recipes/slime_sling": {
+    "criteria": {
+      "has_slime": "2024-12-28 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "usefulslime:recipes/jello": {
+    "criteria": {
+      "has_slime": "2024-12-28 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "usefulslime:recipes/slime_boots": {
+    "criteria": {
+      "has_slime": "2024-12-28 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-28 23:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "clifftree:sparse_forest": "2024-12-28 23:22:20 +0000",
+      "minecraft:sparse_jungle": "2024-12-28 23:25:23 +0000",
+      "minecraft:river": "2024-12-28 23:24:10 +0000",
+      "minecraft:jungle": "2024-12-28 23:25:00 +0000",
+      "clifftree:granite_shore": "2024-12-28 23:27:05 +0000",
+      "clifftree:tropical_river": "2024-12-28 23:25:04 +0000",
+      "minecraft:plains": "2024-12-28 23:25:21 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-28 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
