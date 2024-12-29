@@ -3077,3 +3077,17 @@ Things may not work well.
 [29Dec2024 19:40:23.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
 [29Dec2024 19:41:07.444] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
 [29Dec2024 19:41:07.445] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdc940bb$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[29Dec2024 19:43:20.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 2.310926568745572,-0.5499999999999687,10.406716861541724
+[29Dec2024 19:44:02.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 2.192602897265033,-0.5999999999999659,9.752912472982075
+[29Dec2024 19:44:03.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 19:44:08.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.7003474976577309,-0.5999999999999659,10.430169986063106
+[29Dec2024 19:44:30.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 19:44:30.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 19:47:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no tengo cama :v
+[29Dec2024 19:47:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> estoy en mina
+[29Dec2024 19:47:31.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> solo guarde spaw
+[29Dec2024 19:49:27.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [A Strange Grave Dust]
+[29Dec2024 19:49:30.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 19:49:30.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 19:49:33.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -9.733932337838496,-0.5999999999999659,4.438866012067592
+[29Dec2024 19:50:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [A Strange Grave Dust]
