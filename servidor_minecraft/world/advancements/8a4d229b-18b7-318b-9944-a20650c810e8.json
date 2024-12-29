@@ -570,6 +570,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-28 23:25:13 +0000",
       "bread": "2024-12-28 23:10:41 +0000",
+      "cod": "2024-12-29 00:41:55 +0000",
       "carrot": "2024-12-28 23:03:48 +0000"
     },
     "done": false
@@ -1980,6 +1981,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-29 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-29 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-29 00:35:54 +0000"
     },
     "done": true
   },
