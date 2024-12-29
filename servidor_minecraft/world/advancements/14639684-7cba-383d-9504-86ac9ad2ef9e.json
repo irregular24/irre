@@ -2885,6 +2885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2024-12-29 23:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2024-12-29 23:16:51 +0000"
@@ -2894,6 +2900,24 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2024-12-29 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2024-12-29 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-29 23:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-29 23:22:55 +0000"
     },
     "done": true
   },

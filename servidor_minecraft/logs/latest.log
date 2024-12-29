@@ -1054,3 +1054,24 @@ Things may not work well.
 [29Dec2024 23:18:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 3900 block(s)]
 [29Dec2024 23:18:38.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8114ms or 162 ticks behind
 [29Dec2024 23:19:01.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8169ms or 163 ticks behind
+[29Dec2024 23:22:20.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[29Dec2024 23:24:28.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5 timed out
+[29Dec2024 23:24:28.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Erickduran2002
+[29Dec2024 23:24:28.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[29Dec2024 23:24:34.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[29Dec2024 23:24:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[29Dec2024 23:24:34.675] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[29Dec2024 23:24:34.746] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 23:25:21.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:41611] logged in with entity id 174110 at (-276.01230925200434, 3.0, 1434.9102041448837)
+[29Dec2024 23:25:21.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[29Dec2024 23:25:21.596] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[29Dec2024 23:25:23.048] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[29Dec2024 23:25:23.050] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[29Dec2024 23:25:24.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[29Dec2024 23:25:24.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[29Dec2024 23:25:25.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[29Dec2024 23:25:25.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[29Dec2024 23:25:31.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 8.35752515881677,0.0,-6.248489876774272
+[29Dec2024 23:25:50.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 4320 block(s)]
+[29Dec2024 23:25:54.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Statue's Bargain]
+[29Dec2024 23:30:31.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ol' Betsy]
