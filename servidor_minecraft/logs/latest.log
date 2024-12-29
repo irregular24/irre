@@ -306,3 +306,63 @@
 [29Dec2024 01:27:01.064] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [29Dec2024 01:27:01.713] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [29Dec2024 01:27:24.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 bled to death
+[29Dec2024 01:27:45.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[29Dec2024 01:28:04.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was shot by Skeleton
+[29Dec2024 01:28:04.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[29Dec2024 01:28:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[29Dec2024 01:28:04.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[29Dec2024 01:28:24.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:51263] logged in with entity id 111480 at (-246.48762263095537, -13.0, -740.8502992672975)
+[29Dec2024 01:28:24.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[29Dec2024 01:28:24.735] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[29Dec2024 01:28:26.363] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[29Dec2024 01:28:26.366] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[29Dec2024 01:28:27.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[29Dec2024 01:28:28.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ayudalo peee irrregular
+[29Dec2024 01:28:29.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[29Dec2024 01:28:30.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[29Dec2024 01:28:30.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[29Dec2024 01:28:44.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[29Dec2024 01:29:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Spectator Mode]
+[29Dec2024 01:30:04.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya
+[29Dec2024 01:30:15.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Survival Mode]
+[29Dec2024 01:30:27.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.5137612386510568
+[29Dec2024 01:30:27.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.9132559964325537
+[29Dec2024 01:30:27.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.312801260566573
+[29Dec2024 01:30:44.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 hit the ground too hard whilst trying to escape Baby Spider
+[29Dec2024 01:30:47.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.5479151787188243
+[29Dec2024 01:30:47.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.9479150743798641
+[29Dec2024 01:30:47.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.3479149700439734
+[29Dec2024 01:30:47.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.747914865710868
+[29Dec2024 01:30:47.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 2.147914761380264
+[29Dec2024 01:30:47.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 2.5479146570518765
+[29Dec2024 01:30:47.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 2.9479145527255355
+[29Dec2024 01:30:56.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[29Dec2024 01:31:10.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> voy a mi choza
+[29Dec2024 01:31:22.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Spectator Mode]
+[29Dec2024 01:31:22.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-245, y=0, z=-768}
+[29Dec2024 01:31:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Survival Mode]
+[29Dec2024 01:31:58.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> zzz
+[29Dec2024 01:31:59.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzz
+[29Dec2024 01:32:13.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ando en dungeon
+[29Dec2024 01:32:32.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya pero duerme
+[29Dec2024 01:32:43.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzz
+[29Dec2024 01:32:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Corpse Fly
+[29Dec2024 01:32:56.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> zzz
+[29Dec2024 01:32:59.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> jajaja
+[29Dec2024 01:33:09.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> 30 niveles
+[29Dec2024 01:33:10.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> safo
+[29Dec2024 01:33:11.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[29Dec2024 01:33:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[29Dec2024 01:33:11.750] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[29Dec2024 01:36:50.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.692138671875
+[29Dec2024 01:36:50.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.692138671875
+[29Dec2024 01:36:50.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.692138671875
+[29Dec2024 01:36:50.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.692138671875
+[29Dec2024 01:36:51.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.692138671875
+[29Dec2024 01:36:51.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 1.692138671875
+[29Dec2024 01:38:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> Erickduran2002 me jaloa avisas a la hora que te desconectas para apagar
+[29Dec2024 01:38:23.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> dale bro
+[29Dec2024 01:38:55.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[29Dec2024 01:38:55.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[29Dec2024 01:38:55.339] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[29Dec2024 01:39:00.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved too quickly! -10.399952654549253,0.0,0.0017592685202316716
