@@ -574,6 +574,7 @@
       "cooked_mutton": "2024-12-28 23:25:13 +0000",
       "cooked_beef": "2024-12-29 20:43:10 +0000",
       "beef": "2024-12-29 21:14:59 +0000",
+      "porkchop": "2024-12-29 21:15:05 +0000",
       "apple": "2024-12-29 20:33:00 +0000",
       "cooked_cod": "2024-12-29 20:21:00 +0000",
       "bread": "2024-12-28 23:10:41 +0000",
@@ -606,8 +607,10 @@
     "criteria": {
       "minecraft:pillager": "2024-12-29 00:17:09 +0000",
       "minecraft:skeleton": "2024-12-28 23:47:35 +0000",
+      "minecraft:vindicator": "2024-12-29 21:24:37 +0000",
       "minecraft:spider": "2024-12-28 23:06:47 +0000",
       "minecraft:creeper": "2024-12-29 00:25:57 +0000",
+      "minecraft:zombified_piglin": "2024-12-29 21:29:57 +0000",
       "minecraft:husk": "2024-12-29 21:13:11 +0000",
       "minecraft:zombie": "2024-12-28 23:48:32 +0000",
       "minecraft:zombie_villager": "2024-12-28 23:35:33 +0000"
@@ -2156,15 +2159,57 @@
     },
     "done": true
   },
-  "majruszsdifficulty:undead_army": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "army_defeated": "2024-12-29 21:13:19 +0000"
+      "has_spider_eye": "2024-12-29 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-29 21:02:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-29 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-29 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:13:11 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-29 21:13:19 +0000"
     },
     "done": true
   },
@@ -2186,45 +2231,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "majruszsdifficulty:undead_army_treasure_bag": {
     "criteria": {
-      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+      "bag_opened": "2024-12-29 21:17:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
     "criteria": {
-      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+      "has_cloth": "2024-12-29 21:17:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
     "criteria": {
-      "has_spider_eye": "2024-12-29 20:59:22 +0000"
+      "has_cloth": "2024-12-29 21:17:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
     "criteria": {
-      "has_beetroot": "2024-12-29 21:12:07 +0000"
+      "has_bandage": "2024-12-29 21:17:11 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
     "criteria": {
-      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+      "has_cloth": "2024-12-29 21:17:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_slime_ball": "2024-12-29 21:02:16 +0000"
+      "shot_arrow": "2024-12-29 21:20:52 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "coded_trigger": "2024-12-29 21:13:11 +0000"
+      "shot_crossbow": "2024-12-29 21:20:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:22:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:22:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:23:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-29 21:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-29 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-29 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-29 21:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_honeycomb": "2024-12-29 21:44:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-29 21:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-29 21:44:18 +0000"
     },
     "done": true
   },
