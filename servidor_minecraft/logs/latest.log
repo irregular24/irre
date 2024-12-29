@@ -888,3 +888,42 @@ Things may not work well.
 [29Dec2024 22:38:02.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
 [29Dec2024 22:38:02.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
 [29Dec2024 22:38:03.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Spooky Scary Army]
+[29Dec2024 22:39:23.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[29Dec2024 22:39:45.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7310ms or 146 ticks behind
+[29Dec2024 22:39:55.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Nightmare Stalker
+[29Dec2024 22:39:55.751] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[29Dec2024 22:39:56.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was blown up by Creeper
+[29Dec2024 22:39:56.685] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[29Dec2024 22:39:57.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Zombie
+[29Dec2024 22:39:57.331] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[29Dec2024 22:40:04.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Dec2024 22:40:16.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 was kicked for floating too long!
+[29Dec2024 22:40:16.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Flying is not enabled on this server
+[29Dec2024 22:40:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[29Dec2024 22:40:16.322] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[29Dec2024 22:40:39.112] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@380fde0a[id=<null>,name=Irregular24,properties={},legacy=false] (/127.98.11.33:37529) lost connection: Disconnected
+[29Dec2024 22:40:46.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:40771] logged in with entity id 139704 at (-1050.8439554325719, -36.975575911786315, 1557.8048888913097)
+[29Dec2024 22:40:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[29Dec2024 22:40:46.346] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[29Dec2024 22:40:47.304] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[29Dec2024 22:40:47.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[29Dec2024 22:40:48.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 22:40:50.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 22:40:50.550] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[29Dec2024 22:41:56.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Boneyard]
+[29Dec2024 22:42:57.814] [Worker-Main-51/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=-3}
+[29Dec2024 22:43:08.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[29Dec2024 22:45:21.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Zombie Villager
+[29Dec2024 22:45:21.481] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[29Dec2024 22:45:28.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[29Dec2024 22:45:53.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[29Dec2024 22:45:53.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[29Dec2024 22:45:53.914] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[29Dec2024 22:46:07.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.244.21.51:52509] logged in with entity id 143991 at (-386.23553538493314, 79.0, -535.8625000119209)
+[29Dec2024 22:46:07.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[29Dec2024 22:46:07.684] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[29Dec2024 22:46:07.895] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[29Dec2024 22:46:07.896] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[29Dec2024 22:46:10.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[29Dec2024 22:46:11.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[29Dec2024 22:46:11.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
