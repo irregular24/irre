@@ -2770,27 +2770,21 @@
     },
     "done": true
   },
-  "majruszsdifficulty:undead_army_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2024-12-29 22:41:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2024-12-29 22:54:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-29 22:51:02 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-29 22:23:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:25:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2024-12-29 22:25:45 +0000"
     },
     "done": true
   },
@@ -2800,21 +2794,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "majruszsdifficulty:undead_army_treasure_bag": {
     "criteria": {
-      "has_gold_nugget": "2024-12-29 22:53:29 +0000"
+      "bag_opened": "2024-12-29 22:41:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2024-12-29 22:41:56 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-29 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2024-12-29 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2024-12-29 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-29 22:51:02 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-29 22:51:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-29 22:53:29 +0000"
     },
     "done": true
   },
@@ -2842,39 +2860,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:guidetothenextworld": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "guidetothenextworld_0": "2024-12-29 22:25:45 +0000"
+      "has_gold_nugget": "2024-12-29 22:53:29 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:recipes/misc/tattered_armor": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_cloth": "2024-12-29 22:42:07 +0000"
+      "has_gold_nugget": "2024-12-29 22:53:29 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "coded_trigger": "2024-12-29 22:25:40 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/string_from_cloth": {
-    "criteria": {
-      "has_cloth": "2024-12-29 22:42:07 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/bandage_golden": {
-    "criteria": {
-      "has_bandage": "2024-12-29 22:41:56 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
-    "criteria": {
-      "has_cloth": "2024-12-29 22:42:07 +0000"
+      "has_yellow_terracotta": "2024-12-29 22:54:14 +0000"
     },
     "done": true
   },
