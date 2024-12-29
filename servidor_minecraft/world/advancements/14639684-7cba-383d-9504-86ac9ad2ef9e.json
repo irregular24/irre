@@ -1363,8 +1363,10 @@
       "minecraft:spider": "2024-12-29 20:16:31 +0000",
       "minecraft:creeper": "2024-12-29 20:20:09 +0000",
       "minecraft:slime": "2024-12-29 20:40:46 +0000",
+      "minecraft:husk": "2024-12-29 22:34:50 +0000",
       "minecraft:cave_spider": "2024-12-29 20:35:05 +0000",
       "minecraft:zombie": "2024-12-28 23:08:08 +0000",
+      "minecraft:drowned": "2024-12-29 22:28:03 +0000",
       "minecraft:zombie_villager": "2024-12-28 23:34:06 +0000"
     },
     "done": false
@@ -2764,6 +2766,24 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-29 21:39:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2024-12-29 22:23:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2024-12-29 22:25:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 22:25:40 +0000"
     },
     "done": true
   },
