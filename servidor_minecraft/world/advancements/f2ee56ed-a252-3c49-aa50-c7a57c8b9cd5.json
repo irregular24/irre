@@ -38,6 +38,7 @@
       "minecraft:warm_ocean": "2024-12-25 23:31:06 +0000",
       "clifftree:granite_shore": "2024-12-22 23:40:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-25 23:31:02 +0000",
+      "clifftree:lukewarm_caves": "2024-12-29 00:00:51 +0000",
       "clifftree:tropical_river": "2024-12-25 22:05:12 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-25 22:47:19 +0000",
       "clifftree:desert_cliff": "2024-12-25 23:49:58 +0000",
@@ -2445,6 +2446,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-28 23:27:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-29 00:06:23 +0000"
     },
     "done": true
   },

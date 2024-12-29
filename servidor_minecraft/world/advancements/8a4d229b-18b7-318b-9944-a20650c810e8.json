@@ -25,6 +25,7 @@
       "minecraft:river": "2024-12-28 23:02:31 +0000",
       "clifftree:granite_shore": "2024-12-28 23:00:33 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:33:48 +0000",
+      "clifftree:tropical_river": "2024-12-29 00:07:53 +0000",
       "minecraft:plains": "2024-12-28 23:02:34 +0000"
     },
     "done": false
@@ -685,6 +686,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-29 00:05:28 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-28 23:33:20 +0000"
@@ -940,6 +947,12 @@
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-28 23:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-29 00:04:50 +0000"
     },
     "done": true
   },
