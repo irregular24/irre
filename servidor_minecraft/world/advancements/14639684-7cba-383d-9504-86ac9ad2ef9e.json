@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "clifftree:sparse_forest": "2024-12-22 18:42:26 +0000",
+      "clifftree:temperate_beach": "2024-12-29 23:09:50 +0000",
       "clifftree:caves": "2024-12-28 23:14:10 +0000",
       "minecraft:bamboo_jungle": "2024-12-29 21:48:19 +0000",
       "minecraft:beach": "2024-12-29 21:29:18 +0000",
@@ -2875,6 +2876,24 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2024-12-29 22:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-29 23:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-29 23:16:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 23:11:56 +0000"
     },
     "done": true
   },

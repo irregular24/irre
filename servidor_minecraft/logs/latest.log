@@ -1016,3 +1016,41 @@ Things may not work well.
 [29Dec2024 23:10:00.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
 [29Dec2024 23:10:50.372] [Worker-Main-51/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29Dec2024 23:11:06.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 1674 block(s)]
+[29Dec2024 23:11:28.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Dec2024 23:11:38.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[29Dec2024 23:11:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[29Dec2024 23:11:38.855] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[29Dec2024 23:11:44.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Door Knight
+[29Dec2024 23:11:44.789] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[29Dec2024 23:11:47.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[29Dec2024 23:11:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Chain Death]
+[29Dec2024 23:11:56.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
+[29Dec2024 23:11:56.759] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[29Dec2024 23:12:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -0.0056843312045202765,0.003264246618925881,-10.109339327467495
+[29Dec2024 23:12:20.688] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 23:12:31.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 3184 block(s)]
+[29Dec2024 23:12:36.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzz
+[29Dec2024 23:12:42.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
+[29Dec2024 23:13:48.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:34277] logged in with entity id 163923 at (-250.62942367049092, 31.0, 1276.7624471301513)
+[29Dec2024 23:13:48.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[29Dec2024 23:13:48.494] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[29Dec2024 23:13:49.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[29Dec2024 23:13:49.512] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[29Dec2024 23:13:52.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[29Dec2024 23:13:53.085] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[29Dec2024 23:13:53.086] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[29Dec2024 23:13:54.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[29Dec2024 23:14:19.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
+[29Dec2024 23:14:19.986] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[29Dec2024 23:16:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[29Dec2024 23:16:56.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[29Dec2024 23:17:51.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 3900 block(s)]
+[29Dec2024 23:18:12.296] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[29Dec2024 23:18:12.298] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[29Dec2024 23:18:12.298] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[29Dec2024 23:18:12.299] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[29Dec2024 23:18:12.299] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[29Dec2024 23:18:15.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[29Dec2024 23:18:16.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 3900 block(s)]
+[29Dec2024 23:18:38.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8114ms or 162 ticks behind
+[29Dec2024 23:19:01.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8169ms or 163 ticks behind
