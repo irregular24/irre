@@ -21,9 +21,12 @@
     "criteria": {
       "clifftree:sparse_forest": "2024-12-28 22:59:08 +0000",
       "clifftree:caves": "2024-12-28 23:18:03 +0000",
+      "minecraft:beach": "2024-12-29 21:11:54 +0000",
       "minecraft:sparse_jungle": "2024-12-28 23:42:18 +0000",
       "minecraft:river": "2024-12-28 23:02:31 +0000",
+      "minecraft:forest": "2024-12-29 21:11:18 +0000",
       "minecraft:jungle": "2024-12-29 00:33:18 +0000",
+      "minecraft:ocean": "2024-12-29 21:11:32 +0000",
       "clifftree:granite_shore": "2024-12-28 23:00:33 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:33:48 +0000",
       "clifftree:tropical_river": "2024-12-29 00:07:53 +0000",
@@ -570,9 +573,12 @@
     "criteria": {
       "cooked_mutton": "2024-12-28 23:25:13 +0000",
       "cooked_beef": "2024-12-29 20:43:10 +0000",
+      "beef": "2024-12-29 21:14:59 +0000",
       "apple": "2024-12-29 20:33:00 +0000",
       "cooked_cod": "2024-12-29 20:21:00 +0000",
       "bread": "2024-12-28 23:10:41 +0000",
+      "rotten_flesh": "2024-12-29 21:13:26 +0000",
+      "beetroot": "2024-12-29 21:12:10 +0000",
       "cod": "2024-12-29 00:41:55 +0000",
       "carrot": "2024-12-28 23:03:48 +0000"
     },
@@ -602,6 +608,7 @@
       "minecraft:skeleton": "2024-12-28 23:47:35 +0000",
       "minecraft:spider": "2024-12-28 23:06:47 +0000",
       "minecraft:creeper": "2024-12-29 00:25:57 +0000",
+      "minecraft:husk": "2024-12-29 21:13:11 +0000",
       "minecraft:zombie": "2024-12-28 23:48:32 +0000",
       "minecraft:zombie_villager": "2024-12-28 23:35:33 +0000"
     },
@@ -2149,6 +2156,36 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-29 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-29 21:12:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-29 21:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-29 21:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-29 21:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-29 21:02:16 +0000"
@@ -2167,6 +2204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-29 21:12:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-29 21:02:16 +0000"
@@ -2176,6 +2219,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-29 21:02:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:13:11 +0000"
     },
     "done": true
   },
