@@ -42,6 +42,7 @@
       "minecraft:cold_ocean": "2024-12-29 00:18:42 +0000",
       "minecraft:forest": "2024-12-25 22:51:02 +0000",
       "minecraft:deep_cold_ocean": "2024-12-29 00:18:01 +0000",
+      "minecraft:desert": "2024-12-29 01:10:20 +0000",
       "minecraft:jungle": "2024-12-22 18:35:21 +0000",
       "minecraft:ocean": "2024-12-25 23:02:10 +0000",
       "clifftree:gravelly_beach": "2024-12-29 00:21:36 +0000",
@@ -50,6 +51,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-25 23:30:59 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:16:17 +0000",
       "clifftree:tropical_river": "2024-12-23 21:33:35 +0000",
+      "clifftree:oasis": "2024-12-29 01:07:37 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-25 22:47:16 +0000",
       "minecraft:meadow": "2024-12-29 00:33:10 +0000",
       "clifftree:desert_cliff": "2024-12-25 23:50:23 +0000",
@@ -2995,6 +2997,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2024-12-29 01:04:24 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2024-12-29 01:01:59 +0000"
@@ -3004,6 +3012,12 @@
   "paraglider:statues_bargain": {
     "criteria": {
       "bargain": "2024-12-29 01:03:30 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2024-12-29 01:04:24 +0000"
     },
     "done": true
   },
