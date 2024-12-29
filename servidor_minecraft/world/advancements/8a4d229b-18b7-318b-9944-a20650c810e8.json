@@ -1984,6 +1984,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-29 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-29 00:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-29 00:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-12-29 00:47:08 +0000"
@@ -1999,12 +2023,6 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-29 00:47:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-29 00:35:54 +0000"
     },
     "done": true
   },
@@ -2044,21 +2062,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "tombstone:adventure/christmas": {
     "criteria": {
-      "has_log": "2024-12-29 00:46:54 +0000"
+      "coded_trigger": "2024-12-29 20:06:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "tombstone:adventure/mysterious_gift": {
     "criteria": {
-      "has_brown_mushroom": "2024-12-29 00:35:54 +0000"
+      "coded_trigger": "2024-12-29 20:06:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "tombstone:adventure/root": {
     "criteria": {
-      "has_log": "2024-12-29 00:46:54 +0000"
+      "auto": "2024-12-29 20:06:22 +0000"
     },
     "done": true
   },
