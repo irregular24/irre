@@ -969,6 +969,7 @@
       "beef": "2024-12-25 21:51:28 +0000",
       "porkchop": "2024-12-28 23:57:15 +0000",
       "apple": "2024-12-29 20:02:02 +0000",
+      "potato": "2024-12-29 21:03:38 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
       "golden_apple": "2024-12-25 23:55:27 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000",
@@ -3287,6 +3288,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 21:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-29 19:50:43 +0000"
@@ -3350,6 +3357,18 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 19:50:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:04:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:04:27 +0000"
     },
     "done": true
   },
@@ -3425,6 +3444,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-29 19:52:47 +0000"
@@ -3449,6 +3474,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:02:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-29 19:51:13 +0000"
@@ -3464,6 +3495,24 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-29 19:52:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:02:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-29 21:02:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 20:59:22 +0000"
     },
     "done": true
   },
