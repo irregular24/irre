@@ -499,6 +499,7 @@
       "minecraft:husk": "2024-12-29 01:33:35 +0000",
       "minecraft:cave_spider": "2024-12-28 23:48:45 +0000",
       "minecraft:stray": "2024-12-29 21:08:05 +0000",
+      "minecraft:enderman": "2024-12-29 22:13:12 +0000",
       "minecraft:zombie": "2024-12-23 21:27:31 +0000",
       "minecraft:drowned": "2024-12-23 21:26:22 +0000",
       "minecraft:zombie_villager": "2024-12-29 21:12:29 +0000"
@@ -3622,6 +3623,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-29 22:06:02 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2024-12-29 21:35:44 +0000"
@@ -3643,6 +3650,12 @@
   "majruszsdifficulty:recipes/misc/tattered_armor": {
     "criteria": {
       "has_cloth": "2024-12-29 21:17:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:56:19 +0000"
     },
     "done": true
   },

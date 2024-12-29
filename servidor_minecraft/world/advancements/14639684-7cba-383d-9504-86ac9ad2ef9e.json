@@ -2725,6 +2725,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-29 21:26:27 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2024-12-29 21:30:46 +0000"
@@ -2734,18 +2740,6 @@
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-29 21:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2024-12-29 21:26:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 21:39:41 +0000"
     },
     "done": true
   },
@@ -2764,6 +2758,12 @@
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-29 21:31:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 21:39:41 +0000"
     },
     "done": true
   },
