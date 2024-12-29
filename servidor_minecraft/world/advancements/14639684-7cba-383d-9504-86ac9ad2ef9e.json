@@ -23,6 +23,7 @@
       "clifftree:caves": "2024-12-28 23:14:10 +0000",
       "minecraft:sparse_jungle": "2024-12-28 22:50:29 +0000",
       "minecraft:river": "2024-12-28 22:46:38 +0000",
+      "minecraft:dripstone_caves": "2024-12-29 01:15:46 +0000",
       "minecraft:jungle": "2024-12-28 22:49:33 +0000",
       "clifftree:granite_shore": "2024-12-22 18:43:58 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:29:54 +0000",
@@ -2321,6 +2322,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-29 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-12-29 01:15:39 +0000"
     },
     "done": true
   },
