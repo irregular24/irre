@@ -2530,21 +2530,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2024-12-29 19:49:27 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-29 19:31:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2024-12-29 19:49:28 +0000"
     },
     "done": true
   },
@@ -2557,6 +2545,18 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-29 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-29 19:49:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 19:49:28 +0000"
     },
     "done": true
   },

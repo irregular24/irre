@@ -195,3 +195,33 @@ Things may not work well.
 [29Dec2024 19:49:27.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [A Strange Grave Dust]
 [29Dec2024 19:49:33.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -9.733932337838496,-0.5999999999999659,4.438866012067592
 [29Dec2024 19:50:23.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [A Strange Grave Dust]
+[29Dec2024 19:56:02.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 10.57651327629651,-0.6999999999999602,0.8588700159202745
+[29Dec2024 19:56:03.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[29Dec2024 19:56:03.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[29Dec2024 19:56:03.109] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[29Dec2024 19:56:07.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 9.633698400896492,-0.5999999999999659,3.6001677000476775
+[29Dec2024 19:56:34.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:55507] logged in with entity id 16619 at (-205.69999998807907, 33.0, -718.5119418718127)
+[29Dec2024 19:56:34.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[29Dec2024 19:56:34.203] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[29Dec2024 19:56:35.257] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[29Dec2024 19:56:35.262] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[29Dec2024 19:56:42.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[29Dec2024 19:56:43.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[29Dec2024 19:56:43.570] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[29Dec2024 19:58:18.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -4.892033164020063,6.090636282549099,-6.836772572696418
+[29Dec2024 20:01:06.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe mis cosas
+[29Dec2024 20:01:22.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> que tenias
+[29Dec2024 20:01:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 2 collares
+[29Dec2024 20:01:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> y un filete crudo infinito
+[29Dec2024 20:01:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ah la cantiplora
+[29Dec2024 20:02:02.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> solo eso quiero
+[29Dec2024 20:02:11.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya el hierro fue ps
+[29Dec2024 20:02:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya voy perame me quito todas mis cosas
+[29Dec2024 20:02:36.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> yaya
+[29Dec2024 20:02:41.814] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel] rejected their client side version number
+[29Dec2024 20:02:41.816] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[29Dec2024 20:02:41.859] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78abca03[id=<null>,name=XnoniX1,properties={},legacy=false] (/127.244.21.51:47883) lost connection: Connection closed - mismatched mod channel list
+[29Dec2024 20:02:52.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[29Dec2024 20:02:57.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[29Dec2024 20:03:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[29Dec2024 20:03:16.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> un corazon wbn
