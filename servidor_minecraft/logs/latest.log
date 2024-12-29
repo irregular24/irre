@@ -153,3 +153,33 @@ Things may not work well.
 [29Dec2024 19:10:00.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [29Dec2024 19:10:00.260] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
 [29Dec2024 19:21:08.597] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a51194a[id=<null>,name=Seta33,properties={},legacy=false] (/127.53.120.177:38749) lost connection: Disconnected
+[29Dec2024 19:29:07.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:40293] logged in with entity id 1356 at (-279.3714175952737, 65.9375, -244.27615920875758)
+[29Dec2024 19:29:07.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[29Dec2024 19:29:07.963] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[29Dec2024 19:29:09.466] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[29Dec2024 19:29:09.472] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[29Dec2024 19:29:13.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 19:29:14.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 19:29:14.733] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[29Dec2024 19:30:44.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[29Dec2024 19:30:44.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[29Dec2024 19:30:44.955] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[29Dec2024 19:31:43.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:42223] logged in with entity id 1909 at (-207.35230466093944, 67.0, -727.1381829655794)
+[29Dec2024 19:31:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[29Dec2024 19:31:43.752] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[29Dec2024 19:31:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Christmas]
+[29Dec2024 19:31:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Mysterious Gift]
+[29Dec2024 19:31:46.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[29Dec2024 19:31:47.464] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[29Dec2024 19:31:47.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[29Dec2024 19:32:02.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[29Dec2024 19:32:03.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[29Dec2024 19:32:03.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[29Dec2024 19:32:35.671] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:44735] logged in with entity id 2163 at (-243.45562401336727, 64.0, -244.68206978679908)
+[29Dec2024 19:32:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[29Dec2024 19:32:35.767] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[29Dec2024 19:32:38.422] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[29Dec2024 19:32:38.427] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[29Dec2024 19:32:42.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 19:32:43.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 19:32:43.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
