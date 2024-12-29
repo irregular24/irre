@@ -139,3 +139,16 @@ Things may not work well.
 [29Dec2024 18:55:22.567] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel] rejected their client side version number
 [29Dec2024 18:55:22.582] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [29Dec2024 18:55:22.619] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64f87d34[id=<null>,name=Seta33,properties={},legacy=false] (/127.53.120.177:49137) lost connection: Connection closed - mismatched mod channel list
+[29Dec2024 19:04:46.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32b38c43[id=<null>,name=Seta33,properties={},legacy=false] (/127.53.120.177:32801) lost connection: Disconnected
+[29Dec2024 19:05:44.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:38151] logged in with entity id 445 at (-269.07851913443943, 64.0, -267.1792101732066)
+[29Dec2024 19:05:45.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[29Dec2024 19:05:45.344] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[29Dec2024 19:05:46.449] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[29Dec2024 19:05:46.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[29Dec2024 19:05:47.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Dec2024 19:05:51.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 19:05:52.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[29Dec2024 19:05:52.132] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[29Dec2024 19:10:00.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Timed out
+[29Dec2024 19:10:00.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[29Dec2024 19:10:00.260] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
