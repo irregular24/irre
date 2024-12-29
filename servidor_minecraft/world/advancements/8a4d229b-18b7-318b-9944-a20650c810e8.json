@@ -569,6 +569,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-28 23:25:13 +0000",
+      "cooked_beef": "2024-12-29 20:43:10 +0000",
+      "apple": "2024-12-29 20:33:00 +0000",
+      "cooked_cod": "2024-12-29 20:21:00 +0000",
       "bread": "2024-12-28 23:10:41 +0000",
       "cod": "2024-12-29 00:41:55 +0000",
       "carrot": "2024-12-28 23:03:48 +0000"
@@ -2089,6 +2092,18 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-29 20:18:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-12-29 20:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 20:37:18 +0000"
     },
     "done": true
   },
