@@ -482,6 +482,7 @@
       "minecraft:spider": "2024-12-28 23:05:37 +0000",
       "minecraft:creeper": "2024-12-28 23:08:19 +0000",
       "minecraft:witch": "2024-12-23 21:31:25 +0000",
+      "minecraft:cave_spider": "2024-12-28 23:48:45 +0000",
       "minecraft:zombie": "2024-12-23 21:27:31 +0000",
       "minecraft:drowned": "2024-12-23 21:26:22 +0000"
     },
@@ -953,6 +954,7 @@
     "criteria": {
       "cooked_beef": "2024-12-25 22:02:14 +0000",
       "beef": "2024-12-25 21:51:28 +0000",
+      "porkchop": "2024-12-28 23:57:15 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
       "golden_apple": "2024-12-25 23:55:27 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000",
@@ -2509,6 +2511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 23:55:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
@@ -2542,6 +2550,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },
@@ -2593,6 +2607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
@@ -2629,6 +2649,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2024-12-28 23:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-28 23:33:59 +0000"
@@ -2638,6 +2664,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },
@@ -2701,9 +2733,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-28 23:33:01 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },
@@ -2716,6 +2760,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },
@@ -2734,6 +2784,12 @@
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },
@@ -2773,6 +2829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-28 23:55:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
@@ -2797,6 +2859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-28 23:25:39 +0000"
@@ -2812,6 +2880,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-28 23:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },
@@ -2845,9 +2919,21 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2024-12-28 23:55:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-28 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2024-12-28 23:55:11 +0000"
     },
     "done": true
   },

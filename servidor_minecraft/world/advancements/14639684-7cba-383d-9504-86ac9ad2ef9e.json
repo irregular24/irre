@@ -27,6 +27,7 @@
       "clifftree:granite_shore": "2024-12-22 18:43:58 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:29:54 +0000",
       "clifftree:tropical_river": "2024-12-28 22:49:30 +0000",
+      "minecraft:savanna": "2024-12-28 23:56:16 +0000",
       "minecraft:plains": "2024-12-28 22:46:40 +0000"
     },
     "done": false
@@ -850,7 +851,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2024-12-28 22:51:54 +0000",
-      "bread": "2024-12-28 23:00:16 +0000"
+      "bread": "2024-12-28 23:00:16 +0000",
+      "golden_apple": "2024-12-28 23:48:47 +0000",
+      "melon_slice": "2024-12-28 23:57:32 +0000"
     },
     "done": false
   },
@@ -2055,9 +2058,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-28 23:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-28 23:47:42 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-28 23:53:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-28 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-28 23:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-28 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-28 23:56:00 +0000"
     },
     "done": true
   },
@@ -2091,6 +2130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-28 23:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-28 23:47:42 +0000"
@@ -2109,9 +2154,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-28 23:53:32 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2024-12-28 23:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-28 23:52:46 +0000"
     },
     "done": true
   },

@@ -3529,3 +3529,41 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [28Dec2024 23:51:04.327] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
 [28Dec2024 23:51:04.328] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md425fe1$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [28Dec2024 23:52:30.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 has made the advancement [Deceived Hopes]
+[28Dec2024 23:52:49.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[28Dec2024 23:53:42.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:53:42.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:55:35.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[28Dec2024 23:55:54.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[28Dec2024 23:56:12.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Dec2024 23:56:30.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3829ms or 76 ticks behind
+[28Dec2024 23:56:59.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[28Dec2024 23:57:21.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6651ms or 133 ticks behind
+[28Dec2024 23:57:38.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2323ms or 46 ticks behind
+[28Dec2024 23:58:03.532] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[28Dec2024 23:58:06.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[28Dec2024 23:58:28.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7205ms or 144 ticks behind
+[28Dec2024 23:58:42.323] [Worker-Main-29/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[28Dec2024 23:58:51.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8490ms or 169 ticks behind
+[28Dec2024 23:59:11.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4934ms or 98 ticks behind
+[28Dec2024 23:59:24.634] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=19}
+[28Dec2024 23:59:34.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7877ms or 157 ticks behind
+[28Dec2024 23:59:35.610] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=19}
+[28Dec2024 23:59:38.745] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=19}
+[28Dec2024 23:59:38.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:59:38.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:59:40.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -9.665397205067848,3.390716433221087,-0.09011285606277397
+[29Dec2024 00:00:03.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13630ms or 272 ticks behind
+[29Dec2024 00:00:26.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8405ms or 168 ticks behind
+[29Dec2024 00:00:26.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[29Dec2024 00:00:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[29Dec2024 00:00:26.800] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[29Dec2024 00:00:26.800] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[29Dec2024 00:00:43.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[29Dec2024 00:00:49.055] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Dec2024 00:00:56.995] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kevinheredia21: {disabled=true, disconnected=false, uuid=8dae0038-aca8-372f-83fb-444ce6710b3b, name=Kevinheredia21, group=null}
+[29Dec2024 00:01:28.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzzz
+[29Dec2024 00:01:35.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> sin cama pipi
+[29Dec2024 00:01:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[29Dec2024 00:02:02.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> pasa coords y te llevo una cama
+[29Dec2024 00:02:36.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kevinheredia21> -175 7 920
+[29Dec2024 00:03:04.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
