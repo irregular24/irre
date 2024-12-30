@@ -4680,33 +4680,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-30 18:02:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2024-12-30 18:00:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-30 18:02:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-30 18:02:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-30 19:11:58 +0000"
     },
     "done": true
   },
@@ -4728,9 +4704,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_bookshelf": "2024-12-30 18:44:52 +0000"
+      "has_smooth_stone": "2024-12-30 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-30 18:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-30 18:02:14 +0000"
     },
     "done": true
   },
@@ -4740,15 +4728,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
-      "has_oxeye_daisy": "2024-12-30 19:11:58 +0000"
+      "has_bookshelf": "2024-12-30 18:44:52 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2024-12-30 19:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-30 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-30 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-30 19:32:26 +0000"
     },
     "done": true
   },
