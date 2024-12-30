@@ -28,12 +28,14 @@
       "minecraft:wooded_badlands": "2024-12-30 22:17:00 +0000",
       "minecraft:badlands": "2024-12-29 23:52:48 +0000",
       "minecraft:beach": "2024-12-29 21:29:18 +0000",
+      "minecraft:dark_forest": "2024-12-30 22:30:58 +0000",
       "minecraft:sparse_jungle": "2024-12-28 22:50:29 +0000",
       "minecraft:river": "2024-12-28 22:46:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 19:05:57 +0000",
       "minecraft:dripstone_caves": "2024-12-29 01:15:46 +0000",
       "clifftree:warm_caves": "2024-12-29 23:53:43 +0000",
       "minecraft:forest": "2024-12-29 21:27:11 +0000",
+      "minecraft:lush_caves": "2024-12-30 22:26:18 +0000",
       "minecraft:desert": "2024-12-30 22:11:34 +0000",
       "minecraft:jungle": "2024-12-28 22:49:33 +0000",
       "minecraft:ocean": "2024-12-29 21:30:41 +0000",
@@ -3445,9 +3447,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-30 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2024-12-30 22:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-30 22:50:56 +0000"
     },
     "done": true
   },
@@ -3469,6 +3495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2024-12-30 22:05:30 +0000"
@@ -3487,15 +3519,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2024-12-30 20:38:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2024-12-30 21:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
     },
     "done": true
   },
@@ -3511,6 +3567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-30 22:15:52 +0000"
@@ -3520,6 +3582,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-30 22:50:56 +0000"
     },
     "done": true
   },
@@ -3574,6 +3642,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-30 22:53:10 +0000"
     },
     "done": true
   },
