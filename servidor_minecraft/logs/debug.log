@@ -3326,3 +3326,27 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Dec2024 21:20:36.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [30Dec2024 21:22:41.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=64, z=-524} BlockPos{x=-100, y=62, z=-523}
 [30Dec2024 21:22:43.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=64, z=-521} BlockPos{x=-97, y=62, z=-520}
+[30Dec2024 21:23:41.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:23:41.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:28:41.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:28:41.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:33:41.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:33:41.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:34:17.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzz
+[30Dec2024 21:34:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[30Dec2024 21:34:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[30Dec2024 21:34:36.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> HAZME /KILL
+[30Dec2024 21:34:49.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was killed
+[30Dec2024 21:34:49.132] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-44, y:68, z:-385, dim:minecraft:overworld]
+[30Dec2024 21:34:49.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Killed Seta33]
+[30Dec2024 21:34:49.161] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[30Dec2024 21:36:24.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Spectral Guardian]
+[30Dec2024 21:37:18.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -849.500000, 72.500000, 1363.500000]
+[30Dec2024 21:37:25.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[30Dec2024 21:37:26.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[30Dec2024 21:38:43.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:38:43.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 21:39:04.647] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[30Dec2024 21:39:04.656] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md65334e$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[30Dec2024 21:43:43.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 21:43:43.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
