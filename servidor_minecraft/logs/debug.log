@@ -3795,3 +3795,24 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Dec2024 23:24:59.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 23:24:59.090] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
 [30Dec2024 23:26:43.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[30Dec2024 23:28:22.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Dark Forging]
+[30Dec2024 23:29:29.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 160 block(s)]
+[30Dec2024 23:29:59.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:29:59.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:30:37.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[30Dec2024 23:30:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[30Dec2024 23:30:37.836] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[30Dec2024 23:30:37.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[30Dec2024 23:31:00.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 471 block(s)]
+[30Dec2024 23:34:59.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:34:59.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 23:36:50.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[30Dec2024 23:36:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[30Dec2024 23:37:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[30Dec2024 23:37:28.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[30Dec2024 23:37:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[30Dec2024 23:37:47.812] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=true, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[30Dec2024 23:37:50.301] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=false, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[30Dec2024 23:37:52.999] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=true, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[30Dec2024 23:37:55.298] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=false, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[30Dec2024 23:37:56.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
