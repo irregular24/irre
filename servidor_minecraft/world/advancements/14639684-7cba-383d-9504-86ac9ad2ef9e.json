@@ -21,8 +21,11 @@
     "criteria": {
       "clifftree:sparse_forest": "2024-12-22 18:42:26 +0000",
       "clifftree:temperate_beach": "2024-12-29 23:09:50 +0000",
+      "clifftree:shrubland": "2024-12-30 22:15:24 +0000",
+      "clifftree:warm_river": "2024-12-30 22:15:17 +0000",
       "clifftree:caves": "2024-12-28 23:14:10 +0000",
       "minecraft:bamboo_jungle": "2024-12-29 21:48:19 +0000",
+      "minecraft:wooded_badlands": "2024-12-30 22:17:00 +0000",
       "minecraft:badlands": "2024-12-29 23:52:48 +0000",
       "minecraft:beach": "2024-12-29 21:29:18 +0000",
       "minecraft:sparse_jungle": "2024-12-28 22:50:29 +0000",
@@ -3436,9 +3439,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-30 22:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2024-12-30 22:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-30 22:21:08 +0000"
     },
     "done": true
   },
@@ -3460,6 +3505,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-30 22:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-30 20:19:38 +0000"
@@ -3471,6 +3540,18 @@
       "has_sherd": "2024-12-30 21:43:39 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
@@ -3487,6 +3568,12 @@
   "tombstone:adventure/find_lost_tablet_treasure": {
     "criteria": {
       "coded_trigger": "2024-12-30 22:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-30 22:15:52 +0000"
     },
     "done": true
   },
