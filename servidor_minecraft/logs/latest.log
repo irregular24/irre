@@ -371,3 +371,34 @@
 [30Dec2024 22:52:59.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 5.9060366339974735,-3.3750001341104507,-7.820345569087067
 [30Dec2024 22:53:04.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 6.232887475714961,0.0,-8.254258323152499
 [30Dec2024 22:55:12.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[30Dec2024 22:56:25.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[30Dec2024 22:57:55.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Vex
+[30Dec2024 22:57:55.500] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[30Dec2024 22:57:59.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 5.905983823421138,3.9659514159391023,-7.37002695070646
+[30Dec2024 22:59:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was shot by Stray
+[30Dec2024 22:59:32.073] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[30Dec2024 22:59:37.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[30Dec2024 22:59:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Bypassing the Expiration Date]
+[30Dec2024 23:00:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Vex
+[30Dec2024 23:00:50.993] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[30Dec2024 23:01:01.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[30Dec2024 23:01:26.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[30Dec2024 23:01:34.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -186.500000, 71.500000, -148.500000]
+[30Dec2024 23:02:59.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[30Dec2024 23:02:59.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[30Dec2024 23:02:59.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[30Dec2024 23:03:06.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -918.500000, 82.500000, 1365.500000]
+[30Dec2024 23:03:07.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[30Dec2024 23:03:07.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[30Dec2024 23:03:07.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[30Dec2024 23:04:14.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:57055] logged in with entity id 134951 at (342.2539350199444, 93.0, -1992.0574456557956)
+[30Dec2024 23:04:15.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[30Dec2024 23:04:15.070] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[30Dec2024 23:04:16.396] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[30Dec2024 23:04:16.401] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[30Dec2024 23:04:18.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[30Dec2024 23:04:24.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[30Dec2024 23:04:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[30Dec2024 23:04:25.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[30Dec2024 23:04:25.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[30Dec2024 23:04:58.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-931, y=84, z=1377} BlockPos{x=-930, y=82, z=1377}
