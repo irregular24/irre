@@ -3740,5 +3740,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-30 02:05:00 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/charc_os": {
+    "criteria": {
+      "has_charcoal": "2024-12-30 02:04:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
