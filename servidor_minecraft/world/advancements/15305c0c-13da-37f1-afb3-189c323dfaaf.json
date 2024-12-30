@@ -49,6 +49,7 @@
       "minecraft:warm_ocean": "2024-12-25 23:31:02 +0000",
       "clifftree:granite_shore": "2024-12-22 18:35:13 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-25 23:30:59 +0000",
+      "minecraft:flower_forest": "2024-12-30 18:43:09 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:16:17 +0000",
       "clifftree:tropical_river": "2024-12-23 21:33:35 +0000",
       "clifftree:oasis": "2024-12-29 01:07:37 +0000",
@@ -4718,6 +4719,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2024-12-30 18:00:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-30 18:44:52 +0000"
     },
     "done": true
   },
