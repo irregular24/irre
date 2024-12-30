@@ -3110,25 +3110,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:trickor_treat": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "trickor_treat_0": "2024-12-30 00:46:04 +0000",
-      "trickor_treat_1": "2024-12-30 00:45:21 +0000",
-      "trickor_treat_2": "2024-12-30 00:46:09 +0000",
-      "trickor_treat_3": "2024-12-30 00:46:12 +0000",
-      "trickor_treat_4": "2024-12-30 00:46:13 +0000"
+      "coded_trigger": "2024-12-30 00:23:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-30 00:32:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-30 00:53:00 +0000"
     },
     "done": true
   },
@@ -3150,12 +3140,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2024-12-30 01:02:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-30 00:32:46 +0000"
@@ -3168,15 +3152,43 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "coded_trigger": "2024-12-30 00:23:37 +0000"
+      "trickor_treat_0": "2024-12-30 00:46:04 +0000",
+      "trickor_treat_1": "2024-12-30 00:45:21 +0000",
+      "trickor_treat_2": "2024-12-30 00:46:09 +0000",
+      "trickor_treat_3": "2024-12-30 00:46:12 +0000",
+      "trickor_treat_4": "2024-12-30 00:46:13 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2024-12-30 00:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-30 00:53:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-30 01:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-30 18:18:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 18:08:28 +0000"
     },
     "done": true
   },
