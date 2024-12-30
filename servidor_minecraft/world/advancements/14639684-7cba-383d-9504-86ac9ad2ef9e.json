@@ -31,6 +31,7 @@
       "minecraft:dripstone_caves": "2024-12-29 01:15:46 +0000",
       "clifftree:warm_caves": "2024-12-29 23:53:43 +0000",
       "minecraft:forest": "2024-12-29 21:27:11 +0000",
+      "minecraft:desert": "2024-12-30 22:11:34 +0000",
       "minecraft:jungle": "2024-12-28 22:49:33 +0000",
       "minecraft:ocean": "2024-12-29 21:30:41 +0000",
       "clifftree:granite_shore": "2024-12-22 18:43:58 +0000",
@@ -3435,6 +3436,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2024-12-30 22:05:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2024-12-30 20:38:26 +0000"
@@ -3474,6 +3481,12 @@
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2024-12-30 21:36:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet_treasure": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:07:01 +0000"
     },
     "done": true
   },

@@ -972,6 +972,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2024-12-30 22:12:20 +0000",
       "cooked_beef": "2024-12-25 22:02:14 +0000",
       "beef": "2024-12-25 21:51:28 +0000",
       "porkchop": "2024-12-28 23:57:15 +0000",
@@ -4751,6 +4752,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-30 19:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-30 22:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-30 22:12:12 +0000"
     },
     "done": true
   },
