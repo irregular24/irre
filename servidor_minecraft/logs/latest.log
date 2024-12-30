@@ -375,3 +375,26 @@
 [30Dec2024 01:34:19.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
 [30Dec2024 01:34:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
 [30Dec2024 01:34:19.462] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[30Dec2024 01:37:58.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 hit the ground too hard
+[30Dec2024 01:37:58.607] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[30Dec2024 01:38:25.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[30Dec2024 01:38:25.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[30Dec2024 01:38:25.353] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[30Dec2024 01:39:48.697] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15005ada[id=<null>,name=Erickduran2002,properties={},legacy=false] (/127.132.52.36:36651) lost connection: Disconnected
+[30Dec2024 01:39:54.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:44305] logged in with entity id 233010 at (-248.84522656682236, 20.0, 1277.4527853176678)
+[30Dec2024 01:39:54.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[30Dec2024 01:39:54.484] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[30Dec2024 01:39:55.808] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[30Dec2024 01:39:55.813] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[30Dec2024 01:39:57.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[30Dec2024 01:39:58.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[30Dec2024 01:39:58.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[30Dec2024 01:43:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Scarlet Persecutor
+[30Dec2024 01:43:50.760] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[30Dec2024 01:46:05.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [Discreet Search]
+[30Dec2024 01:46:05.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Scarlet Persecutor
+[30Dec2024 01:46:05.984] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[30Dec2024 01:46:10.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[30Dec2024 01:46:10.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[30Dec2024 01:46:10.300] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[30Dec2024 01:46:10.348] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
