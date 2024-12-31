@@ -4836,6 +4836,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-31 00:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-30 22:15:02 +0000"
@@ -4875,6 +4881,12 @@
   "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
     "criteria": {
       "has_mine": "2024-12-30 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-31 00:21:35 +0000"
     },
     "done": true
   },
