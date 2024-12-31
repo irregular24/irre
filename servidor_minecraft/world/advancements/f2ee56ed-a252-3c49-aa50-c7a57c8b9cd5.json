@@ -3741,21 +3741,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+  "toughasnails:recipes/food/charc_os": {
     "criteria": {
-      "lifeturnedouttobeacomedy_0": "2024-12-30 03:16:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_mud": {
-    "criteria": {
-      "has_mud": "2024-12-30 03:36:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2024-12-30 03:12:54 +0000"
+      "has_charcoal": "2024-12-30 02:04:52 +0000"
     },
     "done": true
   },
@@ -3771,15 +3759,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "coded_trigger": "2024-12-30 03:24:18 +0000"
+      "has_magic_tablet": "2024-12-30 03:12:54 +0000"
     },
     "done": true
   },
-  "toughasnails:recipes/food/charc_os": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "has_charcoal": "2024-12-30 02:04:52 +0000"
+      "lifeturnedouttobeacomedy_0": "2024-12-30 03:16:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 03:24:18 +0000"
     },
     "done": true
   },
@@ -3792,6 +3786,12 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2024-12-30 03:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-30 03:36:45 +0000"
     },
     "done": true
   },
