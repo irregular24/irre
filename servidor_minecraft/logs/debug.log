@@ -3848,3 +3848,11 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [30Dec2024 23:54:59.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 23:54:59.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Dec2024 23:55:15.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/144875, l='ServerLevel[world]', x=-847.51, y=72.00, z=1350.51] died, message: 'Librarian was slain by Irregular24'
+[30Dec2024 23:59:59.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 23:59:59.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:03:27.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Hot Stuff]
+[31Dec2024 00:03:30.979] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/144379, l='ServerLevel[world]', x=-843.50, y=72.05, z=1350.70] died, message: 'Librarian tried to swim in lava'
+[31Dec2024 00:04:59.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:04:59.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 00:06:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[31Dec2024 00:07:16.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
