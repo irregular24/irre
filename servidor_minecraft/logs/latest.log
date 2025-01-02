@@ -1,480 +1,237 @@
-[02Jan2025 19:20:20.669] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[02Jan2025 19:20:20.673] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[02Jan2025 19:20:21.203] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[02Jan2025 19:20:21.275] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/irre/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[02Jan2025 19:20:21.699] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jan2025 19:20:21.700] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jan2025 19:20:21.702] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jan2025 19:20:21.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[02Jan2025 19:20:21.974] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[02Jan2025 19:20:25.224] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Jan2025 19:20:25.452] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[02Jan2025 19:20:25.455] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[02Jan2025 19:20:25.484] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
-[02Jan2025 19:20:25.642] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Jan2025 19:20:25.652] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Jan2025 19:20:25.685] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 82 options available, 0 override(s) found
-[02Jan2025 19:20:25.711] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Jan2025 19:20:28.958] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[02Jan2025 19:20:29.307] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[02Jan2025 19:20:40.326] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[02Jan2025 19:20:40.764] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[02Jan2025 19:20:40.794] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[02Jan2025 19:20:40.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[02Jan2025 19:20:40.798] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[02Jan2025 19:20:40.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[02Jan2025 19:20:40.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[02Jan2025 19:20:40.802] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[02Jan2025 19:20:40.808] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[02Jan2025 19:20:41.758] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[02Jan2025 19:20:41.759] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[02Jan2025 19:20:41.921] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[02Jan2025 19:20:45.086] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[02Jan2025 19:20:45.450] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[02Jan2025 19:20:45.619] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[02Jan2025 19:20:45.635] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[02Jan2025 19:20:45.636] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[02Jan2025 19:20:45.661] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[02Jan2025 19:20:45.662] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[02Jan2025 19:20:45.664] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[02Jan2025 19:20:45.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[02Jan2025 19:20:45.732] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[02Jan2025 19:20:45.737] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[02Jan2025 19:20:45.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[02Jan2025 19:20:45.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[02Jan2025 19:20:45.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[02Jan2025 19:20:45.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[02Jan2025 19:20:45.922] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[02Jan2025 19:20:45.991] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[02Jan2025 19:20:46.002] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[02Jan2025 19:20:46.010] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[02Jan2025 19:20:46.012] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[02Jan2025 19:20:46.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[02Jan2025 19:20:46.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[02Jan2025 19:20:46.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[02Jan2025 19:20:46.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02Jan2025 19:20:46.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.3 Target: 8.8.6
-[02Jan2025 19:20:46.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Starting version check at https://api.modrinth.com/updates/59ypHk8x/forge_updates.json
-[02Jan2025 19:20:46.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Found status: OUTDATED Current: 1.7.2 Target: 1.7.2+mod
-[02Jan2025 19:20:46.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[02Jan2025 19:20:46.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[02Jan2025 19:20:46.784] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[02Jan2025 19:20:46.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[02Jan2025 19:20:46.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Jan2025 19:20:47.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[02Jan2025 19:20:47.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[02Jan2025 19:20:47.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[02Jan2025 19:20:51.149] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Jan2025 19:20:54.304] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
-[02Jan2025 19:20:54.305] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
-[02Jan2025 19:20:57.569] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.3.jar
-[02Jan2025 19:20:58.997] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
-[02Jan2025 19:20:59.175] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[02Jan2025 19:20:59.449] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2427 advancements
-[02Jan2025 19:20:59.469] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[02Jan2025 19:20:59.478] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[02Jan2025 19:20:59.495] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[02Jan2025 19:21:01.436] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 24 milliseconds
-[02Jan2025 19:21:01.438] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[02Jan2025 19:21:01.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[02Jan2025 19:21:01.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Jan2025 19:21:01.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Jan2025 19:21:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Jan2025 19:21:01.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Jan2025 19:21:01.653] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Jan2025 19:21:01.756] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02Jan2025 19:21:01.757] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[02Jan2025 19:21:01.757] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02Jan2025 19:21:01.758] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[02Jan2025 19:21:01.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[02Jan2025 19:21:08.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Jan2025 19:21:11.066] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:11.070] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:15.832] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:16.000] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:16.116] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:18.542] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.545] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.548] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.550] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.552] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.555] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.560] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.562] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.565] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.567] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.570] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.573] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.576] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.579] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.582] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.585] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.587] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.589] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.592] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:18.735] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:19.235] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:19.542] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:19.546] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[02Jan2025 19:21:19.735] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:20.300] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Jan2025 19:21:20.896] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12162 ms
-[02Jan2025 19:21:20.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.118s)! For help, type "help"
-[02Jan2025 19:21:20.958] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Jan2025 19:21:20.971] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[02Jan2025 19:21:20.994] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'fun-ld.gl.at.ply.gg'
-[02Jan2025 19:21:20.995] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2861
-[02Jan2025 19:21:41.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:46623] logged in with entity id 390 at (-156.92882195015625, 63.0, 921.6999999880791)
-[02Jan2025 19:21:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 19:21:41.389] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 19:21:46.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 19:21:46.262] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 19:21:46.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5128ms or 102 ticks behind
-[02Jan2025 19:21:50.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.132.52.36:35881] logged in with entity id 596 at (-157.69999998807907, 63.0, 921.6999999880791)
-[02Jan2025 19:21:50.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
-[02Jan2025 19:21:50.519] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
-[02Jan2025 19:21:52.327] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
-[02Jan2025 19:21:52.330] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
-[02Jan2025 19:21:58.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
-[02Jan2025 19:22:00.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
-[02Jan2025 19:22:00.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
-[02Jan2025 19:22:25.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
-[02Jan2025 19:22:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
-[02Jan2025 19:22:25.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
-[02Jan2025 19:22:45.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:41933] logged in with entity id 696 at (-1041.5627207217453, 111.875, 1081.5035200451957)
-[02Jan2025 19:22:45.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[02Jan2025 19:22:45.589] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
-[02Jan2025 19:22:48.680] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
-[02Jan2025 19:22:48.682] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
-[02Jan2025 19:22:48.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
-[02Jan2025 19:22:50.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 19:22:51.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 19:22:51.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
-[02Jan2025 19:23:33.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:47493] logged in with entity id 1071 at (-156.92882195015625, 63.0, 921.6999999880791)
-[02Jan2025 19:23:33.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 19:23:33.467] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 19:23:33.677] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 19:23:33.680] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 19:23:43.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 19:23:44.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 19:23:44.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
-[02Jan2025 19:24:44.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[02Jan2025 19:26:30.038] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8d717a1b-684f-37ee-a60c-99b64c7a9639 timed out
-[02Jan2025 19:26:30.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ridick
-[02Jan2025 19:26:30.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
-[02Jan2025 19:26:30.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
-[02Jan2025 19:26:31.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
-[02Jan2025 19:26:31.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
-[02Jan2025 19:28:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Dark Metallurgy]
-[02Jan2025 19:28:42.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=60, z=916} BlockPos{x=-173, y=59, z=916}
-[02Jan2025 19:28:42.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=60, z=916} BlockPos{x=-173, y=59, z=916}
-[02Jan2025 19:30:57.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Ol' Betsy]
-[02Jan2025 19:30:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Take Aim]
-[02Jan2025 19:31:17.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=52, z=946} BlockPos{x=-151, y=51, z=946}
-[02Jan2025 19:33:36.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.392578125
-[02Jan2025 19:33:36.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.392578125
-[02Jan2025 19:33:36.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.392578125
-[02Jan2025 19:33:36.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.392578125
-[02Jan2025 19:33:36.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Erickduran2002) moved wrongly! 0.392578125
-[02Jan2025 19:37:02.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8d717a1b-684f-37ee-a60c-99b64c7a9639 timed out
-[02Jan2025 19:37:02.844] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Ridick
-[02Jan2025 19:37:02.846] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
-[02Jan2025 19:37:04.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
-[02Jan2025 19:37:04.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
-[02Jan2025 19:37:04.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
-[02Jan2025 19:37:04.499] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[02Jan2025 19:37:06.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Timed out
-[02Jan2025 19:37:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
-[02Jan2025 19:37:06.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
-[02Jan2025 19:38:35.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:58695] logged in with entity id 7433 at (-458.2417843347639, 63.0, 892.6523482449229)
-[02Jan2025 19:38:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 19:38:35.454] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 19:38:37.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 19:38:37.589] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 19:38:37.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
-[02Jan2025 19:38:39.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 19:38:40.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 19:38:40.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
-[02Jan2025 19:38:43.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.132.52.36:48655] logged in with entity id 7650 at (-130.0438502150921, 65.17675927506424, 887.6698233019184)
-[02Jan2025 19:38:43.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
-[02Jan2025 19:38:43.316] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
-[02Jan2025 19:38:44.710] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
-[02Jan2025 19:38:44.711] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
-[02Jan2025 19:38:44.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
-[02Jan2025 19:38:46.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
-[02Jan2025 19:38:47.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
-[02Jan2025 19:38:47.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
-[02Jan2025 19:38:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pipi
-[02Jan2025 19:39:13.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
-[02Jan2025 19:39:15.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> el que tenga menos muertes que reciba algun premio
-[02Jan2025 19:39:19.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
-[02Jan2025 19:39:21.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nose
-[02Jan2025 19:39:25.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nose acordo nd
-[02Jan2025 19:39:32.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
-[02Jan2025 19:39:33.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> sin contar con los ultimos 2
-[02Jan2025 19:39:46.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> porque entraron tarde
-[02Jan2025 19:39:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Ridick]
-[02Jan2025 19:40:02.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> derrpente se tendria que ver
-[02Jan2025 19:40:13.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -919.500000, 83.500000, 1357.500000]
-[02Jan2025 19:40:17.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> y para igualarnos matarnos jajaja
-[02Jan2025 19:40:39.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[02Jan2025 19:40:47.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
-[02Jan2025 19:40:57.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> por algo hay minas
-[02Jan2025 19:40:58.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3765ms or 75 ticks behind
-[02Jan2025 19:41:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> eso es verdad
-[02Jan2025 19:41:14.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pero iugal que sea permitido el pvp
-[02Jan2025 19:41:31.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> si esta :v
-[02Jan2025 19:41:47.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> sin quitar cosas y que un dia en especifico si se pueda
-[02Jan2025 19:42:03.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> que te parece mi idea
-[02Jan2025 19:42:07.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> o como lo ves
-[02Jan2025 19:42:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> tenrias que preguntarle alos demas si estan de acuerdo
-[02Jan2025 19:42:42.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si preguntales brosito
-[02Jan2025 19:42:42.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> por que hay zona oara pvp
-[02Jan2025 19:43:40.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> eso es verdad
-[02Jan2025 19:43:52.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pero eso que sea para eventos especificos
-[02Jan2025 19:49:47.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Ashes 'n Bones]
-[02Jan2025 19:50:47.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Zombie
-[02Jan2025 19:50:47.775] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 19:53:53.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was shot by Skeleton
-[02Jan2025 19:53:53.133] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 19:54:58.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was shot by Skeleton
-[02Jan2025 19:54:58.039] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 19:55:30.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was shot by Skeleton
-[02Jan2025 19:55:30.769] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 19:57:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Tank
-[02Jan2025 19:57:33.992] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 19:57:36.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Husk
-[02Jan2025 19:57:36.900] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 19:57:42.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Is this... blood?]
-[02Jan2025 19:57:50.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Tank
-[02Jan2025 19:57:50.967] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 19:57:52.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Zombie
-[02Jan2025 19:57:52.054] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 19:58:28.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
-[02Jan2025 19:59:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was shot by Skeleton
-[02Jan2025 19:59:24.178] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 20:01:58.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was shot by Stray
-[02Jan2025 20:01:58.106] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 20:02:53.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was shot by Skeleton
-[02Jan2025 20:02:53.087] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 20:03:15.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Tank
-[02Jan2025 20:03:15.652] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 20:09:34.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Enderman
-[02Jan2025 20:09:34.782] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
-[02Jan2025 20:09:44.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
-[02Jan2025 20:10:09.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 was kicked for floating too long!
-[02Jan2025 20:10:09.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Flying is not enabled on this server
-[02Jan2025 20:10:09.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
-[02Jan2025 20:10:09.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
-[02Jan2025 20:10:20.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:60301] logged in with entity id 26332 at (-989.6294253651322, 88.46026947021555, 1210.1907770748735)
-[02Jan2025 20:10:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[02Jan2025 20:10:20.493] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
-[02Jan2025 20:10:23.654] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
-[02Jan2025 20:10:23.673] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
-[02Jan2025 20:10:23.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
-[02Jan2025 20:10:24.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 20:10:25.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 20:10:25.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
-[02Jan2025 20:11:06.572] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bf62b60[id=<null>,name=Seta33,properties={},legacy=false] (/127.53.120.177:46295) lost connection: Disconnected
-[02Jan2025 20:11:09.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [A Seedy Place]
-[02Jan2025 20:11:23.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was shot by Skeleton
-[02Jan2025 20:11:23.471] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 20:12:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Spooky Scary Army]
-[02Jan2025 20:12:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Spooky Scary Army]
-[02Jan2025 20:12:48.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Boneyard]
-[02Jan2025 20:18:09.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:37159] logged in with entity id 29839 at (-47.430463711395284, 68.5, -376.07136464208054)
-[02Jan2025 20:18:09.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
-[02Jan2025 20:18:09.204] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
-[02Jan2025 20:18:13.303] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
-[02Jan2025 20:18:13.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
-[02Jan2025 20:18:22.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[02Jan2025 20:18:31.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
-[02Jan2025 20:18:32.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
-[02Jan2025 20:18:32.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
-[02Jan2025 20:22:07.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[02Jan2025 20:25:09.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> duerman
-[02Jan2025 20:25:12.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> me salgo
-[02Jan2025 20:25:18.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
-[02Jan2025 20:25:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
-[02Jan2025 20:25:18.482] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
-[02Jan2025 20:25:30.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
-[02Jan2025 20:25:30.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
-[02Jan2025 20:25:30.263] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
-[02Jan2025 20:25:36.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ridick> duerman cholos
-[02Jan2025 20:25:42.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzz
-[02Jan2025 20:25:53.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:38605] logged in with entity id 34851 at (-456.11548790810843, 63.0, 895.3343903000152)
-[02Jan2025 20:25:53.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 20:25:53.543] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 20:25:53.887] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 20:25:53.890] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 20:25:56.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 20:25:57.963] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 20:25:57.964] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
-[02Jan2025 20:25:57.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:45147] logged in with entity id 35007 at (-932.6579239900849, 24.0, 1378.300000011921)
-[02Jan2025 20:25:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[02Jan2025 20:25:58.070] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
-[02Jan2025 20:25:59.666] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
-[02Jan2025 20:25:59.667] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
-[02Jan2025 20:26:00.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 20:26:01.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 20:26:01.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
-[02Jan2025 20:26:13.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
-[02Jan2025 20:35:08.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-134, y=87, z=847} BlockPos{x=-133, y=90, z=847}
-[02Jan2025 20:38:07.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Nightmare Stalker
-[02Jan2025 20:38:07.541] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 20:39:00.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzzz
-[02Jan2025 20:39:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was shot by Missionary
-[02Jan2025 20:39:21.008] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 20:39:30.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Nightmare Stalker
-[02Jan2025 20:39:30.632] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
-[02Jan2025 20:40:27.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[02Jan2025 20:41:00.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Nightmare Stalker
-[02Jan2025 20:41:00.685] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
-[02Jan2025 20:41:15.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Nightmare Stalker
-[02Jan2025 20:41:15.961] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
-[02Jan2025 20:41:21.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[02Jan2025 20:41:40.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
-[02Jan2025 20:41:40.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
-[02Jan2025 20:41:40.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
-[02Jan2025 20:42:16.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[02Jan2025 20:42:39.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> duerman
-[02Jan2025 20:42:42.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
-[02Jan2025 20:42:42.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
-[02Jan2025 20:42:42.836] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
-[02Jan2025 20:43:18.854] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a0c071a[id=<null>,name=Erickduran2002,properties={},legacy=false] (/127.132.52.36:34853) lost connection: Disconnected
-[02Jan2025 20:43:26.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:55043] logged in with entity id 46761 at (-142.47277330809268, 63.085764312744146, 445.844914621784)
-[02Jan2025 20:43:26.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 20:43:26.338] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 20:43:27.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 20:43:27.441] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 20:43:29.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[02Jan2025 20:43:29.379] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 20:43:30.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 20:43:30.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
-[02Jan2025 20:43:47.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzz
-[02Jan2025 20:43:57.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya es de dia
-[02Jan2025 20:44:09.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> nada
-[02Jan2025 20:44:11.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ah
-[02Jan2025 20:44:19.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> duerman
-[02Jan2025 20:44:20.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
-[02Jan2025 20:44:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
-[02Jan2025 20:44:20.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
-[02Jan2025 20:44:45.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:54909] logged in with entity id 47723 at (-178.42800636944025, 62.073264324665075, 559.7093673827745)
-[02Jan2025 20:44:45.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 20:44:45.118] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 20:44:45.276] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 20:44:45.279] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 20:44:48.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 20:44:49.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 20:44:49.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
-[02Jan2025 20:44:57.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[02Jan2025 20:45:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick blew up
-[02Jan2025 20:45:24.248] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
-[02Jan2025 20:45:31.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
-[02Jan2025 20:46:30.989] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:39287] logged in with entity id 49962 at (-905.6153924348225, 82.5625, 1352.671197389916)
-[02Jan2025 20:46:31.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
-[02Jan2025 20:46:31.073] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
-[02Jan2025 20:46:32.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=88, z=909} BlockPos{x=-128, y=88, z=907}
-[02Jan2025 20:46:32.655] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=88, z=909} BlockPos{x=-128, y=88, z=907}
-[02Jan2025 20:46:32.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
-[02Jan2025 20:46:32.658] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
-[02Jan2025 20:46:34.267] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 20:46:35.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
-[02Jan2025 20:46:35.284] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
-[02Jan2025 20:46:35.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
-[02Jan2025 20:46:52.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
-[02Jan2025 20:47:13.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
-[02Jan2025 20:52:31.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[02Jan2025 20:52:52.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6446ms or 128 ticks behind
-[02Jan2025 20:53:30.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02Jan2025 20:53:47.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[02Jan2025 20:57:11.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> duerman
-[02Jan2025 20:57:20.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[02Jan2025 20:57:48.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
-[02Jan2025 20:57:58.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> zzzzz
-[02Jan2025 20:57:58.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzz
-[02Jan2025 20:57:58.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
-[02Jan2025 20:59:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -810.500000, 75.500000, 1175.500000]
-[02Jan2025 20:59:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
-[02Jan2025 20:59:21.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[02Jan2025 20:59:24.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
-[02Jan2025 21:00:48.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[02Jan2025 21:01:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
-[02Jan2025 21:01:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Explosive Temper]
-[02Jan2025 21:01:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> mrd
-[02Jan2025 21:01:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ???
-[02Jan2025 21:01:36.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> que es eso
-[02Jan2025 21:01:49.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> me puse una webada con maldicion de ligamiento
-[02Jan2025 21:01:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> f
-[02Jan2025 21:02:24.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
-[02Jan2025 21:03:19.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[02Jan2025 21:03:37.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
-[02Jan2025 21:04:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Showing new title for 4 players]
-[02Jan2025 21:04:40.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> CON PREMIO
-[02Jan2025 21:04:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> dame 10 minutos
-[02Jan2025 21:04:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> y go
-[02Jan2025 21:05:04.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
-[02Jan2025 21:05:27.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> con armadura o sin
-[02Jan2025 21:05:31.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> con
-[02Jan2025 21:05:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> armadura de cuero??
-[02Jan2025 21:05:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no lleven nd
-[02Jan2025 21:05:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> yo doy
-[02Jan2025 21:05:49.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya pero dame 10
-[02Jan2025 21:06:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> siono
-[02Jan2025 21:06:15.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> me la paso pescando nada mas
-[02Jan2025 21:06:20.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si
-[02Jan2025 21:06:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> la exploto?
-[02Jan2025 21:07:21.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> el arma
-[02Jan2025 21:07:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> de piedra
-[02Jan2025 21:08:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
-[02Jan2025 21:10:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
-[02Jan2025 21:10:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
-[02Jan2025 21:10:21.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[02Jan2025 21:10:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
-[02Jan2025 21:12:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya la tire mrd
-[02Jan2025 21:12:15.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> listo
-[02Jan2025 21:12:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was killed trying to hurt Irregular24
-[02Jan2025 21:12:23.421] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[02Jan2025 21:12:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
-[02Jan2025 21:12:47.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
-[02Jan2025 21:13:58.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[02Jan2025 21:14:01.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -1034.500000, 105.500000, 1126.500000]
-[02Jan2025 21:14:04.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> goo
-[02Jan2025 21:14:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya estamos listos
-[02Jan2025 21:14:17.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
-[02Jan2025 21:14:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
-[02Jan2025 21:14:30.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -1525.500000, 66.500000, 200.500000]
-[02Jan2025 21:14:35.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Door Knight
-[02Jan2025 21:14:35.309] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
-[02Jan2025 21:14:36.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[02Jan2025 21:14:45.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported 4 entities to Irregular24]
-[02Jan2025 21:14:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> teletransportanos
-[02Jan2025 21:14:54.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
-[02Jan2025 21:14:57.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> llevame a mi casa
-[02Jan2025 21:15:01.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no deje nada
-[02Jan2025 21:15:40.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ven
-[02Jan2025 21:16:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> deja
-[02Jan2025 21:18:19.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe pero sin agua no nos curamos creo
-[02Jan2025 21:18:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si
-[02Jan2025 21:20:26.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5 timed out
-[02Jan2025 21:20:26.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Erickduran2002
-[02Jan2025 21:20:26.619] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 21:20:34.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
-[02Jan2025 21:20:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
-[02Jan2025 21:20:34.350] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
-[02Jan2025 21:21:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ridick> erick ahora entra se apago su compu
-[02Jan2025 21:21:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> listo
-[02Jan2025 21:22:18.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ridick> no me diste papel el erick se lo agarro para el baño
-[02Jan2025 21:22:28.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
-[02Jan2025 21:23:56.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Irregular24
-[02Jan2025 21:23:56.222] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[02Jan2025 21:24:02.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:43851] logged in with entity id 72076 at (-1530.574125577337, 66.0, 189.35633080970734)
-[02Jan2025 21:24:02.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
-[02Jan2025 21:24:02.394] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
-[02Jan2025 21:24:03.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
-[02Jan2025 21:24:03.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
-[02Jan2025 21:24:10.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 21:24:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
-[02Jan2025 21:24:11.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
-[02Jan2025 21:24:11.103] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[02Jan2025 21:35:31.906] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[02Jan2025 21:35:31.917] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[02Jan2025 21:35:34.503] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[02Jan2025 21:35:34.661] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/irre/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[02Jan2025 21:35:35.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 21:35:35.253] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 21:35:35.254] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 21:35:35.256] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/irre/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[02Jan2025 21:35:35.658] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[02Jan2025 21:35:41.741] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Jan2025 21:35:42.219] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[02Jan2025 21:35:42.222] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[02Jan2025 21:35:42.443] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[02Jan2025 21:35:42.817] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jan2025 21:35:42.875] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jan2025 21:35:42.910] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 82 options available, 0 override(s) found
+[02Jan2025 21:35:42.967] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Jan2025 21:35:47.814] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[02Jan2025 21:35:48.431] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[02Jan2025 21:36:09.149] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[02Jan2025 21:36:10.597] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Jan2025 21:36:10.610] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[02Jan2025 21:36:10.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[02Jan2025 21:36:10.633] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[02Jan2025 21:36:10.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[02Jan2025 21:36:10.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[02Jan2025 21:36:10.651] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[02Jan2025 21:36:10.660] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[02Jan2025 21:36:12.105] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[02Jan2025 21:36:12.106] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[02Jan2025 21:36:12.392] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02Jan2025 21:36:16.131] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[02Jan2025 21:36:16.921] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[02Jan2025 21:36:17.104] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[02Jan2025 21:36:17.138] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[02Jan2025 21:36:17.147] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[02Jan2025 21:36:17.185] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[02Jan2025 21:36:17.185] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[02Jan2025 21:36:17.186] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[02Jan2025 21:36:17.302] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02Jan2025 21:36:17.308] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02Jan2025 21:36:17.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[02Jan2025 21:36:17.658] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[02Jan2025 21:36:17.771] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[02Jan2025 21:36:17.800] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[02Jan2025 21:36:17.817] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[02Jan2025 21:36:17.836] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[02Jan2025 21:36:17.986] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[02Jan2025 21:36:17.988] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[02Jan2025 21:36:18.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[02Jan2025 21:36:18.006] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[02Jan2025 21:36:18.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[02Jan2025 21:36:18.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[02Jan2025 21:36:18.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[02Jan2025 21:36:18.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Jan2025 21:36:18.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.3 Target: 8.8.6
+[02Jan2025 21:36:18.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Starting version check at https://api.modrinth.com/updates/59ypHk8x/forge_updates.json
+[02Jan2025 21:36:18.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_clifftree] Found status: OUTDATED Current: 1.7.2 Target: 1.7.2+mod
+[02Jan2025 21:36:18.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[02Jan2025 21:36:19.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[02Jan2025 21:36:19.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[02Jan2025 21:36:19.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[02Jan2025 21:36:19.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jan2025 21:36:19.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[02Jan2025 21:36:19.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[02Jan2025 21:36:19.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[02Jan2025 21:36:24.653] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Jan2025 21:36:28.103] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[02Jan2025 21:36:28.105] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/irre/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[02Jan2025 21:36:34.445] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.8.3.jar
+[02Jan2025 21:36:37.719] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[02Jan2025 21:36:37.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[02Jan2025 21:36:38.431] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2427 advancements
+[02Jan2025 21:36:38.462] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[02Jan2025 21:36:38.477] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[02Jan2025 21:36:38.595] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[02Jan2025 21:36:42.145] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 47 milliseconds
+[02Jan2025 21:36:42.147] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[02Jan2025 21:36:42.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[02Jan2025 21:36:42.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jan2025 21:36:42.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jan2025 21:36:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jan2025 21:36:42.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jan2025 21:36:42.889] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Jan2025 21:36:43.132] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Jan2025 21:36:43.133] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Jan2025 21:36:43.135] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Jan2025 21:36:43.135] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Jan2025 21:36:43.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jan2025 21:36:44.301] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:44.302] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:44.601] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:44.957] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:45.132] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:45.281] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:45.451] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:45.605] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:45.791] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:45.973] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:46.163] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:46.325] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:46.499] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:46.789] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:51.783] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:51.869] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:51.906] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:51.969] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:52.014] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:52.076] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:53.426] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:53.579] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:53.873] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:54.031] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:36:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Jan2025 21:37:04.761] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:05.547] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:06.225] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:07.229] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:07.872] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:08.412] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:09.035] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:09.212] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:09.441] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:09.810] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:09.900] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:09.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:10.090] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:10.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:10.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:10.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:11.338] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:12.163] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:12.659] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:13.177] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:13.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.453] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:13.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.521] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.527] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.597] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.637] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:13.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:13.854] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:14.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:14.848] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:14.988] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:15.161] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:15.345] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:15.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Jan2025 21:37:15.970] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[02Jan2025 21:37:16.566] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 21219 ms
+[02Jan2025 21:37:16.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.222s)! For help, type "help"
+[02Jan2025 21:37:17.024] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:17.179] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jan2025 21:37:17.210] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[02Jan2025 21:37:17.218] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02Jan2025 21:37:17.245] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'fun-ld.gl.at.ply.gg'
+[02Jan2025 21:37:17.248] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2861
+[02Jan2025 21:37:19.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[02Jan2025 21:37:23.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.132.52.36:33621] logged in with entity id 368 at (-1517.4570755771817, 83.0, 179.345966900456)
+[02Jan2025 21:37:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[02Jan2025 21:37:23.732] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[02Jan2025 21:37:31.606] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[02Jan2025 21:37:31.626] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[02Jan2025 21:37:32.195] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[02Jan2025 21:37:33.192] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[02Jan2025 21:37:33.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[02Jan2025 21:37:35.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.132.52.36:59757] logged in with entity id 524 at (-1496.4160241645397, 65.0, 172.54628021241825)
+[02Jan2025 21:37:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[02Jan2025 21:37:35.752] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[02Jan2025 21:37:35.969] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[02Jan2025 21:37:35.972] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[02Jan2025 21:37:37.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[02Jan2025 21:37:38.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[02Jan2025 21:37:38.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[02Jan2025 21:37:43.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:34151] logged in with entity id 607 at (-1519.7691897542404, 80.20000004768372, 176.8967878348223)
+[02Jan2025 21:37:44.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[02Jan2025 21:37:44.266] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[02Jan2025 21:37:45.634] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[02Jan2025 21:37:45.647] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[02Jan2025 21:37:51.136] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[02Jan2025 21:37:52.137] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[02Jan2025 21:37:52.138] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[02Jan2025 21:38:01.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27438ms or 548 ticks behind
+[02Jan2025 21:38:30.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:56305] logged in with entity id 751 at (-1502.699999988079, 64.0, 151.14797503026983)
+[02Jan2025 21:38:30.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[02Jan2025 21:38:30.918] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[02Jan2025 21:38:31.551] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[02Jan2025 21:38:31.558] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[02Jan2025 21:38:34.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02Jan2025 21:38:38.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[02Jan2025 21:38:39.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[02Jan2025 21:38:39.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[02Jan2025 21:40:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> hazme espectador
+[02Jan2025 21:40:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Erickduran2002's game mode to Spectator Mode]
+[02Jan2025 21:40:10.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[02Jan2025 21:40:32.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> mi gallo Seta33
+[02Jan2025 21:40:51.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Seta33
+[02Jan2025 21:40:51.999] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
+[02Jan2025 21:40:56.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[02Jan2025 21:41:07.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Ridick to Irregular24]
+[02Jan2025 21:41:25.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Erickduran2002's game mode to Survival Mode]
+[02Jan2025 21:41:25.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[02Jan2025 21:41:32.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> con cuanta de vida te dejo??
+[02Jan2025 21:41:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:41:44.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> 9 coras :v
+[02Jan2025 21:41:47.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ME QUITO 2 CORAZONES CREO
+[02Jan2025 21:42:19.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[02Jan2025 21:42:30.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Erickduran2002's game mode to Spectator Mode]
+[02Jan2025 21:42:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[02Jan2025 21:42:40.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> vamos gallo
+[02Jan2025 21:43:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Seta33
+[02Jan2025 21:43:33.290] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
+[02Jan2025 21:43:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> malo
+[02Jan2025 21:43:52.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Ridick to Irregular24]
+[02Jan2025 21:44:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:44:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Erickduran2002's game mode to Survival Mode]
