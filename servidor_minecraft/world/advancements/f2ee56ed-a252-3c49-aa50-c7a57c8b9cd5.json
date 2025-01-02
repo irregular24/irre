@@ -384,6 +384,7 @@
       "rotten_flesh": "2024-12-25 21:52:49 +0000",
       "dried_kelp": "2024-12-29 02:06:26 +0000",
       "melon_slice": "2024-12-26 00:27:02 +0000",
+      "golden_carrot": "2025-01-02 21:17:59 +0000",
       "cooked_salmon": "2024-12-29 03:14:51 +0000",
       "carrot": "2025-01-02 20:18:59 +0000"
     },
@@ -4094,6 +4095,30 @@
   "securitycraft:recipes/redstone/reinforced_jungle_button": {
     "criteria": {
       "has_block": "2025-01-02 20:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-02 21:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 21:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 21:12:46 +0000"
     },
     "done": true
   },
