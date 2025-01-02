@@ -4869,3 +4869,42 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 21:02:24.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [02Jan2025 21:02:32.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 21:02:32.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:03:19.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Jan2025 21:03:37.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[02Jan2025 21:04:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Showing new title for 4 players]
+[02Jan2025 21:04:40.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> CON PREMIO
+[02Jan2025 21:04:43.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> dame 10 minutos
+[02Jan2025 21:04:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> y go
+[02Jan2025 21:05:04.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[02Jan2025 21:05:06.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[02Jan2025 21:05:27.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> con armadura o sin
+[02Jan2025 21:05:31.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> con
+[02Jan2025 21:05:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> armadura de cuero??
+[02Jan2025 21:05:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no lleven nd
+[02Jan2025 21:05:43.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> yo doy
+[02Jan2025 21:05:49.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya pero dame 10
+[02Jan2025 21:06:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> siono
+[02Jan2025 21:06:15.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> me la paso pescando nada mas
+[02Jan2025 21:06:20.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si
+[02Jan2025 21:06:23.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> la exploto?
+[02Jan2025 21:07:21.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> el arma
+[02Jan2025 21:07:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> de piedra
+[02Jan2025 21:07:37.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:07:37.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:08:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[02Jan2025 21:10:09.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[02Jan2025 21:10:17.875] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jan2025 21:10:17.881] [Worker-Main-22/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jan2025 21:10:17.887] [Worker-Main-22/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 21:10:20.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[02Jan2025 21:10:21.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Jan2025 21:10:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:12:00.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya la tire mrd
+[02Jan2025 21:12:15.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> listo
+[02Jan2025 21:12:23.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was killed trying to hurt Irregular24
+[02Jan2025 21:12:23.418] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:60, y:63, z:-225, dim:minecraft:overworld]
+[02Jan2025 21:12:23.421] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[02Jan2025 21:12:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[02Jan2025 21:12:39.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:12:39.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:12:47.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
