@@ -776,6 +776,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-30 03:25:41 +0000",
+      "melon_slice": "2025-01-02 19:46:34 +0000",
       "carrot": "2024-12-30 03:45:55 +0000"
     },
     "done": false
@@ -1098,18 +1099,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-01-02 19:35:02 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-01-02 19:35:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-02 19:28:38 +0000"
@@ -1119,6 +1108,30 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-02 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-02 19:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 19:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-02 19:35:02 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-02 19:35:02 +0000"
     },
     "done": true
   },
@@ -1134,15 +1147,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "has_stripped_logs": "2025-01-02 19:30:48 +0000"
+      "has_chicken": "2025-01-02 19:40:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_log": "2025-01-02 19:30:48 +0000"
+      "has_chicken": "2025-01-02 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-02 19:40:50 +0000"
     },
     "done": true
   },
