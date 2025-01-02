@@ -3832,6 +3832,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-01-02 22:53:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 22:31:06 +0000"
@@ -3841,6 +3847,12 @@
   "toughasnails:recipes/combat/wool_helmet": {
     "criteria": {
       "has_wool": "2025-01-02 22:31:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2025-01-02 22:43:46 +0000"
     },
     "done": true
   },
@@ -3856,15 +3868,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-01-02 22:31:06 +0000"
     },
     "done": true
   },
+  "tombstone:adventure/engrave_decorative_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-01-02 22:31:06 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-02 22:48:06 +0000"
     },
     "done": true
   },
