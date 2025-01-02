@@ -3048,3 +3048,70 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 21:43:52.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Ridick to Irregular24]
 [02Jan2025 21:44:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
 [02Jan2025 21:44:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Erickduran2002's game mode to Survival Mode]
+[02Jan2025 21:45:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
+[02Jan2025 21:45:39.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> OBSERVADOR
+[02Jan2025 21:45:48.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Ridick's game mode to Spectator Mode]
+[02Jan2025 21:45:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Spectator Mode]
+[02Jan2025 21:46:21.354] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jan2025 21:46:21.357] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jan2025 21:46:21.358] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 21:46:34.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[02Jan2025 21:46:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:47:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [Statue's Bargain]
+[02Jan2025 21:47:16.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[02Jan2025 21:47:53.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:47:53.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:48:00.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> cuenten
+[02Jan2025 21:48:03.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 1
+[02Jan2025 21:48:07.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> otro escudo
+[02Jan2025 21:48:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pa mi
+[02Jan2025 21:48:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> el otro estaba pomada
+[02Jan2025 21:48:23.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:48:36.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[02Jan2025 21:48:39.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya cuenten
+[02Jan2025 21:48:46.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 3
+[02Jan2025 21:48:50.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 2
+[02Jan2025 21:48:56.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 1
+[02Jan2025 21:48:59.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> GAA
+[02Jan2025 21:50:09.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was slain by Irregular24
+[02Jan2025 21:50:09.528] [Server thread/DEBUG] [tombstone/]: A new grave of the player Erickduran2002 was created at position [x:-1520, y:64, z:154, dim:minecraft:overworld]
+[02Jan2025 21:50:09.613] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[02Jan2025 21:50:14.526] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[02Jan2025 21:50:14.536] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md5ec0b8$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[02Jan2025 21:50:16.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> que paso
+[02Jan2025 21:50:18.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[02Jan2025 21:50:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Erickduran2002 to Irregular24]
+[02Jan2025 21:50:20.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> h
+[02Jan2025 21:50:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:50:33.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> cuenten
+[02Jan2025 21:50:44.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 3
+[02Jan2025 21:50:50.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[02Jan2025 21:50:50.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 2
+[02Jan2025 21:50:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 1
+[02Jan2025 21:51:01.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> GOOOOOO
+[02Jan2025 21:51:24.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Erickduran2002
+[02Jan2025 21:51:24.072] [Server thread/DEBUG] [tombstone/]: A new grave of the player Irregular24 was created at position [x:-1520, y:65, z:179, dim:minecraft:overworld]
+[02Jan2025 21:51:24.077] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[02Jan2025 21:51:27.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved too quickly! 1.620620967340301,0.42355929454303975,-10.173014918226727
+[02Jan2025 21:51:33.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[02Jan2025 21:51:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[02Jan2025 21:51:47.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> 1-1
+[02Jan2025 21:51:54.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 3
+[02Jan2025 21:51:55.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> dale
+[02Jan2025 21:51:57.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 2
+[02Jan2025 21:51:59.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 1
+[02Jan2025 21:52:01.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> GO
+[02Jan2025 21:52:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Erickduran2002
+[02Jan2025 21:52:33.809] [Server thread/DEBUG] [tombstone/]: A new grave of the player Irregular24 was created at position [x:-1517, y:64, z:150, dim:minecraft:overworld]
+[02Jan2025 21:52:33.815] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[02Jan2025 21:52:40.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[02Jan2025 21:52:45.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[02Jan2025 21:52:50.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[02Jan2025 21:52:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> buena
+[02Jan2025 21:53:00.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 21:53:00.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 21:53:39.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[02Jan2025 21:53:43.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[02Jan2025 21:53:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
+[02Jan2025 21:54:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Survival Mode]
+[02Jan2025 21:54:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Ridick's game mode to Survival Mode]
