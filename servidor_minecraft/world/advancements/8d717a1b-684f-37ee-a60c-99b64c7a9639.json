@@ -631,6 +631,9 @@
       "minecraft:pillager": "2024-12-30 03:24:40 +0000",
       "minecraft:skeleton": "2025-01-02 19:51:54 +0000",
       "minecraft:spider": "2024-12-30 03:32:15 +0000",
+      "minecraft:creeper": "2025-01-02 19:59:56 +0000",
+      "minecraft:husk": "2025-01-02 20:01:40 +0000",
+      "minecraft:stray": "2025-01-02 20:00:30 +0000",
       "minecraft:zombie": "2024-12-30 03:34:09 +0000",
       "minecraft:drowned": "2024-12-30 03:36:32 +0000"
     },
@@ -1160,6 +1163,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-01-02 20:12:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 19:56:15 +0000"
@@ -1169,6 +1178,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-01-02 19:46:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-01-02 20:36:22 +0000"
     },
     "done": true
   },
@@ -1187,6 +1202,30 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-02 19:56:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-02 20:26:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_jungle_stairs": {
+    "criteria": {
+      "has_block": "2025-01-02 20:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-02 20:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-02 20:36:22 +0000"
     },
     "done": true
   },
@@ -1214,15 +1253,33 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-01-02 19:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-02 19:56:15 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_jungle_slab": {
+    "criteria": {
+      "has_block": "2025-01-02 20:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-02 19:40:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_button": {
+    "criteria": {
+      "has_block": "2025-01-02 20:26:16 +0000"
     },
     "done": true
   },
