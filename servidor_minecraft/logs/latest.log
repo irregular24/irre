@@ -201,3 +201,11 @@
 [03Jan2025 19:01:17.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
 [03Jan2025 19:01:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [03Jan2025 19:01:17.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[03Jan2025 19:18:37.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:48043] logged in with entity id 13976 at (-851.7006174128016, 88.0, 1385.9057468957978)
+[03Jan2025 19:18:37.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[03Jan2025 19:18:37.944] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[03Jan2025 19:18:39.231] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[03Jan2025 19:18:39.232] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[03Jan2025 19:18:40.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[03Jan2025 19:18:41.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[03Jan2025 19:18:41.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
