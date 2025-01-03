@@ -3472,3 +3472,23 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Jan2025 20:01:49.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jan2025 20:06:48.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 20:06:48.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:08:08.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Nightmare Stalker
+[03Jan2025 20:08:08.368] [Server thread/DEBUG] [tombstone/]: A new grave of the player Irregular24 was created at position [x:-1038, y:-38, z:1553, dim:minecraft:overworld]
+[03Jan2025 20:08:08.389] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[03Jan2025 20:09:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Nightmare Stalker
+[03Jan2025 20:09:56.839] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[03Jan2025 20:09:59.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03Jan2025 20:10:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[03Jan2025 20:11:07.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[03Jan2025 20:11:50.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:11:50.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 20:13:41.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[03Jan2025 20:13:41.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[03Jan2025 20:13:41.310] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Irregular24
+[03Jan2025 20:13:41.310] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[03Jan2025 20:15:53.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[03Jan2025 20:15:53.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[03Jan2025 20:15:53.252] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[03Jan2025 20:15:53.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[03Jan2025 20:16:50.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 20:16:50.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
