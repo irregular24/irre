@@ -3634,3 +3634,61 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [02Jan2025 23:48:30.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jan2025 23:49:00.851] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
 [02Jan2025 23:50:09.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzzzzz
+[02Jan2025 23:50:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzz
+[02Jan2025 23:50:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzz
+[02Jan2025 23:51:04.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> anda a tu casa
+[02Jan2025 23:51:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> viniste con tp vete con tp
+[02Jan2025 23:51:22.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> duerme
+[02Jan2025 23:51:26.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Nightmare Stalker
+[02Jan2025 23:51:26.301] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-69, y:69, z:-373, dim:minecraft:overworld]
+[02Jan2025 23:51:26.314] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[02Jan2025 23:51:33.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[02Jan2025 23:52:27.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzz
+[02Jan2025 23:53:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzz
+[02Jan2025 23:53:30.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:53:30.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 23:54:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> vete
+[02Jan2025 23:54:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzz
+[02Jan2025 23:55:31.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> dale mas
+[02Jan2025 23:55:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> cuando sale humo esque aun falta mas comida
+[02Jan2025 23:56:11.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> con pan es mejor
+[02Jan2025 23:56:32.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[02Jan2025 23:56:32.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[02Jan2025 23:56:32.286] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Seta33
+[02Jan2025 23:56:32.286] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Seta33
+[02Jan2025 23:56:32.286] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Seta33
+[02Jan2025 23:56:32.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[02Jan2025 23:56:32.288] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 14639684-7cba-383d-9504-86ac9ad2ef9e to disconnected: {disabled=true, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[02Jan2025 23:56:44.952] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:44.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:60826
+[02Jan2025 23:56:45.727] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[02Jan2025 23:57:00.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[02Jan2025 23:57:01.397] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[02Jan2025 23:57:01.398] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Seta33 to connected: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[02Jan2025 23:57:01.398] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[02Jan2025 23:57:01.529] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[02Jan2025 23:57:19.546] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[02Jan2025 23:57:19.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[02Jan2025 23:57:19.547] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Seta33
+[02Jan2025 23:57:19.548] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Seta33
+[02Jan2025 23:57:19.548] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Seta33
+[02Jan2025 23:57:19.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[02Jan2025 23:57:19.549] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 14639684-7cba-383d-9504-86ac9ad2ef9e to disconnected: {disabled=true, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[02Jan2025 23:57:32.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[02Jan2025 23:57:32.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[02Jan2025 23:57:32.451] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[02Jan2025 23:57:32.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[02Jan2025 23:58:29.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:58:29.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 00:00:35.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[03Jan2025 00:00:35.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[03Jan2025 00:00:35.051] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Irregular24
+[03Jan2025 00:00:35.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
