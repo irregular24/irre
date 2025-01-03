@@ -982,6 +982,7 @@
       "porkchop": "2024-12-28 23:57:15 +0000",
       "apple": "2024-12-29 20:02:02 +0000",
       "potato": "2024-12-29 21:03:38 +0000",
+      "mutton": "2025-01-03 19:30:37 +0000",
       "bread": "2024-12-23 21:32:56 +0000",
       "golden_apple": "2024-12-25 23:55:27 +0000",
       "rotten_flesh": "2024-12-23 21:27:47 +0000",
@@ -5273,6 +5274,24 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-01-02 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 19:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-03 19:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-03 19:28:50 +0000"
     },
     "done": true
   },
