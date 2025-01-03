@@ -211,3 +211,5 @@
 [03Jan2025 19:18:41.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [03Jan2025 19:30:38.271] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
 [03Jan2025 19:36:53.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[03Jan2025 19:56:15.462] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/381, l='ServerLevel[world]', x=-37.61, y=67.00, z=-369.91] died, message: 'Fletcher was slain by Zombie Villager'
+[03Jan2025 19:56:32.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/14985, l='ServerLevel[world]', x=-46.50, y=67.00, z=-366.03] died, message: 'Fletcher was slain by Zombie Villager'
