@@ -151,3 +151,43 @@
 [03Jan2025 18:15:17.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [03Jan2025 18:15:18.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [03Jan2025 18:15:18.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[03Jan2025 18:26:50.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Nightmare Stalker
+[03Jan2025 18:26:50.193] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[03Jan2025 18:27:56.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 was kicked for floating too long!
+[03Jan2025 18:27:56.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Flying is not enabled on this server
+[03Jan2025 18:27:56.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[03Jan2025 18:27:56.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[03Jan2025 18:27:56.698] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 18:28:04.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@374a773[id=<null>,name=Seta33,properties={},legacy=false] (/127.53.120.177:37113) lost connection: Disconnected
+[03Jan2025 18:28:12.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:52803] logged in with entity id 4300 at (-351.0089392648279, 99.28549238931866, -186.32448106550856)
+[03Jan2025 18:28:12.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[03Jan2025 18:28:12.345] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[03Jan2025 18:28:12.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[03Jan2025 18:28:12.702] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[03Jan2025 18:28:20.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:28:21.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:28:21.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[03Jan2025 18:28:56.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 was kicked for floating too long!
+[03Jan2025 18:28:56.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Flying is not enabled on this server
+[03Jan2025 18:28:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[03Jan2025 18:28:56.709] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[03Jan2025 18:29:08.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:52683] logged in with entity id 4673 at (-284.5559056178828, 87.11071530842175, -232.33885328117228)
+[03Jan2025 18:29:08.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[03Jan2025 18:29:08.557] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[03Jan2025 18:29:08.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[03Jan2025 18:29:08.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[03Jan2025 18:29:14.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:29:15.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:29:15.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[03Jan2025 18:29:18.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 was kicked for floating too long!
+[03Jan2025 18:29:18.655] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Flying is not enabled on this server
+[03Jan2025 18:29:18.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[03Jan2025 18:29:18.656] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[03Jan2025 18:29:33.318] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:60883] logged in with entity id 4879 at (-279.1326536037582, 75.18325303247866, -232.17647689430729)
+[03Jan2025 18:29:33.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[03Jan2025 18:29:33.362] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[03Jan2025 18:29:33.609] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[03Jan2025 18:29:33.611] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[03Jan2025 18:29:39.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:29:40.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:29:40.021] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
