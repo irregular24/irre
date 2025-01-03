@@ -3940,5 +3940,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-03 18:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-03 18:51:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
