@@ -143,3 +143,11 @@
 [03Jan2025 17:58:21.941] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [03Jan2025 17:58:22.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [03Jan2025 17:58:22.944] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[03Jan2025 18:14:51.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.53.120.177:60775] logged in with entity id 2114 at (-64.30000001192093, 69.50771199477535, -368.30000001192093)
+[03Jan2025 18:14:51.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[03Jan2025 18:14:52.094] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[03Jan2025 18:14:57.377] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[03Jan2025 18:14:57.381] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[03Jan2025 18:15:17.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:15:18.034] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[03Jan2025 18:15:18.035] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
