@@ -3237,3 +3237,10 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [03Jan2025 18:29:40.159] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
 [03Jan2025 18:31:45.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 18:31:45.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:36:45.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:36:45.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:40:28.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 fell off some vines
+[03Jan2025 18:40:28.309] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-93, y:78, z:-330, dim:minecraft:overworld]
+[03Jan2025 18:40:28.311] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[03Jan2025 18:41:44.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:41:44.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
