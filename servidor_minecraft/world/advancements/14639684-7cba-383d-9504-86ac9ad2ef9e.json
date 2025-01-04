@@ -873,6 +873,7 @@
       "potato": "2024-12-28 22:51:54 +0000",
       "bread": "2024-12-28 23:00:16 +0000",
       "golden_apple": "2024-12-28 23:48:47 +0000",
+      "cookie": "2025-01-04 21:28:56 +0000",
       "melon_slice": "2024-12-28 23:57:32 +0000",
       "golden_carrot": "2024-12-30 21:58:39 +0000"
     },
@@ -4097,6 +4098,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-01-04 20:59:58 +0000"
@@ -4121,6 +4128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-04 21:17:33 +0000"
@@ -4133,9 +4146,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-04 21:31:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-01-04 20:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-04 21:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-04 21:30:47 +0000"
     },
     "done": true
   },
@@ -4148,6 +4191,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-01-04 21:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
     },
     "done": true
   },
