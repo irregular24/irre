@@ -580,6 +580,7 @@
       "apple": "2024-12-29 20:33:00 +0000",
       "cooked_cod": "2024-12-29 20:21:00 +0000",
       "bread": "2024-12-28 23:10:41 +0000",
+      "golden_apple": "2025-01-04 22:52:28 +0000",
       "rotten_flesh": "2024-12-29 21:13:26 +0000",
       "melon_slice": "2024-12-29 22:28:10 +0000",
       "beetroot": "2024-12-29 21:12:10 +0000",
@@ -616,6 +617,7 @@
       "minecraft:zombified_piglin": "2024-12-29 21:29:57 +0000",
       "minecraft:husk": "2024-12-29 21:13:11 +0000",
       "minecraft:silverfish": "2025-01-04 20:47:24 +0000",
+      "minecraft:stray": "2025-01-04 22:51:53 +0000",
       "minecraft:zombie": "2024-12-28 23:48:32 +0000",
       "minecraft:zombie_villager": "2024-12-28 23:35:33 +0000"
     },
@@ -3859,6 +3861,12 @@
   "toughasnails:recipes/tools/netherite_dirty_water_canteen_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-04 22:30:03 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-01-04 22:56:08 +0000"
     },
     "done": true
   },
