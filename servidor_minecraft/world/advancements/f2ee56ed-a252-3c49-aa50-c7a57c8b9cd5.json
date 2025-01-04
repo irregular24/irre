@@ -4123,6 +4123,12 @@
     },
     "done": true
   },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2025-01-02 21:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 22:21:28 +0000"
@@ -4135,33 +4141,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-01-02 22:54:43 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/combat/wool_helmet": {
     "criteria": {
       "has_wool": "2025-01-02 22:21:28 +0000"
     },
     "done": true
   },
-  "paraglider:statues_bargain": {
-    "criteria": {
-      "bargain": "2025-01-02 21:47:07 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/combat/wool_boots": {
     "criteria": {
       "has_wool": "2025-01-02 22:21:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2025-01-02 23:14:42 +0000"
     },
     "done": true
   },
@@ -4186,6 +4174,30 @@
   "toughasnails:recipes/combat/wool_chestplate": {
     "criteria": {
       "has_wool": "2025-01-02 22:21:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-02 22:54:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 23:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-04 20:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 20:05:52 +0000"
     },
     "done": true
   },

@@ -1465,6 +1465,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 22:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-02 22:55:45 +0000"
@@ -1498,12 +1504,6 @@
   "toughasnails:recipes/tools/empty_diamond_canteen": {
     "criteria": {
       "has_diamond": "2025-01-02 22:55:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-01-02 22:55:47 +0000"
     },
     "done": true
   },
@@ -1555,9 +1555,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
-      "coded_trigger": "2025-01-02 22:36:42 +0000"
+      "has_voodoo_poppet": "2025-01-02 22:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 20:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 20:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 20:07:52 +0000"
     },
     "done": true
   },
