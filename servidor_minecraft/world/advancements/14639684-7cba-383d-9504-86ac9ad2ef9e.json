@@ -1380,11 +1380,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-29 00:15:26 +0000",
+      "minecraft:blaze": "2025-01-04 22:07:43 +0000",
       "minecraft:skeleton": "2024-12-29 19:48:45 +0000",
       "minecraft:vindicator": "2024-12-29 00:22:56 +0000",
       "minecraft:spider": "2024-12-29 20:16:31 +0000",
       "minecraft:creeper": "2024-12-29 20:20:09 +0000",
       "minecraft:slime": "2024-12-29 20:40:46 +0000",
+      "minecraft:wither_skeleton": "2025-01-04 22:08:41 +0000",
       "minecraft:husk": "2024-12-29 22:34:50 +0000",
       "minecraft:cave_spider": "2024-12-29 20:35:05 +0000",
       "minecraft:stray": "2024-12-29 22:37:35 +0000",
@@ -4147,6 +4149,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-04 22:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-04 22:06:50 +0000"
@@ -4351,6 +4359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 22:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
@@ -4390,6 +4404,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-04 22:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 22:07:59 +0000"
     },
     "done": true
   },
