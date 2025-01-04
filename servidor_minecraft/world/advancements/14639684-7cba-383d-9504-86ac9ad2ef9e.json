@@ -22,6 +22,8 @@
       "clifftree:sparse_forest": "2024-12-22 18:42:26 +0000",
       "clifftree:temperate_beach": "2024-12-29 23:09:50 +0000",
       "clifftree:shrubland": "2024-12-30 22:15:24 +0000",
+      "minecraft:cherry_grove": "2025-01-04 21:40:10 +0000",
+      "minecraft:sunflower_plains": "2025-01-04 21:40:16 +0000",
       "clifftree:warm_river": "2024-12-30 22:15:17 +0000",
       "clifftree:caves": "2024-12-28 23:14:10 +0000",
       "minecraft:bamboo_jungle": "2024-12-29 21:48:19 +0000",
@@ -43,6 +45,7 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-30 19:10:35 +0000",
       "clifftree:lukewarm_caves": "2024-12-28 23:29:54 +0000",
       "clifftree:tropical_river": "2024-12-28 22:49:30 +0000",
+      "minecraft:meadow": "2025-01-04 21:45:12 +0000",
       "minecraft:savanna": "2024-12-28 23:56:16 +0000",
       "minecraft:plains": "2024-12-28 22:46:40 +0000"
     },
@@ -4140,6 +4143,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-01-04 21:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-04 21:17:33 +0000"
@@ -4164,6 +4173,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-04 21:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-01-04 21:24:20 +0000"
@@ -4179,6 +4194,18 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-04 21:30:47 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-04 21:42:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-01-04 21:43:36 +0000"
     },
     "done": true
   },
