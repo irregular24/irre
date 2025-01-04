@@ -1561,6 +1561,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 20:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 20:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 20:07:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-01-04 20:23:23 +0000"
@@ -1579,21 +1597,9 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-01-04 20:36:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 20:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-01-04 20:07:52 +0000"
     },
     "done": true
   },
@@ -1681,12 +1687,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 20:23:23 +0000"
@@ -1735,12 +1735,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 20:23:23 +0000"
@@ -1777,12 +1771,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-01-04 20:23:23 +0000"
@@ -1816,18 +1804,6 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 20:23:23 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/tools/empty_copper_canteen": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-04 20:07:52 +0000"
     },
     "done": true
   },
@@ -1873,21 +1849,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-04 20:07:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 20:23:23 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/decorations/water_purifier": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
     },
     "done": true
   },
@@ -1936,6 +1900,72 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 20:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-04 20:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-04 20:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-04 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-01-04 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-01-04 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-04 20:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-04 20:49:15 +0000"
     },
     "done": true
   },

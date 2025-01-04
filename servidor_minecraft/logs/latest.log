@@ -1157,3 +1157,52 @@
 [04Jan2025 20:43:13.359] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
 [04Jan2025 20:43:13.604] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
 [04Jan2025 20:43:13.605] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[04Jan2025 20:43:16.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[04Jan2025 20:43:17.644] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[04Jan2025 20:43:17.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[04Jan2025 20:43:29.351] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d9ea179[id=<null>,name=Ridick,properties={},legacy=false] (/127.78.245.127:35421) lost connection: Disconnected
+[04Jan2025 20:43:31.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> si durmieron
+[04Jan2025 20:43:32.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[04Jan2025 20:44:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ahorita?
+[04Jan2025 20:44:32.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ptmr
+[04Jan2025 20:44:43.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> justo me desconecte wn
+[04Jan2025 20:45:03.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> deja ahi
+[04Jan2025 20:45:23.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> dalew
+[04Jan2025 20:46:07.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:60047] logged in with entity id 39177 at (-185.476506657443, 18.0, 755.0648589662205)
+[04Jan2025 20:46:07.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[04Jan2025 20:46:07.079] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[04Jan2025 20:46:08.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[04Jan2025 20:46:08.685] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[04Jan2025 20:46:14.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[04Jan2025 20:46:15.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[04Jan2025 20:46:15.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[04Jan2025 20:48:57.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[04Jan2025 20:48:58.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -2.9387079540198897,0.0,9.713820043293538
+[04Jan2025 20:49:05.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -4.835429785909639,0.42169727859776174,8.749769995356758
+[04Jan2025 20:49:16.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[04Jan2025 20:49:33.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04Jan2025 20:49:36.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -10.147710541249808,-0.5747359358602893,-0.10821810761211736
+[04Jan2025 20:49:53.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
+[04Jan2025 20:50:12.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[04Jan2025 20:50:30.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3373ms or 67 ticks behind
+[04Jan2025 20:50:47.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04Jan2025 20:51:07.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[04Jan2025 20:51:24.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[04Jan2025 20:51:44.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4739ms or 94 ticks behind
+[04Jan2025 20:52:06.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 20:52:09.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 3.4101359813756744,2.6123256445762024,9.292269498966562
+[04Jan2025 20:52:23.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[04Jan2025 20:52:47.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04Jan2025 20:53:05.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[04Jan2025 20:53:09.000] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Disconnected
+[04Jan2025 20:53:09.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[04Jan2025 20:53:09.001] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[04Jan2025 20:53:28.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:34701] logged in with entity id 46770 at (-136.84761251399775, -24.0, -509.7463779689342)
+[04Jan2025 20:53:28.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[04Jan2025 20:53:28.358] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[04Jan2025 20:53:28.565] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[04Jan2025 20:53:28.569] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[04Jan2025 20:53:31.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[04Jan2025 20:53:32.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[04Jan2025 20:53:32.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[04Jan2025 20:53:42.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
