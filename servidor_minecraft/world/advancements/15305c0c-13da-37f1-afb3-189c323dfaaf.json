@@ -5433,18 +5433,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/scanner_trapdoor": {
-    "criteria": {
-      "has_reinforced_trapdoor": "2025-01-05 04:58:23 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:creeperling": {
-    "criteria": {
-      "encountered_creeperling": "2025-01-05 05:18:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-01-05 04:22:39 +0000"
@@ -5454,6 +5442,18 @@
   "minecraft:adventure/fall_from_world_height": {
     "criteria": {
       "fall_from_world_height": "2025-01-05 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_trapdoor": {
+    "criteria": {
+      "has_reinforced_trapdoor": "2025-01-05 04:58:23 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-01-05 05:18:43 +0000"
     },
     "done": true
   },
