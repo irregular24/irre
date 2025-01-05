@@ -2672,6 +2672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-05 18:21:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-05 17:59:30 +0000"
@@ -2699,6 +2705,12 @@
   "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-05 17:59:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-01-05 18:21:52 +0000"
     },
     "done": true
   },
