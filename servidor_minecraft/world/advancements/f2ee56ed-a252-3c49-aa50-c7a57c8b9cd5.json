@@ -4681,6 +4681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-05 21:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-01-05 20:41:39 +0000"
@@ -4690,6 +4696,24 @@
   "tombstone:adventure/find_lost_tablet": {
     "criteria": {
       "has_lost_tablet": "2025-01-05 20:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-05 21:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-05 21:15:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-01-05 21:19:22 +0000"
     },
     "done": true
   },
