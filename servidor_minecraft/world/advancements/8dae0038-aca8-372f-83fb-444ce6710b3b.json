@@ -1706,6 +1706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-05 03:40:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-05 01:38:29 +0000"
@@ -1766,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 03:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-01-05 03:19:46 +0000"
@@ -1787,6 +1799,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-05 03:53:46 +0000"
     },
     "done": true
   },
@@ -1841,6 +1859,12 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-05 03:40:26 +0000"
     },
     "done": true
   },
@@ -1943,6 +1967,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-05 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 03:39:56 +0000"
     },
     "done": true
   },
@@ -2057,6 +2087,12 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-01-05 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 03:39:56 +0000"
     },
     "done": true
   },

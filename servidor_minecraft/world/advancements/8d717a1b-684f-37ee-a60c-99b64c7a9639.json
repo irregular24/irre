@@ -783,6 +783,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "baked_potato": "2025-01-05 00:00:37 +0000",
+      "cooked_cod": "2025-01-05 03:45:13 +0000",
       "bread": "2024-12-30 03:25:41 +0000",
       "glow_berries": "2025-01-05 03:08:11 +0000",
       "melon_slice": "2025-01-02 19:46:34 +0000",
@@ -2119,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-05 03:56:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
@@ -2242,6 +2249,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 03:56:31 +0000"
     },
     "done": true
   },
@@ -2431,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 03:56:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-01-05 02:02:04 +0000"
@@ -2512,6 +2531,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 03:56:31 +0000"
     },
     "done": true
   },

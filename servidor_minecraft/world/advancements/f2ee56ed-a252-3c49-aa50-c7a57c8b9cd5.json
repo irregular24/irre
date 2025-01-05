@@ -4511,6 +4511,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-05 03:44:47 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-01-05 02:47:57 +0000"
@@ -4520,6 +4526,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-01-05 02:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-05 03:54:51 +0000"
     },
     "done": true
   },
