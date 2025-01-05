@@ -1772,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-05 04:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-05 03:44:49 +0000"
@@ -1889,6 +1895,12 @@
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:05:05 +0000"
     },
     "done": true
   },
@@ -2066,6 +2078,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-01-05 04:09:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
@@ -2081,6 +2099,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-05 01:40:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2025-01-05 04:11:48 +0000"
     },
     "done": true
   },
@@ -2105,6 +2129,12 @@
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-05 04:05:28 +0000"
     },
     "done": true
   },
@@ -2153,6 +2183,12 @@
   "toughasnails:recipes/decorations/rain_collector": {
     "criteria": {
       "has_string": "2025-01-05 03:19:46 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-05 04:05:28 +0000"
     },
     "done": true
   },
@@ -2225,6 +2261,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 04:05:28 +0000"
     },
     "done": true
   },
