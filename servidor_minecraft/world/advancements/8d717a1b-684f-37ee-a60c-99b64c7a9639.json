@@ -784,9 +784,11 @@
     "criteria": {
       "baked_potato": "2025-01-05 00:00:37 +0000",
       "bread": "2024-12-30 03:25:41 +0000",
+      "glow_berries": "2025-01-05 03:08:11 +0000",
       "melon_slice": "2025-01-02 19:46:34 +0000",
       "golden_carrot": "2025-01-02 21:18:03 +0000",
       "cooked_chicken": "2025-01-05 01:22:47 +0000",
+      "cooked_salmon": "2025-01-05 03:10:33 +0000",
       "carrot": "2024-12-30 03:45:55 +0000"
     },
     "done": false
@@ -1991,6 +1993,18 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-05 03:06:07 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/glow_berry_juice": {
+    "criteria": {
+      "has_glow_berries": "2025-01-05 02:56:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-01-05 02:02:04 +0000"
@@ -2333,6 +2347,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 02:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-01-05 00:10:02 +0000"
@@ -2504,6 +2524,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-05 03:01:31 +0000"
     },
     "done": true
   },
