@@ -342,9 +342,11 @@
       "porkchop": "2024-12-28 23:39:56 +0000",
       "cooked_cod": "2025-01-05 02:06:50 +0000",
       "bread": "2024-12-28 23:43:13 +0000",
+      "rotten_flesh": "2025-01-05 19:22:30 +0000",
       "glow_berries": "2025-01-05 01:54:41 +0000",
       "dried_kelp": "2025-01-05 17:57:54 +0000",
       "melon_slice": "2025-01-05 01:43:37 +0000",
+      "cooked_chicken": "2025-01-05 19:17:02 +0000",
       "cod": "2025-01-05 02:34:17 +0000"
     },
     "done": false
@@ -2414,6 +2416,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-01-05 19:04:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-01-05 19:19:39 +0000"
     },
     "done": true
   },
