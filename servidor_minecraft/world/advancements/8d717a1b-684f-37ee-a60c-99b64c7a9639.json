@@ -785,6 +785,7 @@
       "bread": "2024-12-30 03:25:41 +0000",
       "melon_slice": "2025-01-02 19:46:34 +0000",
       "golden_carrot": "2025-01-02 21:18:03 +0000",
+      "cooked_chicken": "2025-01-05 01:22:47 +0000",
       "carrot": "2024-12-30 03:45:55 +0000"
     },
     "done": false
@@ -1989,6 +1990,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-05 01:18:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
@@ -2067,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-05 01:18:23 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2025-01-05 00:32:21 +0000"
@@ -2076,6 +2089,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 00:10:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-01-05 01:03:39 +0000"
     },
     "done": true
   },
@@ -2133,9 +2152,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-05 01:18:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-05 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-05 01:18:23 +0000"
     },
     "done": true
   },
@@ -2256,6 +2287,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-05 01:18:23 +0000"
     },
     "done": true
   },

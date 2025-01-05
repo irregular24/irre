@@ -4437,15 +4437,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
+  "majruszsdifficulty:kill_yourself": {
     "criteria": {
-      "has_clay_ball": "2025-01-05 00:13:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-05 00:34:27 +0000"
+      "kill_yourself": "2025-01-04 23:55:06 +0000"
     },
     "done": true
   },
@@ -4455,21 +4449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-01-05 00:34:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-01-05 00:13:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-01-05 00:13:14 +0000"
     },
     "done": true
   },
@@ -4491,15 +4473,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-05 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-05 00:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-05 00:34:27 +0000"
     },
     "done": true
   },
-  "majruszsdifficulty:kill_yourself": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "kill_yourself": "2025-01-04 23:55:06 +0000"
+      "has_rail": "2025-01-05 00:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-05 00:34:27 +0000"
     },
     "done": true
   },
