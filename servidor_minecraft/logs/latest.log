@@ -1126,3 +1126,24 @@
 [05Jan2025 23:21:24.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
 [05Jan2025 23:21:24.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
 [05Jan2025 23:21:24.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[05Jan2025 23:22:38.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.78.245.127:35031] logged in with entity id 138696 at (-852.5023151284337, 72.0, 1362.159933058911)
+[05Jan2025 23:22:38.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[05Jan2025 23:22:38.154] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[05Jan2025 23:22:39.559] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[05Jan2025 23:22:39.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[05Jan2025 23:22:45.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[05Jan2025 23:22:46.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[05Jan2025 23:22:46.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[05Jan2025 23:23:48.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[05Jan2025 23:23:51.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[05Jan2025 23:23:51.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[05Jan2025 23:23:51.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[05Jan2025 23:25:08.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:41543] logged in with entity id 139147 at (-442.2714179523108, 64.0, 915.3000000119209)
+[05Jan2025 23:25:08.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[05Jan2025 23:25:08.776] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[05Jan2025 23:25:10.215] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[05Jan2025 23:25:10.216] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[05Jan2025 23:25:16.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[05Jan2025 23:25:17.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[05Jan2025 23:25:17.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[05Jan2025 23:25:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has completed the challenge [Chaos Knight]
