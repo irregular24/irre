@@ -6907,3 +6907,92 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [05Jan2025 00:04:12.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.7616171027036671
 [05Jan2025 00:04:12.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.8015788803311352
 [05Jan2025 00:04:12.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.8775125153582621
+[05Jan2025 00:04:28.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[05Jan2025 00:04:46.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:04:46.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:04:48.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[05Jan2025 00:04:49.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Lifestealer
+[05Jan2025 00:04:49.790] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ridick was created at position [x:-432, y:63, z:914, dim:minecraft:overworld]
+[05Jan2025 00:04:49.897] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
+[05Jan2025 00:05:06.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 withered away
+[05Jan2025 00:05:06.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player Erickduran2002 was created at position [x:-449, y:63, z:916, dim:minecraft:overworld]
+[05Jan2025 00:05:06.282] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[05Jan2025 00:05:06.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[05Jan2025 00:05:08.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Lifestealer
+[05Jan2025 00:05:08.784] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ridick was created at position [x:-450, y:63, z:932, dim:minecraft:overworld]
+[05Jan2025 00:05:08.834] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
+[05Jan2025 00:06:01.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 withered away
+[05Jan2025 00:06:01.359] [Server thread/DEBUG] [tombstone/]: A new grave of the player Erickduran2002 was created at position [x:-446, y:64, z:908, dim:minecraft:overworld]
+[05Jan2025 00:06:01.393] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[05Jan2025 00:06:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick was slain by Lifestealer
+[05Jan2025 00:06:04.676] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ridick was created at position [x:-442, y:63, z:916, dim:minecraft:overworld]
+[05Jan2025 00:06:04.695] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
+[05Jan2025 00:06:29.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 blew up
+[05Jan2025 00:06:29.650] [Server thread/DEBUG] [tombstone/]: A new grave of the player XnoniX1 was created at position [x:-399, y:70, z:-538, dim:minecraft:overworld]
+[05Jan2025 00:06:29.693] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[05Jan2025 00:07:32.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick withered away
+[05Jan2025 00:07:32.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ridick was created at position [x:-444, y:64, z:913, dim:minecraft:overworld]
+[05Jan2025 00:07:32.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 withered away
+[05Jan2025 00:07:32.832] [Server thread/DEBUG] [tombstone/]: A new grave of the player Erickduran2002 was created at position [x:-444, y:63, z:920, dim:minecraft:overworld]
+[05Jan2025 00:07:32.857] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
+[05Jan2025 00:07:32.857] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[05Jan2025 00:07:37.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 10.467789034833118,0.0,0.9608728193065872
+[05Jan2025 00:07:37.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05Jan2025 00:07:57.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 265 block(s)]
+[05Jan2025 00:08:59.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[05Jan2025 00:09:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[05Jan2025 00:09:12.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[05Jan2025 00:09:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[05Jan2025 00:09:53.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:09:53.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:10:05.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Successfully filled 277 block(s)]
+[05Jan2025 00:10:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Erickduran2002]
+[05Jan2025 00:10:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Ridick]
+[05Jan2025 00:11:07.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[05Jan2025 00:11:07.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[05Jan2025 00:11:07.589] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Seta33
+[05Jan2025 00:11:07.589] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Seta33
+[05Jan2025 00:11:07.589] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Seta33
+[05Jan2025 00:11:07.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[05Jan2025 00:11:07.591] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 14639684-7cba-383d-9504-86ac9ad2ef9e to disconnected: {disabled=false, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:11:20.777] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.779] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.779] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.779] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.779] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.780] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.780] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.780] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.781] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:20.781] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:45332
+[05Jan2025 00:11:22.455] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:11:35.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[05Jan2025 00:11:36.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[05Jan2025 00:11:36.471] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Seta33 to connected: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:11:36.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[05Jan2025 00:11:36.601] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:11:51.292] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Erickduran2002: {disabled=true, disconnected=false, uuid=f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5, name=Erickduran2002, group=null}
+[05Jan2025 00:11:51.725] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Erickduran2002: {disabled=false, disconnected=false, uuid=f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5, name=Erickduran2002, group=null}
+[05Jan2025 00:12:00.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 9.896602247323415,1.8487560734629653,-1.2119504750104397
+[05Jan2025 00:12:06.890] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Erickduran2002: {disabled=true, disconnected=false, uuid=f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5, name=Erickduran2002, group=null}
+[05Jan2025 00:12:46.417] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Erickduran2002: {disabled=false, disconnected=false, uuid=f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5, name=Erickduran2002, group=null}
+[05Jan2025 00:12:46.952] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Erickduran2002: {disabled=true, disconnected=false, uuid=f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5, name=Erickduran2002, group=null}
+[05Jan2025 00:13:08.995] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=true, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[05Jan2025 00:13:09.922] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=false, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[05Jan2025 00:13:21.916] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:13:27.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[05Jan2025 00:13:35.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[05Jan2025 00:13:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to XnoniX1]
+[05Jan2025 00:13:43.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -0.2600648442821125,-0.6977657568646549,10.338776410861442
+[05Jan2025 00:13:51.147] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:13:58.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8463ms or 169 ticks behind
+[05Jan2025 00:14:07.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[05Jan2025 00:14:27.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Seta33 to Irregular24]
+[05Jan2025 00:14:35.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Survival Mode]
+[05Jan2025 00:14:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[05Jan2025 00:15:03.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 00:15:03.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 00:15:05.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[05Jan2025 00:15:05.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[05Jan2025 00:15:05.799] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[05Jan2025 00:15:05.799] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33

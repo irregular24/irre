@@ -4301,6 +4301,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-05 00:00:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 21:51:25 +0000"
@@ -4424,6 +4430,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-04 22:05:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:compact_necromancy": {
+    "criteria": {
+      "compact_necromancy_0": "2025-01-05 00:00:09 +0000"
     },
     "done": true
   },
