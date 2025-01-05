@@ -2339,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-05 19:04:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
     "criteria": {
       "has_block": "2025-01-05 18:00:21 +0000"
@@ -2402,6 +2408,12 @@
   "securitycraft:recipes/redstone/reinforced_jungle_button": {
     "criteria": {
       "has_block": "2025-01-05 18:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-05 19:04:49 +0000"
     },
     "done": true
   },
