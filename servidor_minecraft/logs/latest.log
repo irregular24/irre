@@ -1105,3 +1105,24 @@
 [05Jan2025 23:10:38.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [05Jan2025 23:10:38.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [05Jan2025 23:10:51.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[05Jan2025 23:12:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Safe Haven]
+[05Jan2025 23:12:53.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[05Jan2025 23:12:53.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[05Jan2025 23:12:53.699] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[05Jan2025 23:14:19.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:54437] logged in with entity id 130801 at (-445.97950792498506, 64.0, 910.270027656061)
+[05Jan2025 23:14:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[05Jan2025 23:14:19.385] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[05Jan2025 23:14:21.139] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[05Jan2025 23:14:21.148] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[05Jan2025 23:14:26.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[05Jan2025 23:14:27.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[05Jan2025 23:14:27.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[05Jan2025 23:16:42.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[05Jan2025 23:17:14.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[05Jan2025 23:18:50.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[05Jan2025 23:19:22.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved too quickly! -4.424025069408117,0.0,-9.412117368073268
+[05Jan2025 23:19:22.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[05Jan2025 23:20:38.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05Jan2025 23:21:24.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
+[05Jan2025 23:21:24.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[05Jan2025 23:21:24.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
