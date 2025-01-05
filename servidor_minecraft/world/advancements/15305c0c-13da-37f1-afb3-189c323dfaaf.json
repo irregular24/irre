@@ -2472,6 +2472,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_5": "2025-01-05 18:07:51 +0000",
+      "squireofthe_dark_lord_0": "2025-01-05 18:09:59 +0000",
       "squireofthe_dark_lord_2": "2024-12-25 23:56:05 +0000"
     },
     "done": false
@@ -5460,6 +5462,18 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-05 17:40:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:my_size": {
+    "criteria": {
+      "my_size_0": "2025-01-05 18:07:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-01-05 18:07:51 +0000"
     },
     "done": true
   },

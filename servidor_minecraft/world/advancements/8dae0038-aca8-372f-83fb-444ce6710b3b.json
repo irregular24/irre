@@ -358,6 +358,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-05 01:46:00 +0000",
+      "minecraft:spider": "2025-01-05 18:13:16 +0000",
       "minecraft:zombie": "2025-01-05 02:14:14 +0000",
       "minecraft:drowned": "2024-12-28 23:43:28 +0000",
       "minecraft:zombie_villager": "2025-01-05 01:55:48 +0000"
@@ -2320,6 +2321,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-05 18:10:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
     "criteria": {
       "has_block": "2025-01-05 18:00:21 +0000"
@@ -2332,6 +2339,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 18:10:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_jungle_slab": {
     "criteria": {
       "has_block": "2025-01-05 18:00:21 +0000"
@@ -2341,6 +2360,24 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-01-05 17:57:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 18:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-05 18:10:08 +0000"
     },
     "done": true
   },
