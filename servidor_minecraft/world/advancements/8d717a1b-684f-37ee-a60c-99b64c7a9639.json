@@ -27,6 +27,7 @@
     "criteria": {
       "clifftree:sparse_forest": "2024-12-30 03:07:51 +0000",
       "clifftree:temperate_beach": "2024-12-30 03:26:05 +0000",
+      "clifftree:caves": "2025-01-05 02:54:02 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 03:26:02 +0000",
       "minecraft:sparse_jungle": "2024-12-30 03:13:39 +0000",
       "minecraft:lukewarm_ocean": "2024-12-30 03:22:53 +0000",
@@ -2215,6 +2216,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-01-05 02:47:56 +0000"
     },
     "done": true
   },
