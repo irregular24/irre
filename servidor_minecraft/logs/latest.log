@@ -999,3 +999,11 @@
 [05Jan2025 22:16:02.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
 [05Jan2025 22:16:02.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
 [05Jan2025 22:16:02.703] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[05Jan2025 22:27:11.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:44769] logged in with entity id 102651 at (-643.3000000119209, 61.0, 2629.699999988079)
+[05Jan2025 22:27:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[05Jan2025 22:27:12.027] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[05Jan2025 22:27:13.702] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[05Jan2025 22:27:13.705] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[05Jan2025 22:27:14.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 22:27:15.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 22:27:15.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
