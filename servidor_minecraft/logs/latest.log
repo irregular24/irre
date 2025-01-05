@@ -1147,3 +1147,34 @@
 [05Jan2025 23:25:17.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
 [05Jan2025 23:25:17.026] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
 [05Jan2025 23:25:20.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has completed the challenge [Chaos Knight]
+[05Jan2025 23:35:33.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Bonk!]
+[05Jan2025 23:38:02.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.5104112260694365
+[05Jan2025 23:38:02.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.9080301782605602
+[05Jan2025 23:38:02.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 1.2634987413246108
+[05Jan2025 23:38:02.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.3241767319314022
+[05Jan2025 23:38:02.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.721796567852607
+[05Jan2025 23:38:02.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 1.0663198681354515
+[05Jan2025 23:38:31.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
+[05Jan2025 23:38:31.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[05Jan2025 23:38:31.893] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[05Jan2025 23:39:04.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:49185] logged in with entity id 145191 at (-490.1600337543343, 62.07326432466506, 1592.882137164243)
+[05Jan2025 23:39:04.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[05Jan2025 23:39:05.262] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[05Jan2025 23:39:05.265] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[05Jan2025 23:39:05.266] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[05Jan2025 23:39:07.285] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 23:39:07.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 23:39:07.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[05Jan2025 23:39:12.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[05Jan2025 23:41:08.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.2781713529152512
+[05Jan2025 23:41:08.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.46911142474709777
+[05Jan2025 23:41:08.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.6141060894383372
+[05Jan2025 23:41:08.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.6154681574307688
+[05Jan2025 23:41:08.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.9287463546920662
+[05Jan2025 23:41:14.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[05Jan2025 23:41:38.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[05Jan2025 23:42:02.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.3515183635095127
+[05Jan2025 23:42:02.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.6466332100294494
+[05Jan2025 23:42:02.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.8056911463604592
+[05Jan2025 23:42:02.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 1.1128640824672402
+[05Jan2025 23:42:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [What a Deal!]
