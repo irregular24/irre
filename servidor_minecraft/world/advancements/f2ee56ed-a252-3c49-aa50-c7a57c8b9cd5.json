@@ -4554,6 +4554,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-05 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-01-05 18:12:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-01-05 18:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-01-05 18:16:02 +0000"
@@ -4602,12 +4620,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-01-05 18:29:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 18:16:02 +0000"
@@ -4632,9 +4644,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_white_wool": "2025-01-05 18:29:57 +0000"
+      "has_stone": "2025-01-05 18:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-05 18:16:02 +0000"
     },
     "done": true
   },
@@ -4644,39 +4662,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/keypad_door_item": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_reinforced_door": "2025-01-05 18:12:06 +0000"
+      "has_white_wool": "2025-01-05 18:29:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_stone": "2025-01-05 18:16:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-01-05 17:51:05 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/scanner_door_item": {
-    "criteria": {
-      "has_reinforced_door": "2025-01-05 18:12:06 +0000"
+      "has_white_wool": "2025-01-05 18:29:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-05 18:29:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-01-05 18:16:02 +0000"
     },
     "done": true
   },
