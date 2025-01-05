@@ -4506,21 +4506,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-01-05 02:00:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-01-05 02:47:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-01-05 03:44:47 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:bleeding_healed": {
-    "criteria": {
-      "bleeding_healed": "2025-01-05 04:24:30 +0000"
     },
     "done": true
   },
@@ -4530,9 +4524,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_raw_copper_block": "2025-01-05 02:00:15 +0000"
+      "diamond_chestplate": "2025-01-05 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-05 03:54:51 +0000"
     },
     "done": true
   },
@@ -4542,9 +4542,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "majruszsdifficulty:bleeding_healed": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-01-05 03:54:51 +0000"
+      "bleeding_healed": "2025-01-05 04:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/fall_from_world_height": {
+    "criteria": {
+      "fall_from_world_height": "2025-01-05 04:53:51 +0000"
     },
     "done": true
   },
