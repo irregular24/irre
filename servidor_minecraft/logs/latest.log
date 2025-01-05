@@ -271,3 +271,21 @@
 [05Jan2025 18:22:55.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [05Jan2025 18:25:27.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kevinheredia21 drowned
 [05Jan2025 18:25:27.545] [Server thread/INFO] [tombstone/]: The player Kevinheredia21 has successfully been saved
+[05Jan2025 18:33:59.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.35240476309081714
+[05Jan2025 18:33:59.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.47320320175140296
+[05Jan2025 18:34:17.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
+[05Jan2025 18:34:17.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[05Jan2025 18:34:17.381] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[05Jan2025 18:34:53.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> zzzz
+[05Jan2025 18:34:58.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[05Jan2025 18:35:32.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:44533] logged in with entity id 28953 at (-681.7029920708526, 62.073264324665075, 1045.058009207402)
+[05Jan2025 18:35:33.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[05Jan2025 18:35:33.072] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[05Jan2025 18:35:33.306] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[05Jan2025 18:35:33.310] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[05Jan2025 18:35:36.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 18:35:37.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 18:35:37.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[05Jan2025 18:35:42.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[05Jan2025 18:37:29.961] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Kevinheredia21" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-442, y=65, z=914}] too quickly!
+[05Jan2025 18:50:16.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kevinheredia21 has made the advancement [Chest Slayer]

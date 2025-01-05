@@ -2315,6 +2315,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-05 18:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-05 18:06:53 +0000"
@@ -2360,6 +2366,12 @@
   "securitycraft:recipes/building_blocks/reinforced_jungle_slab": {
     "criteria": {
       "has_block": "2025-01-05 18:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-05 18:47:06 +0000"
     },
     "done": true
   },
