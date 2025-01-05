@@ -21,6 +21,7 @@
     "criteria": {
       "clifftree:sparse_forest": "2024-12-28 23:22:20 +0000",
       "clifftree:temperate_beach": "2024-12-28 23:38:10 +0000",
+      "clifftree:caves": "2025-01-05 01:58:06 +0000",
       "minecraft:bamboo_jungle": "2024-12-28 23:45:04 +0000",
       "minecraft:sparse_jungle": "2024-12-28 23:25:23 +0000",
       "minecraft:lukewarm_ocean": "2024-12-28 23:35:16 +0000",
@@ -338,6 +339,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-05 01:17:07 +0000",
       "porkchop": "2024-12-28 23:39:56 +0000",
+      "cooked_cod": "2025-01-05 02:06:50 +0000",
       "bread": "2024-12-28 23:43:13 +0000",
       "glow_berries": "2025-01-05 01:54:41 +0000",
       "melon_slice": "2025-01-05 01:43:37 +0000"
@@ -353,7 +355,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-05 01:46:00 +0000",
-      "minecraft:drowned": "2024-12-28 23:43:28 +0000"
+      "minecraft:zombie": "2025-01-05 02:14:14 +0000",
+      "minecraft:drowned": "2024-12-28 23:43:28 +0000",
+      "minecraft:zombie_villager": "2025-01-05 01:55:48 +0000"
     },
     "done": false
   },
@@ -1677,6 +1681,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-05 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-01-05 02:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-05 01:38:29 +0000"
@@ -1686,6 +1702,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-05 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-05 02:09:51 +0000"
     },
     "done": true
   },
@@ -1710,6 +1732,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-01-05 02:13:56 +0000"
     },
     "done": true
   },
@@ -1743,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-05 02:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-05 01:38:29 +0000"
@@ -1758,6 +1792,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-05 01:46:01 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-01-05 02:21:30 +0000"
     },
     "done": true
   },
@@ -1809,6 +1849,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 02:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-01-05 01:48:37 +0000"
@@ -1848,6 +1894,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-01-05 01:40:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 02:19:10 +0000"
     },
     "done": true
   },
@@ -1929,6 +1981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-05 02:21:35 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/tools/thermometer": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
@@ -1953,15 +2011,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-05 02:21:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 02:19:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-05 01:38:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 02:15:28 +0000"
     },
     "done": true
   },
@@ -1986,6 +2062,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-05 01:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 02:19:10 +0000"
     },
     "done": true
   },

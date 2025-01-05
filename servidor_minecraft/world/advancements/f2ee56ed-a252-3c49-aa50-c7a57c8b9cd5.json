@@ -385,6 +385,7 @@
       "bread": "2024-12-25 22:30:06 +0000",
       "golden_apple": "2024-12-25 22:54:21 +0000",
       "rotten_flesh": "2024-12-25 21:52:49 +0000",
+      "glow_berries": "2025-01-05 02:10:30 +0000",
       "dried_kelp": "2024-12-29 02:06:26 +0000",
       "melon_slice": "2024-12-26 00:27:02 +0000",
       "golden_carrot": "2025-01-02 21:17:59 +0000",
@@ -4500,6 +4501,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-05 00:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-01-05 02:00:15 +0000"
     },
     "done": true
   },

@@ -1990,6 +1990,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-05 01:18:23 +0000"
@@ -1999,6 +2005,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-05 01:57:14 +0000"
     },
     "done": true
   },
@@ -2014,9 +2032,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-05 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2044,15 +2074,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
     "criteria": {
       "has_block": "2025-01-05 00:00:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2110,9 +2158,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 00:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2146,9 +2218,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-05 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2224,6 +2314,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-05 00:13:39 +0000"
@@ -2236,9 +2332,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_button": {
     "criteria": {
       "has_block": "2025-01-05 00:00:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2266,9 +2374,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2025-01-05 00:00:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2281,6 +2401,30 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-05 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-05 01:57:14 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/thermometer": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
@@ -2302,9 +2446,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-05 00:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-05 01:57:14 +0000"
     },
     "done": true
   },
@@ -2326,9 +2482,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-05 00:10:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-05 02:02:04 +0000"
     },
     "done": true
   },
