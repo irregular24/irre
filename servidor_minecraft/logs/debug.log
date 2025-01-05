@@ -3718,3 +3718,31 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [05Jan2025 19:24:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
 [05Jan2025 19:24:19.191] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
 [05Jan2025 19:24:19.196] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Ridick: {disabled=false, disconnected=true, uuid=8d717a1b-684f-37ee-a60c-99b64c7a9639, name=Ridick, group=null}
+[05Jan2025 19:24:22.531] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[05Jan2025 19:24:22.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Ridick
+[05Jan2025 19:24:22.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Ridick
+[05Jan2025 19:24:22.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Ridick
+[05Jan2025 19:24:22.533] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[05Jan2025 19:24:22.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3377ms or 67 ticks behind
+[05Jan2025 19:24:23.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 19:24:24.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 19:24:24.861] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Ridick to connected: {disabled=false, disconnected=false, uuid=8d717a1b-684f-37ee-a60c-99b64c7a9639, name=Ridick, group=null}
+[05Jan2025 19:24:24.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[05Jan2025 19:24:25.132] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ridick: {disabled=true, disconnected=false, uuid=8d717a1b-684f-37ee-a60c-99b64c7a9639, name=Ridick, group=null}
+[05Jan2025 19:24:45.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7611ms or 152 ticks behind
+[05Jan2025 19:26:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kevinheredia21> PON AGUA
+[05Jan2025 19:28:17.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:28:17.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 19:31:28.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kevinheredia21 has reached the goal [Strong or Careful]
+[05Jan2025 19:31:28.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kevinheredia21 was slain by Zombie
+[05Jan2025 19:31:28.456] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kevinheredia21 was created at position [x:-21, y:-41, z:1616, dim:minecraft:overworld]
+[05Jan2025 19:31:28.531] [Server thread/INFO] [tombstone/]: The player Kevinheredia21 has successfully been saved
+[05Jan2025 19:32:12.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Kevinheredia21'/59526, l='ServerLevel[world]', x=0.40, y=-44.00, z=1623.20] died: Kevinheredia21 was slain by Erickduran2002
+[05Jan2025 19:33:17.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:33:17.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 19:33:20.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[05Jan2025 19:33:24.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=70, z=-381} BlockPos{x=-39, y=69, z=-382}
+[05Jan2025 19:33:46.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[05Jan2025 19:34:12.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[05Jan2025 19:34:30.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3859ms or 77 ticks behind
+[05Jan2025 19:34:48.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind

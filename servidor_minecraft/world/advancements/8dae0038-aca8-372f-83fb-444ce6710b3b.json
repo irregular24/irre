@@ -340,6 +340,7 @@
       "cooked_porkchop": "2025-01-05 01:17:07 +0000",
       "cooked_mutton": "2025-01-05 04:22:40 +0000",
       "porkchop": "2024-12-28 23:39:56 +0000",
+      "potato": "2025-01-05 19:29:10 +0000",
       "cooked_cod": "2025-01-05 02:06:50 +0000",
       "bread": "2024-12-28 23:43:13 +0000",
       "rotten_flesh": "2025-01-05 19:22:30 +0000",
@@ -2416,6 +2417,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-01-05 19:04:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-05 19:31:28 +0000"
     },
     "done": true
   },
