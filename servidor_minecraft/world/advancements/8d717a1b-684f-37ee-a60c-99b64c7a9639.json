@@ -2102,6 +2102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-05 04:20:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
     "criteria": {
       "has_block": "2025-01-05 00:00:56 +0000"

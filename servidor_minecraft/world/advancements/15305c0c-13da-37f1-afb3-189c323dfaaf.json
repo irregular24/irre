@@ -4816,9 +4816,10 @@
   },
   "born_in_chaos_v1:symphonyof_chaos": {
     "criteria": {
+      "symphonyof_chaos_1": "2025-01-05 04:13:12 +0000",
       "symphonyof_chaos_0": "2024-12-30 22:32:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
@@ -5423,6 +5424,18 @@
   "born_in_chaos_v1:disgusting_lootbox": {
     "criteria": {
       "disgusting_lootbox_0": "2025-01-04 23:29:03 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:ender_dragon_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-05 04:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-05 04:22:39 +0000"
     },
     "done": true
   },
