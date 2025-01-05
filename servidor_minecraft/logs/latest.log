@@ -1007,3 +1007,32 @@
 [05Jan2025 22:27:14.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
 [05Jan2025 22:27:15.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
 [05Jan2025 22:27:15.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[05Jan2025 22:32:04.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
+[05Jan2025 22:32:04.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[05Jan2025 22:32:04.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[05Jan2025 22:32:15.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:55681] logged in with entity id 104456 at (-643.1800231975949, 66.0, 2627.300000011921)
+[05Jan2025 22:32:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[05Jan2025 22:32:15.983] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[05Jan2025 22:32:16.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[05Jan2025 22:32:16.992] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[05Jan2025 22:32:17.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 22:32:19.426] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[05Jan2025 22:32:19.427] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[05Jan2025 22:32:25.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[05Jan2025 22:32:55.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
+[05Jan2025 22:32:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[05Jan2025 22:32:55.119] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[05Jan2025 22:33:36.056] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[05Jan2025 22:34:36.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/105241, l='ServerLevel[world]', x=-939.19, y=71.23, z=2622.14] died: The Killer Bunny bled to death
+[05Jan2025 22:34:50.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kevinheredia21[/127.78.245.127:58859] logged in with entity id 105603 at (-424.23275015414634, 63.0, 944.9355557648121)
+[05Jan2025 22:34:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kevinheredia21 joined the game
+[05Jan2025 22:34:50.837] [Server thread/INFO] [Jade/]: Syncing config to Kevinheredia21 (8dae0038-aca8-372f-83fb-444ce6710b3b)
+[05Jan2025 22:34:53.310] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kevinheredia21 (18)
+[05Jan2025 22:34:53.314] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kevinheredia21
+[05Jan2025 22:34:53.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[05Jan2025 22:34:58.107] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8dae0038-aca8-372f-83fb-444ce6710b3b
+[05Jan2025 22:34:59.009] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8dae0038-aca8-372f-83fb-444ce6710b3b
+[05Jan2025 22:34:59.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kevinheredia21 (8dae0038-aca8-372f-83fb-444ce6710b3b) successfully connected to voice chat
+[05Jan2025 22:35:17.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[05Jan2025 22:36:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick froze to death
+[05Jan2025 22:36:19.142] [Server thread/INFO] [tombstone/]: The player Ridick has successfully been saved
