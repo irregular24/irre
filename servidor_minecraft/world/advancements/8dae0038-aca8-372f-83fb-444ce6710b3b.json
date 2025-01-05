@@ -343,6 +343,7 @@
       "cooked_cod": "2025-01-05 02:06:50 +0000",
       "bread": "2024-12-28 23:43:13 +0000",
       "glow_berries": "2025-01-05 01:54:41 +0000",
+      "dried_kelp": "2025-01-05 17:57:54 +0000",
       "melon_slice": "2025-01-05 01:43:37 +0000",
       "cod": "2025-01-05 02:34:17 +0000"
     },
@@ -2310,6 +2311,42 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-05 04:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 18:06:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-05 18:00:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_jungle_stairs": {
+    "criteria": {
+      "has_block": "2025-01-05 18:00:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_jungle_slab": {
+    "criteria": {
+      "has_block": "2025-01-05 18:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-05 17:57:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_button": {
+    "criteria": {
+      "has_block": "2025-01-05 18:00:21 +0000"
     },
     "done": true
   },
