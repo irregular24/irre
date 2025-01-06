@@ -4337,6 +4337,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-06 21:35:55 +0000",
       "minecraft:nether_wastes": "2025-01-04 22:04:52 +0000",
+      "minecraft:soul_sand_valley": "2025-01-06 21:47:44 +0000",
       "minecraft:basalt_deltas": "2025-01-04 22:06:58 +0000"
     },
     "done": false
@@ -5571,6 +5572,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-06 21:22:50 +0000"
@@ -5589,9 +5602,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/ims": {
     "criteria": {
       "has_radar": "2025-01-06 21:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
     },
     "done": true
   },
@@ -5619,9 +5644,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-06 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
     },
     "done": true
   },
@@ -5631,9 +5668,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-06 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-06 21:44:45 +0000"
     },
     "done": true
   },
@@ -5724,6 +5773,12 @@
   "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-06 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-06 21:44:49 +0000"
     },
     "done": true
   },
