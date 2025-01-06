@@ -1386,8 +1386,10 @@
       "minecraft:pillager": "2024-12-29 00:15:26 +0000",
       "minecraft:blaze": "2025-01-04 22:07:43 +0000",
       "minecraft:skeleton": "2024-12-29 19:48:45 +0000",
+      "minecraft:ghast": "2025-01-06 22:04:59 +0000",
       "minecraft:vindicator": "2024-12-29 00:22:56 +0000",
       "minecraft:spider": "2024-12-29 20:16:31 +0000",
+      "minecraft:piglin_brute": "2025-01-06 22:03:06 +0000",
       "minecraft:creeper": "2024-12-29 20:20:09 +0000",
       "minecraft:slime": "2024-12-29 20:40:46 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:08:41 +0000",
@@ -5525,6 +5527,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-01-06 22:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-01-06 21:59:19 +0000"
@@ -5543,6 +5551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-01-06 21:59:19 +0000"
@@ -5555,9 +5569,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/secure_redstone_interface": {
     "criteria": {
       "has_radar": "2025-01-06 21:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-06 22:02:35 +0000"
     },
     "done": true
   },
@@ -5572,6 +5598,12 @@
       "has_stone": "2025-01-06 21:18:07 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-01-06 22:02:10 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
@@ -5627,6 +5659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-01-06 21:44:45 +0000"
@@ -5657,9 +5695,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-01-06 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
     },
     "done": true
   },
@@ -5759,6 +5809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-01-06 21:22:50 +0000"
@@ -5768,6 +5824,18 @@
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-01-06 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
     },
     "done": true
   },
@@ -5786,6 +5854,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall": {
     "criteria": {
       "has_block": "2025-01-06 21:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
     },
     "done": true
   },
@@ -5855,6 +5929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-06 21:59:19 +0000"
@@ -5870,6 +5950,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
     "criteria": {
       "has_block": "2025-01-06 21:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:07:55 +0000"
     },
     "done": true
   },
