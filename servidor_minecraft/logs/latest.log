@@ -297,3 +297,33 @@
 [06Jan2025 20:02:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> pontelo
 [06Jan2025 20:02:58.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> eso hice
 [06Jan2025 20:11:33.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26337, l='ServerLevel[world]', x=-69.49, y=68.00, z=-362.57] died, message: 'Unemployed burned to death'
+[06Jan2025 20:24:41.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[06Jan2025 20:24:41.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[06Jan2025 20:24:41.612] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[06Jan2025 20:24:46.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[06Jan2025 20:24:46.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[06Jan2025 20:24:46.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[06Jan2025 20:26:34.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:32901] logged in with entity id 35962 at (-429.00735426802555, 63.0, 936.4069162083168)
+[06Jan2025 20:26:34.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[06Jan2025 20:26:34.697] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[06Jan2025 20:26:36.362] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[06Jan2025 20:26:36.364] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[06Jan2025 20:26:42.337] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[06Jan2025 20:26:43.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[06Jan2025 20:26:43.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[06Jan2025 20:27:27.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> buenas
+[06Jan2025 20:27:37.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> solo entre un ratito
+[06Jan2025 20:27:42.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[06Jan2025 20:27:44.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> y buenas, buenas
+[06Jan2025 20:27:47.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya no andas lag
+[06Jan2025 20:27:51.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> eso queria ver
+[06Jan2025 20:27:51.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:45001] logged in with entity id 36645 at (-47.370877897514596, 68.5, -375.3079627848041)
+[06Jan2025 20:27:51.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[06Jan2025 20:27:51.924] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[06Jan2025 20:27:53.040] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[06Jan2025 20:27:53.041] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[06Jan2025 20:27:57.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Jan2025 20:27:59.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya esta todo bien
+[06Jan2025 20:28:00.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[06Jan2025 20:28:01.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[06Jan2025 20:28:01.990] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
