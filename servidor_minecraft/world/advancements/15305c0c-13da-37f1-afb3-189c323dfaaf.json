@@ -5658,6 +5658,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-06 22:47:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/keycard_reader": {
     "criteria": {
       "has_stone": "2025-01-06 19:11:09 +0000"
@@ -5685,6 +5691,12 @@
   "securitycraft:recipes/tools/remote_access_sentry": {
     "criteria": {
       "has_sentry": "2025-01-06 19:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-06 22:47:19 +0000"
     },
     "done": true
   },
