@@ -217,3 +217,48 @@
 [06Jan2025 00:57:09.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:41687] logged in with entity id 200132 at (-204.7189976427239, 64.0, 3947.300000011921)
 [06Jan2025 00:57:09.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
 [06Jan2025 00:57:09.409] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[06Jan2025 00:57:15.009] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[06Jan2025 00:57:15.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[06Jan2025 00:57:15.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6025ms or 120 ticks behind
+[06Jan2025 00:57:15.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 00:57:16.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 00:57:16.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[06Jan2025 00:57:40.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Timed out
+[06Jan2025 00:57:40.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[06Jan2025 00:57:40.166] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[06Jan2025 00:57:40.283] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 00:57:43.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13568ms or 271 ticks behind
+[06Jan2025 00:58:24.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5633350f[id=<null>,name=Ridick,properties={},legacy=false] (/127.78.245.127:55055) lost connection: Disconnected
+[06Jan2025 00:59:25.608] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51e9698e[id=<null>,name=Ridick,properties={},legacy=false] (/127.78.245.127:59733) lost connection: Disconnected
+[06Jan2025 01:00:01.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Created team [choclitos]]
+[06Jan2025 01:00:15.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Removed team [choclitos]]
+[06Jan2025 01:00:28.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Created team [Choclitos]]
+[06Jan2025 01:00:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Added Seta33 to team [Choclitos]]
+[06Jan2025 01:00:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Added Irregular24 to team [Choclitos]]
+[06Jan2025 01:01:27.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:57019] logged in with entity id 202011 at (-204.7189976427239, 64.0, 3947.300000011921)
+[06Jan2025 01:01:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[06Jan2025 01:01:27.642] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[06Jan2025 01:01:30.533] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[06Jan2025 01:01:30.536] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[06Jan2025 01:01:30.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[06Jan2025 01:01:32.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:01:33.178] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:01:33.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[06Jan2025 01:01:48.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
+[06Jan2025 01:01:57.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Timed out
+[06Jan2025 01:01:57.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[06Jan2025 01:01:57.713] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[06Jan2025 01:02:28.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:39541] logged in with entity id 202901 at (-205.94251695572123, 64.0, 3947.300000011921)
+[06Jan2025 01:02:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[06Jan2025 01:02:28.939] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[06Jan2025 01:02:31.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[06Jan2025 01:02:31.019] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[06Jan2025 01:02:31.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[06Jan2025 01:02:31.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:02:32.874] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:02:32.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[06Jan2025 01:02:38.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Nametag visibility for team [Choclitos] is now "Hide for other teams"]
+[06Jan2025 01:02:49.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
+[06Jan2025 01:02:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[06Jan2025 01:02:49.344] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[06Jan2025 01:02:50.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4343ms or 86 ticks behind
