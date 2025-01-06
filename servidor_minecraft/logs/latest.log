@@ -550,3 +550,58 @@
 [06Jan2025 02:08:57.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
 [06Jan2025 02:08:57.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
 [06Jan2025 02:08:57.444] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[06Jan2025 02:10:00.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:37345] logged in with entity id 232684 at (-430.6441708505682, 63.0, 938.2854738530106)
+[06Jan2025 02:10:00.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[06Jan2025 02:10:00.538] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[06Jan2025 02:10:01.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[06Jan2025 02:10:01.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[06Jan2025 02:10:30.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[06Jan2025 02:10:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[06Jan2025 02:10:30.495] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[06Jan2025 02:11:29.492] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b05ac2b[id=<null>,name=Erickduran2002,properties={},legacy=false] (/127.78.245.127:57487) lost connection: Disconnected
+[06Jan2025 02:12:15.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:55275] logged in with entity id 233127 at (-430.6441708505682, 63.0, 938.2854738530106)
+[06Jan2025 02:12:15.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[06Jan2025 02:12:15.059] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[06Jan2025 02:12:15.253] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[06Jan2025 02:12:15.253] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[06Jan2025 02:12:43.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[06Jan2025 02:12:44.203] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[06Jan2025 02:12:44.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[06Jan2025 02:12:45.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[06Jan2025 02:12:45.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[06Jan2025 02:12:45.095] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[06Jan2025 02:12:59.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:58423] logged in with entity id 233250 at (-430.6441708505682, 63.0, 938.2854738530106)
+[06Jan2025 02:12:59.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[06Jan2025 02:12:59.616] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[06Jan2025 02:12:59.823] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[06Jan2025 02:12:59.824] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[06Jan2025 02:13:18.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Erickduran2002 to Irregular24]
+[06Jan2025 02:13:29.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[06Jan2025 02:13:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[06Jan2025 02:13:29.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[06Jan2025 02:13:46.144] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Irregular24" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-436, y=65, z=932}] too quickly!
+[06Jan2025 02:13:46.242] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Irregular24" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-436, y=65, z=932}] too quickly!
+[06Jan2025 02:14:33.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:43149] logged in with entity id 233528 at (-429.00735426802555, 63.0, 936.4069162083168)
+[06Jan2025 02:14:33.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[06Jan2025 02:14:33.433] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[06Jan2025 02:14:33.669] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[06Jan2025 02:14:33.670] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[06Jan2025 02:15:03.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[06Jan2025 02:15:03.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[06Jan2025 02:15:03.494] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[06Jan2025 02:15:16.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[06Jan2025 02:17:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[06Jan2025 02:17:34.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[06Jan2025 02:17:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[06Jan2025 02:17:34.842] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[06Jan2025 02:18:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Jan2025 02:18:03.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jan2025 02:18:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jan2025 02:18:03.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jan2025 02:18:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jan2025 02:18:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jan2025 02:18:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jan2025 02:18:03.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jan2025 02:18:03.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jan2025 02:18:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jan2025 02:18:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
