@@ -262,3 +262,72 @@
 [06Jan2025 01:02:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
 [06Jan2025 01:02:49.344] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
 [06Jan2025 01:02:50.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4343ms or 86 ticks behind
+[06Jan2025 01:08:01.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[06Jan2025 01:08:09.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[06Jan2025 01:08:09.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[06Jan2025 01:08:09.931] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[06Jan2025 01:08:11.969] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[06Jan2025 01:08:12.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[06Jan2025 01:08:12.970] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[06Jan2025 01:08:22.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:33833] logged in with entity id 206251 at (-205.94251695572123, 64.0, 3947.300000011921)
+[06Jan2025 01:08:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[06Jan2025 01:08:22.729] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[06Jan2025 01:08:24.811] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[06Jan2025 01:08:24.812] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[06Jan2025 01:08:24.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[06Jan2025 01:08:30.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:08:31.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:08:31.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[06Jan2025 01:08:46.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7210ms or 144 ticks behind
+[06Jan2025 01:09:05.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06Jan2025 01:09:30.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9524ms or 190 ticks behind
+[06Jan2025 01:09:48.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3534ms or 70 ticks behind
+[06Jan2025 01:09:53.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.89599609375
+[06Jan2025 01:09:53.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.89599609375
+[06Jan2025 01:09:53.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.89599609375
+[06Jan2025 01:09:53.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.89599609375
+[06Jan2025 01:09:53.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ridick) moved wrongly! 0.89599609375
+[06Jan2025 01:10:34.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[06Jan2025 01:11:19.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
+[06Jan2025 01:11:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[06Jan2025 01:11:19.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[06Jan2025 01:11:34.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:50555] logged in with entity id 209256 at (-385.5, 67.0, 3851.699999988079)
+[06Jan2025 01:11:34.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[06Jan2025 01:11:34.928] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[06Jan2025 01:11:36.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[06Jan2025 01:11:36.156] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[06Jan2025 01:11:38.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[06Jan2025 01:11:38.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:11:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> zzzzzz
+[06Jan2025 01:11:39.773] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[06Jan2025 01:11:39.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[06Jan2025 01:11:43.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> zzzzzz
+[06Jan2025 01:11:46.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> andamos en dungeon
+[06Jan2025 01:11:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pipi
+[06Jan2025 01:11:55.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> venganze ta tovha :v
+[06Jan2025 01:11:57.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ni modales
+[06Jan2025 01:12:04.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Jan2025 01:12:05.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Timed out
+[06Jan2025 01:12:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[06Jan2025 01:12:05.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[06Jan2025 01:12:07.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> jajaja como
+[06Jan2025 01:12:09.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> les paso coords?
+[06Jan2025 01:12:32.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> tamos en una dungeon grande con seta
+[06Jan2025 01:12:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> no asi esta bien
+[06Jan2025 01:12:42.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> dale
+[06Jan2025 01:12:44.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> estoy ahora en momento de construccion
+[06Jan2025 01:12:44.961] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f96e038[id=<null>,name=Ridick,properties={},legacy=false] (/127.78.245.127:40155) lost connection: Disconnected
+[06Jan2025 01:12:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[06Jan2025 01:12:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> mucho mine
+[06Jan2025 01:13:02.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> mucho me mataron y muchos muostros mate
+[06Jan2025 01:13:07.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[06Jan2025 01:13:10.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya top 1
+[06Jan2025 01:13:21.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> me violaron
+[06Jan2025 01:13:22.408] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a723e83[id=<null>,name=Ridick,properties={},legacy=false] (/127.78.245.127:47491) lost connection: Disconnected
+[06Jan2025 01:13:31.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[06Jan2025 01:13:31.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pero las caidas te hacen mas fuerte
+[06Jan2025 01:13:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> jaja
+[06Jan2025 01:13:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ridic ta que entra y sale que fue :v
+[06Jan2025 01:14:08.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> anda lag dice
+[06Jan2025 01:14:12.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xuxa
+[06Jan2025 01:14:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [Horror Under the Mantle]
