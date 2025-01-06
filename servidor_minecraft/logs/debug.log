@@ -5848,3 +5848,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [05Jan2025 23:58:37.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jan2025 00:03:37.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 00:03:37.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 00:03:45.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06Jan2025 00:08:39.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 00:08:39.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 00:09:17.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick has made the advancement [Intruder Alert]
+[06Jan2025 00:13:39.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 00:13:39.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 00:13:41.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Disconnected
+[06Jan2025 00:13:41.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[06Jan2025 00:13:41.351] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Ridick
+[06Jan2025 00:13:41.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
