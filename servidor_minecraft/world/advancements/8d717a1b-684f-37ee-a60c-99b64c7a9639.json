@@ -29,6 +29,7 @@
       "minecraft:taiga": "2025-01-05 20:35:07 +0000",
       "minecraft:deep_ocean": "2025-01-05 20:31:15 +0000",
       "clifftree:temperate_beach": "2024-12-30 03:26:05 +0000",
+      "minecraft:frozen_river": "2025-01-06 00:03:18 +0000",
       "clifftree:cold_river": "2025-01-05 22:41:59 +0000",
       "clifftree:caves": "2025-01-05 02:54:02 +0000",
       "minecraft:bamboo_jungle": "2024-12-30 03:26:02 +0000",
@@ -45,6 +46,7 @@
       "minecraft:deep_cold_ocean": "2025-01-05 20:32:10 +0000",
       "minecraft:jungle": "2024-12-30 03:24:09 +0000",
       "minecraft:ocean": "2025-01-05 18:59:18 +0000",
+      "minecraft:snowy_beach": "2025-01-06 00:03:01 +0000",
       "clifftree:gravelly_beach": "2025-01-05 22:08:43 +0000",
       "clifftree:granite_shore": "2024-12-30 03:12:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-05 20:54:27 +0000",
@@ -799,6 +801,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-05 23:54:53 +0000",
       "baked_potato": "2025-01-05 00:00:37 +0000",
       "potato": "2025-01-05 22:27:22 +0000",
       "cooked_cod": "2025-01-05 03:45:13 +0000",
@@ -3094,7 +3097,37 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 22:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 22:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 22:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-05 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-05 23:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-01-05 23:07:17 +0000"
     },
@@ -3118,33 +3151,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_black_wool": "2025-01-05 23:07:17 +0000"
+      "has_iron_nugget": "2025-01-05 23:07:54 +0000"
     },
     "done": true
   },
   "nova_structures:root": {
     "criteria": {
       "nova_structures:adventure/find_tavern": "2025-01-05 23:12:51 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bonk": {
-    "criteria": {
-      "bonk_0": "2025-01-05 23:35:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-01-05 23:07:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-01-05 22:35:13 +0000"
     },
     "done": true
   },
@@ -3160,21 +3175,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
+  "born_in_chaos_v1:bonk": {
     "criteria": {
-      "has_light_gray_wool": "2025-01-05 22:35:13 +0000"
+      "bonk_0": "2025-01-05 23:35:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_light_gray_wool": "2025-01-05 22:35:13 +0000"
+      "has_gray_wool": "2025-01-05 23:48:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_iron_nugget": "2025-01-05 23:07:54 +0000"
+      "has_gray_wool": "2025-01-05 23:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-05 23:48:35 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/charc_os": {
+    "criteria": {
+      "has_charcoal": "2025-01-05 23:46:05 +0000"
     },
     "done": true
   },
