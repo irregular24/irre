@@ -11246,3 +11246,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [07Jan2025 01:45:00.488] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of XnoniX1
 [07Jan2025 01:45:00.488] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
 [07Jan2025 01:45:00.533] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 does not have a secret
+[07Jan2025 01:48:11.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 01:48:11.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 01:53:11.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 01:53:11.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
