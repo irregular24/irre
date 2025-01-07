@@ -364,3 +364,26 @@
 [07Jan2025 05:46:14.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [07Jan2025 05:46:14.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [07Jan2025 05:46:22.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=70, z=-382} BlockPos{x=-68, y=72, z=-381}
+[07Jan2025 05:47:46.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -4.566162673519159,-0.4999999999999716,10.17628184136558
+[07Jan2025 05:47:46.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[07Jan2025 05:48:08.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[07Jan2025 05:48:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[07Jan2025 05:48:08.369] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[07Jan2025 05:50:29.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:56253] logged in with entity id 49942 at (-47.544461391412504, 68.5, -375.1551458126498)
+[07Jan2025 05:50:29.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[07Jan2025 05:50:29.844] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[07Jan2025 05:50:30.082] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[07Jan2025 05:50:30.084] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[07Jan2025 05:50:35.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[07Jan2025 05:50:36.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[07Jan2025 05:50:36.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[07Jan2025 05:50:48.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[07Jan2025 05:50:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[07Jan2025 05:50:48.471] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[07Jan2025 05:50:55.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 suffocated in a reinforced wall
+[07Jan2025 05:50:55.243] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[07Jan2025 05:51:03.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -455.500000, 63.500000, 932.500000]
+[07Jan2025 05:51:35.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
+[07Jan2025 05:53:38.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[07Jan2025 05:57:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -885.500000, 77.500000, 1370.500000]
+[07Jan2025 05:57:51.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
