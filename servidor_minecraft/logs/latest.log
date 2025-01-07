@@ -1100,3 +1100,12 @@
 [07Jan2025 01:45:00.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Disconnected
 [07Jan2025 01:45:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
 [07Jan2025 01:45:00.488] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[07Jan2025 03:07:13.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:44941] logged in with entity id 238619 at (-847.3373143547699, 72.0, 1359.4334309218057)
+[07Jan2025 03:07:13.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[07Jan2025 03:07:13.733] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[07Jan2025 03:07:16.003] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[07Jan2025 03:07:16.006] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[07Jan2025 03:07:16.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[07Jan2025 03:07:20.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[07Jan2025 03:07:22.017] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[07Jan2025 03:07:22.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
