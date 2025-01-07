@@ -6210,5 +6210,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-07 20:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-07 20:00:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
