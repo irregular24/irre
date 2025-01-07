@@ -629,6 +629,7 @@
       "minecraft:husk": "2024-12-29 21:13:11 +0000",
       "minecraft:silverfish": "2025-01-04 20:47:24 +0000",
       "minecraft:stray": "2025-01-04 22:51:53 +0000",
+      "minecraft:enderman": "2025-01-07 00:45:31 +0000",
       "minecraft:zombie": "2024-12-28 23:48:32 +0000",
       "minecraft:zombie_villager": "2024-12-28 23:35:33 +0000"
     },
@@ -4504,6 +4505,12 @@
       "minecraft:cow": "2025-01-06 23:47:09 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-07 00:46:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -343,6 +343,7 @@
       "potato": "2025-01-05 19:29:10 +0000",
       "cooked_cod": "2025-01-05 02:06:50 +0000",
       "bread": "2024-12-28 23:43:13 +0000",
+      "golden_apple": "2025-01-07 00:41:48 +0000",
       "rotten_flesh": "2025-01-05 19:22:30 +0000",
       "glow_berries": "2025-01-05 01:54:41 +0000",
       "dried_kelp": "2025-01-05 17:57:54 +0000",
@@ -2733,6 +2734,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-07 00:45:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-07 00:45:47 +0000"
+    },
+    "done": true
+  },
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-01-07 00:33:35 +0000"
@@ -2760,6 +2773,18 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-01-07 00:29:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-01-07 00:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-07 00:45:47 +0000"
     },
     "done": true
   },
