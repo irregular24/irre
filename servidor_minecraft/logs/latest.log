@@ -229,3 +229,47 @@
 [07Jan2025 19:48:56.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [07Jan2025 19:49:15.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
 [07Jan2025 19:49:32.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[07Jan2025 19:49:58.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10210ms or 204 ticks behind
+[07Jan2025 19:50:28.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15516ms or 310 ticks behind
+[07Jan2025 19:50:44.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=288, y=117, z=315} BlockPos{x=288, y=116, z=315}
+[07Jan2025 19:50:46.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[07Jan2025 19:51:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was shot by Skeleton
+[07Jan2025 19:51:32.439] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[07Jan2025 19:52:20.888] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 timed out
+[07Jan2025 19:52:20.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player XnoniX1
+[07Jan2025 19:52:20.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[07Jan2025 19:52:24.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[07Jan2025 19:52:24.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[07Jan2025 19:52:24.508] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[07Jan2025 19:52:40.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:50711] logged in with entity id 18619 at (-258.3634482066925, 63.1212968405392, -242.6160541773505)
+[07Jan2025 19:52:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[07Jan2025 19:52:40.625] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[07Jan2025 19:52:40.917] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[07Jan2025 19:52:40.920] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[07Jan2025 19:53:00.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[07Jan2025 19:53:01.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[07Jan2025 19:53:01.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[07Jan2025 19:53:08.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was blown up by Creeper
+[07Jan2025 19:53:08.909] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[07Jan2025 19:53:47.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[07Jan2025 19:54:12.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was shot by Skeleton
+[07Jan2025 19:54:12.186] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[07Jan2025 19:54:21.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Jan2025 19:54:38.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2821ms or 56 ticks behind
+[07Jan2025 19:54:59.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[07Jan2025 19:55:16.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[07Jan2025 19:55:30.679] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['XnoniX1'/21494, l='ServerLevel[world]', x=-419.23, y=63.00, z=-500.36] died: XnoniX1 was slain by XnoniX1
+[07Jan2025 19:55:44.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[07Jan2025 19:55:48.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was shot by Skeleton
+[07Jan2025 19:55:48.710] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[07Jan2025 19:56:48.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was slain by Iron Golem
+[07Jan2025 19:56:48.214] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[07Jan2025 19:58:29.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was slain by Zombie Fisherman
+[07Jan2025 19:58:29.627] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[07Jan2025 19:58:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 was blown up by Creeper
+[07Jan2025 19:58:49.162] [Server thread/INFO] [tombstone/]: The player Erickduran2002 has successfully been saved
+[07Jan2025 19:58:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 was shot by Skeleton
+[07Jan2025 19:58:56.681] [Server thread/INFO] [tombstone/]: The player XnoniX1 has successfully been saved
+[07Jan2025 19:59:01.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> duerme
+[07Jan2025 19:59:01.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[07Jan2025 19:59:13.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> muchos moods
