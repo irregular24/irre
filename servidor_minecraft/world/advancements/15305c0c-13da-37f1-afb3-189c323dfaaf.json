@@ -5750,5 +5750,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-07 04:49:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-07 04:56:03 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-01-07 04:47:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

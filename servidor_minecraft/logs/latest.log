@@ -220,3 +220,34 @@
 [07Jan2025 04:32:45.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [07Jan2025 04:32:46.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [07Jan2025 04:32:46.099] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[07Jan2025 04:41:06.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-206, y=15, z=-24} BlockPos{x=-207, y=11, z=-22}
+[07Jan2025 04:45:50.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[07Jan2025 04:45:50.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[07Jan2025 04:45:50.328] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[07Jan2025 04:45:55.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[07Jan2025 04:45:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[07Jan2025 04:45:55.624] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[07Jan2025 04:46:15.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:51581] logged in with entity id 23852 at (-241.37299268007644, 17.0, -16.574535793761772)
+[07Jan2025 04:46:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[07Jan2025 04:46:15.093] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[07Jan2025 04:46:16.085] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[07Jan2025 04:46:16.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[07Jan2025 04:47:09.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Husk
+[07Jan2025 04:47:09.725] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[07Jan2025 04:47:22.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> deja de hacer lag
+[07Jan2025 04:47:29.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[07Jan2025 04:47:29.879] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Irregular24'/24611, l='ServerLevel[world]', x=-573.13, y=-33.00, z=146.56] died: Irregular24 was slain by Irregular24
+[07Jan2025 04:47:38.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> tu barrita esta en 1
+[07Jan2025 04:48:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was killed trying to hurt Zombie
+[07Jan2025 04:48:06.700] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[07Jan2025 04:48:24.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[07Jan2025 04:49:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[07Jan2025 04:49:13.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Easy Opening]
+[07Jan2025 04:49:22.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[07Jan2025 04:50:00.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Irregular24'/25503, l='ServerLevel[world]', x=-575.70, y=-33.00, z=147.92] died: Irregular24 was slain by Irregular24
+[07Jan2025 04:54:43.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no encuentro los putas gafas de vision noctura
+[07Jan2025 04:56:03.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Magic Writing]
+[07Jan2025 04:56:13.673] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Seta33" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-55, y=67, z=-380}] too quickly!
+[07Jan2025 04:56:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[07Jan2025 05:01:44.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=12, z=-20} BlockPos{x=-98, y=12, z=-20}
+[07Jan2025 05:04:33.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
