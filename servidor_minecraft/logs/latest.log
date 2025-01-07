@@ -1078,3 +1078,25 @@
 [07Jan2025 01:37:01.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
 [07Jan2025 01:37:01.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
 [07Jan2025 01:37:01.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[07Jan2025 01:38:50.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ridick[/127.78.245.127:60717] logged in with entity id 237627 at (-639.1189860685689, 61.0, 2631.762499988079)
+[07Jan2025 01:38:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick joined the game
+[07Jan2025 01:38:50.145] [Server thread/INFO] [Jade/]: Syncing config to Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639)
+[07Jan2025 01:38:51.714] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ridick (18)
+[07Jan2025 01:38:51.716] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ridick
+[07Jan2025 01:39:06.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[07Jan2025 01:39:07.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8d717a1b-684f-37ee-a60c-99b64c7a9639
+[07Jan2025 01:39:07.699] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Ridick (8d717a1b-684f-37ee-a60c-99b64c7a9639) successfully connected to voice chat
+[07Jan2025 01:39:20.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ridick lost connection: Timed out
+[07Jan2025 01:39:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ridick left the game
+[07Jan2025 01:39:20.240] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ridick
+[07Jan2025 01:41:52.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:39261] logged in with entity id 237939 at (-492.53757889822197, 75.24918707874468, 23.774901627593607)
+[07Jan2025 01:41:52.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[07Jan2025 01:41:52.030] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[07Jan2025 01:41:53.601] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[07Jan2025 01:41:53.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[07Jan2025 01:41:59.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[07Jan2025 01:42:00.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[07Jan2025 01:42:00.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[07Jan2025 01:45:00.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Disconnected
+[07Jan2025 01:45:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[07Jan2025 01:45:00.488] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1

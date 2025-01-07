@@ -4506,15 +4506,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "has_stripped_logs": "2025-01-07 00:53:48 +0000"
+      "double_trouble_0": "2025-01-07 00:46:34 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "born_in_chaos_v1:one_explosion_is_good_two_is_better": {
     "criteria": {
-      "traded": "2025-01-07 01:20:03 +0000"
+      "one_explosion_is_good_two_is_better_0": "2025-01-07 00:50:31 +0000"
     },
     "done": true
   },
@@ -4530,21 +4530,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:one_explosion_is_good_two_is_better": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "one_explosion_is_good_two_is_better_0": "2025-01-07 00:50:31 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-01-07 00:46:34 +0000"
+      "has_stripped_logs": "2025-01-07 00:53:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-07 00:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-07 01:20:03 +0000"
     },
     "done": true
   },
