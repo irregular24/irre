@@ -4506,9 +4506,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-07 00:53:48 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-07 00:53:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-01-07 00:53:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:one_explosion_is_good_two_is_better": {
+    "criteria": {
+      "one_explosion_is_good_two_is_better_0": "2025-01-07 00:50:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-01-07 00:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 00:53:48 +0000"
     },
     "done": true
   },

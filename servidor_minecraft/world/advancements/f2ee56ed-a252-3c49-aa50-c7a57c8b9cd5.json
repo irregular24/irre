@@ -292,6 +292,7 @@
       "minecraft:creeper": "2024-12-25 23:20:28 +0000",
       "minecraft:phantom": "2025-01-05 04:18:04 +0000",
       "minecraft:witch": "2025-01-04 23:53:19 +0000",
+      "minecraft:wither_skeleton": "2025-01-07 00:51:48 +0000",
       "minecraft:husk": "2024-12-25 23:57:54 +0000",
       "minecraft:enderman": "2024-12-29 02:33:52 +0000",
       "minecraft:stray": "2025-01-02 20:02:18 +0000",
@@ -391,6 +392,7 @@
       "dried_kelp": "2024-12-29 02:06:26 +0000",
       "melon_slice": "2024-12-26 00:27:02 +0000",
       "golden_carrot": "2025-01-02 21:17:59 +0000",
+      "enchanted_golden_apple": "2025-01-07 00:54:56 +0000",
       "cooked_salmon": "2024-12-29 03:14:51 +0000",
       "carrot": "2025-01-02 20:18:59 +0000"
     },
@@ -4883,6 +4885,18 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-07 00:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-07 00:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-07 00:52:32 +0000"
     },
     "done": true
   },
