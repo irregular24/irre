@@ -25,6 +25,7 @@
       "minecraft:deep_ocean": "2024-12-29 00:16:55 +0000",
       "clifftree:temperate_beach": "2024-12-25 23:28:22 +0000",
       "clifftree:shrubland": "2024-12-26 00:00:04 +0000",
+      "minecraft:frozen_river": "2025-01-08 19:41:40 +0000",
       "minecraft:cherry_grove": "2024-12-25 22:54:04 +0000",
       "minecraft:sunflower_plains": "2024-12-25 22:53:26 +0000",
       "clifftree:cold_river": "2024-12-29 00:38:15 +0000",
@@ -41,8 +42,10 @@
       "minecraft:snowy_plains": "2024-12-29 00:44:13 +0000",
       "minecraft:stony_shore": "2025-01-07 22:51:38 +0000",
       "minecraft:dripstone_caves": "2025-01-07 04:05:16 +0000",
+      "minecraft:snowy_taiga": "2025-01-08 19:41:20 +0000",
       "clifftree:tundra": "2024-12-29 00:41:35 +0000",
       "minecraft:cold_ocean": "2024-12-29 00:18:42 +0000",
+      "clifftree:frozen_caves": "2025-01-08 19:42:34 +0000",
       "minecraft:forest": "2024-12-25 22:51:02 +0000",
       "clifftree:cold_caves": "2024-12-30 22:50:05 +0000",
       "minecraft:lush_caves": "2024-12-30 22:50:11 +0000",
@@ -6339,6 +6342,12 @@
   "tombstone:adventure/use_mercy": {
     "criteria": {
       "has_magic_scroll": "2025-01-08 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-08 19:48:11 +0000"
     },
     "done": true
   },
