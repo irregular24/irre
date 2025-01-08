@@ -4996,6 +4996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-08 19:52:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-01-08 19:54:49 +0000"
@@ -5044,9 +5050,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_clay_block": "2025-01-08 19:52:06 +0000"
+      "has_netherrack": "2025-01-08 19:55:11 +0000"
     },
     "done": true
   },

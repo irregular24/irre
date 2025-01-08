@@ -165,3 +165,16 @@
 [08Jan2025 19:40:17.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
 [08Jan2025 19:40:42.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
 [08Jan2025 19:41:40.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jan2025 19:59:20.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[08Jan2025 20:04:11.697] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Disconnected
+[08Jan2025 20:04:11.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[08Jan2025 20:04:11.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[08Jan2025 20:04:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set the time to 1000]
+[08Jan2025 20:04:59.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:56627] logged in with entity id 30018 at (-27.2400328504349, 63.04800687674255, 405.4563116567362)
+[08Jan2025 20:04:59.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[08Jan2025 20:04:59.302] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[08Jan2025 20:05:00.420] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[08Jan2025 20:05:00.421] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[08Jan2025 20:05:03.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[08Jan2025 20:05:04.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[08Jan2025 20:05:04.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
