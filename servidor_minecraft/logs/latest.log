@@ -146,3 +146,37 @@
 [08Jan2025 01:44:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Seta33's game mode to Creative Mode
 [08Jan2025 01:44:57.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Seta33's game mode to Survival Mode
 [08Jan2025 01:47:17.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[08Jan2025 01:56:31.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:44031] logged in with entity id 3643 at (129.01766037854202, 72.76636799395752, 2356.7109859693946)
+[08Jan2025 01:56:31.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[08Jan2025 01:56:32.004] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[08Jan2025 01:56:34.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[08Jan2025 01:56:34.840] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[08Jan2025 01:56:34.848] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[08Jan2025 01:56:37.945] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[08Jan2025 01:56:38.949] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[08Jan2025 01:56:38.951] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[08Jan2025 01:56:55.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5542ms or 110 ticks behind
+[08Jan2025 01:57:54.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:36105] logged in with entity id 6246 at (-439.45135651964216, 64.0, 913.345806505707)
+[08Jan2025 01:57:54.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[08Jan2025 01:57:54.491] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[08Jan2025 01:57:56.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[08Jan2025 01:57:56.377] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[08Jan2025 01:57:56.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jan2025 01:57:58.331] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[08Jan2025 01:57:59.332] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[08Jan2025 01:57:59.334] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[08Jan2025 01:58:24.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[08Jan2025 01:58:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[08Jan2025 01:58:24.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
+[08Jan2025 01:58:24.604] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 01:58:38.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Erickduran2002[/127.78.245.127:42463] logged in with entity id 7368 at (-442.34830097143356, 64.0, 908.8100318103182)
+[08Jan2025 01:58:38.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 joined the game
+[08Jan2025 01:58:38.798] [Server thread/INFO] [Jade/]: Syncing config to Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5)
+[08Jan2025 01:58:39.954] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Erickduran2002 (18)
+[08Jan2025 01:58:39.959] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Erickduran2002
+[08Jan2025 01:58:42.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[08Jan2025 01:58:43.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
+[08Jan2025 01:58:43.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[08Jan2025 01:59:08.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 lost connection: Timed out
+[08Jan2025 01:59:08.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 left the game
+[08Jan2025 01:59:08.872] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Erickduran2002
