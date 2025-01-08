@@ -2968,3 +2968,19 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [08Jan2025 20:05:04.267] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Erickduran2002: {disabled=false, disconnected=false, uuid=f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5, name=Erickduran2002, group=null}
 [08Jan2025 20:10:04.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 20:10:04.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:10:37.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Jan2025 20:10:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2025 20:10:47.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2025 20:10:47.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Server closed
+[08Jan2025 20:10:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[08Jan2025 20:10:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2025 20:10:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2025 20:10:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jan2025 20:10:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jan2025 20:10:57.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 20:10:57.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jan2025 20:11:01.617] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

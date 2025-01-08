@@ -178,3 +178,16 @@
 [08Jan2025 20:05:03.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
 [08Jan2025 20:05:04.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5
 [08Jan2025 20:05:04.048] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Erickduran2002 (f2ee56ed-a252-3c49-aa50-c7a57c8b9cd5) successfully connected to voice chat
+[08Jan2025 20:10:37.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Jan2025 20:10:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jan2025 20:10:47.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jan2025 20:10:47.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Server closed
+[08Jan2025 20:10:47.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[08Jan2025 20:10:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jan2025 20:10:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jan2025 20:10:57.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jan2025 20:10:57.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jan2025 20:10:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
