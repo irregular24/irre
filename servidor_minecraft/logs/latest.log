@@ -371,3 +371,27 @@
 [08Jan2025 02:32:11.223] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [08Jan2025 02:32:12.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [08Jan2025 02:32:12.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[08Jan2025 02:33:12.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[08Jan2025 02:33:32.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[08Jan2025 02:33:32.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[08Jan2025 02:33:32.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[08Jan2025 02:33:34.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[08Jan2025 02:33:34.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[08Jan2025 02:33:34.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[08Jan2025 02:34:12.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:39585] logged in with entity id 25308 at (58.992383398523074, 188.79952100209724, -61.82087270947616)
+[08Jan2025 02:34:12.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[08Jan2025 02:34:12.826] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[08Jan2025 02:34:14.648] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[08Jan2025 02:34:14.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[08Jan2025 02:34:21.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Siamese Skeleton
+[08Jan2025 02:34:21.119] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[08Jan2025 02:34:24.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[08Jan2025 02:34:25.534] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[08Jan2025 02:34:25.537] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[08Jan2025 02:35:39.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=140, y=213, z=-80}
+[08Jan2025 02:40:16.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> OE
+[08Jan2025 02:40:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> q
+[08Jan2025 02:40:35.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> porque los piglins no son atraidos por los huevos?
+[08Jan2025 02:40:43.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> esta en hard no?
+[08Jan2025 02:40:44.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nose :v
+[08Jan2025 02:40:48.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> si
